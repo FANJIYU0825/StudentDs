@@ -27,7 +27,7 @@ All lambda functions, intended to be run in the AWS environment, live in the
 `src/functions` folder. Each function is a subfolder. In each folder we have:
 - `main.py`: defines the code to be executed. Must contain a 
   `handle(event, context)` function at module level.
-- `__init__.py`: needed since we are using Python 2.7
+- `__init__.py`: needed since we are using Python go to 3
 
 Next I list each function and briefly describe it. Some functions are
 grouped together here. Some are redundant and are noted here. For details see
