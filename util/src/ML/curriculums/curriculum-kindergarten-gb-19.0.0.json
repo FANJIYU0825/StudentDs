@@ -1,0 +1,7217 @@
+{
+  "name": "kindergarten",
+  "title": "Kindergarten Level",
+  "version": "19.0.0",
+  "totalUnits": 9,
+  "modulesPerUnit": 12,
+  "date": "2019-01-25 22:31",
+  "units": [
+    {
+      "unit": 1,
+      "icon": "adjectives",
+      "title": "Adjectives",
+      "unitTitle": "Unit {unitNumber}: {unitName}",
+      "moduleTitle": "Lesson {moduleName}",
+      "modules": [
+        {
+          "index": 1,
+          "focus": "Spotlight",
+          "lesson": "1",
+          "icon": "k_u1_m1",
+          "title": "Feelings",
+          "activities": [
+            2,
+            1,
+            4,
+            3
+          ],
+          "content": "spots.feelings.ABCDEF",
+          "contentItems": {
+            "spot_happy_2": "happy",
+            "spot_sad": "sad",
+            "spot_bored": "bored",
+            "spot_excited": "excited",
+            "spot_angry": "angry",
+            "spot_scared": "scared"
+          }
+        },
+        {
+          "index": 2,
+          "focus": "Spotlight",
+          "lesson": "2",
+          "icon": "k_u1_m2",
+          "title": "I'm Sorry",
+          "activities": [
+            2,
+            5,
+            6,
+            1,
+            3
+          ],
+          "content": "spots.feelings.ABCDEF",
+          "contentItems": {
+            "spot_happy_2": "happy",
+            "spot_sad": "sad",
+            "spot_bored": "bored",
+            "spot_excited": "excited",
+            "spot_angry": "angry",
+            "spot_scared": "scared"
+          }
+        },
+        {
+          "index": 3,
+          "focus": "Spotlight",
+          "lesson": "3",
+          "icon": "k_u1_m3",
+          "title": "You Look Sad",
+          "activities": [
+            2,
+            7,
+            5,
+            3
+          ],
+          "content": "spots.feelings.ABCDEF",
+          "contentItems": {
+            "spot_happy_2": "happy",
+            "spot_sad": "sad",
+            "spot_bored": "bored",
+            "spot_excited": "excited",
+            "spot_angry": "angry",
+            "spot_scared": "scared"
+          }
+        },
+        {
+          "index": 4,
+          "focus": "Spotlight",
+          "lesson": "4",
+          "icon": "k_u1_m4",
+          "title": "Sound of Bl",
+          "activities": [
+            9,
+            8,
+            7,
+            10
+          ],
+          "content": "phonics.K1.ABCD",
+          "contentItems": {
+            "phonics_black": "black",
+            "phonics_blue": "blue",
+            "phonics_double": "double",
+            "phonics_table": "table"
+          }
+        },
+        {
+          "index": 5,
+          "focus": "Spotlight",
+          "lesson": "5",
+          "icon": "k_u1_m5",
+          "title": "Find Bl",
+          "activities": [
+            12,
+            11,
+            8,
+            13
+          ],
+          "content": "phonemes.K1.AB",
+          "contentItems": {
+            "phonemes_bl": "bl",
+            "phonemes_ble": "bl"
+          }
+        },
+        {
+          "index": 6,
+          "focus": "Spotlight",
+          "lesson": "6",
+          "icon": "k_u1_m6",
+          "title": "Sight Words",
+          "activities": [
+            15,
+            14,
+            11,
+            16
+          ],
+          "content": "sights.K1.ABCD",
+          "contentItems": {
+            "sight_I": "I",
+            "sight_am": "am",
+            "sight_hi": "hi",
+            "sight_hello": "hello"
+          }
+        },
+        {
+          "index": 7,
+          "focus": "Theme",
+          "lesson": "1",
+          "icon": "k_u1_m7",
+          "title": "Adjectives ",
+          "activities": [
+            18,
+            17,
+            14,
+            19
+          ],
+          "content": "adjectives.core.ABCDEF",
+          "contentItems": {
+            "big": "big",
+            "small": "small",
+            "long": "long",
+            "short": "short",
+            "fast": "fast",
+            "slow": "slow"
+          }
+        },
+        {
+          "index": 8,
+          "focus": "Theme",
+          "lesson": "2",
+          "icon": "k_u1_m8",
+          "title": "It is Longer",
+          "activities": [
+            18,
+            20,
+            22,
+            17,
+            21
+          ],
+          "content": "adjectives.core.ABCDEF",
+          "contentItems": {
+            "big": "big",
+            "small": "small",
+            "long": "long",
+            "short": "short",
+            "fast": "fast",
+            "slow": "slow"
+          }
+        },
+        {
+          "index": 9,
+          "focus": "Theme",
+          "lesson": "3",
+          "icon": "k_u1_m9",
+          "title": "This Snake Is Long",
+          "activities": [
+            18,
+            23,
+            20,
+            24
+          ],
+          "content": "adjectives.core.ABCDEF",
+          "contentItems": {
+            "big": "big",
+            "small": "small",
+            "long": "long",
+            "short": "short",
+            "fast": "fast",
+            "slow": "slow"
+          }
+        },
+        {
+          "index": 10,
+          "focus": "Theme",
+          "lesson": "4",
+          "icon": "k_u1_m10",
+          "title": "Sound of Pl",
+          "activities": [
+            26,
+            25,
+            28,
+            23,
+            27
+          ],
+          "content": "phonics.K1.EFGH",
+          "contentItems": {
+            "phonics_plane": "plane",
+            "phonics_play": "play",
+            "phonics_purple": "purple",
+            "phonics_apple": "apple"
+          }
+        },
+        {
+          "index": 11,
+          "focus": "Theme",
+          "lesson": "5",
+          "icon": "k_u1_m11",
+          "title": "Word Wall",
+          "activities": [
+            30,
+            29,
+            32,
+            25,
+            31
+          ],
+          "content": "sights.K1.EFGH",
+          "contentItems": {
+            "sight_it": "it",
+            "sight_is": "is",
+            "sight_yes": "yes",
+            "sight_no": "no"
+          }
+        },
+        {
+          "index": 12,
+          "focus": "Theme",
+          "lesson": "6",
+          "icon": "k_u1_m12",
+          "title": "Big Speller",
+          "activities": [
+            18,
+            33,
+            29,
+            21
+          ],
+          "content": "adjectives.core.ABCDEF",
+          "contentItems": {
+            "big": "big",
+            "small": "small",
+            "long": "long",
+            "short": "short",
+            "fast": "fast",
+            "slow": "slow"
+          }
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "icon": "animals",
+      "title": "Animals",
+      "unitTitle": "Unit {unitNumber}: {unitName}",
+      "moduleTitle": "Lesson {moduleName}",
+      "modules": [
+        {
+          "index": 1,
+          "focus": "Spotlight",
+          "lesson": "1",
+          "icon": "k_u2_m1",
+          "title": "Prepositions",
+          "activities": [
+            35,
+            34,
+            33,
+            36
+          ],
+          "content": "spots.prepositions.ABD",
+          "contentItems": {
+            "spot_in": "in",
+            "spot_on": "on",
+            "spot_under": "under"
+          }
+        },
+        {
+          "index": 2,
+          "focus": "Spotlight",
+          "lesson": "2",
+          "icon": "k_u2_m2",
+          "title": "Behind the Book",
+          "activities": [
+            35,
+            37,
+            34,
+            38
+          ],
+          "content": "spots.prepositions.ABD",
+          "contentItems": {
+            "spot_in": "in",
+            "spot_on": "on",
+            "spot_under": "under"
+          }
+        },
+        {
+          "index": 3,
+          "focus": "Spotlight",
+          "lesson": "3",
+          "icon": "k_u2_m3",
+          "title": "In, On, Under",
+          "activities": [
+            40,
+            39,
+            37,
+            41
+          ],
+          "content": "spots.prepositions.ABCDEF",
+          "contentItems": {
+            "spot_in": "in",
+            "spot_on": "on",
+            "spot_in_front_of": "in front of",
+            "spot_under": "under",
+            "spot_behind": "behind",
+            "spot_between": "between"
+          }
+        },
+        {
+          "index": 4,
+          "focus": "Spotlight",
+          "lesson": "4",
+          "icon": "k_u2_m4",
+          "title": "Sound of Dr",
+          "activities": [
+            43,
+            42,
+            39,
+            44
+          ],
+          "content": "phonics.K2.AE",
+          "contentItems": {
+            "phonics_draw": "draw",
+            "phonics_train": "train"
+          }
+        },
+        {
+          "index": 5,
+          "focus": "Spotlight",
+          "lesson": "5",
+          "icon": "k_u2_m5",
+          "title": "Find Dr",
+          "activities": [
+            46,
+            45,
+            48,
+            42,
+            47
+          ],
+          "content": "phonemes.K2.AB",
+          "contentItems": {
+            "phonemes_dr": "dr",
+            "phonemes_tr": "tr"
+          }
+        },
+        {
+          "index": 6,
+          "focus": "Spotlight",
+          "lesson": "6",
+          "icon": "k_u2_m6",
+          "title": "Word Blast",
+          "activities": [
+            50,
+            49,
+            45,
+            51
+          ],
+          "content": "sights.K2.ABCD",
+          "contentItems": {
+            "sight_how": "how",
+            "sight_be": "be",
+            "sight_fine": "fine",
+            "sight_thank": "thank"
+          }
+        },
+        {
+          "index": 7,
+          "focus": "Theme",
+          "lesson": "1",
+          "icon": "k_u2_m7",
+          "title": "Lions and Bears",
+          "activities": [
+            53,
+            52,
+            55,
+            49,
+            54
+          ],
+          "content": "animals.core.CDEFI",
+          "contentItems": {
+            "monkey": "monkey",
+            "lion": "lion",
+            "tiger": "tiger",
+            "bear": "bear",
+            "pig": "pig"
+          }
+        },
+        {
+          "index": 8,
+          "focus": "Theme",
+          "lesson": "2",
+          "icon": "k_u2_m8",
+          "title": "I Like the Bear",
+          "activities": [
+            53,
+            56,
+            58,
+            52,
+            57
+          ],
+          "content": "animals.core.CDEFI",
+          "contentItems": {
+            "monkey": "monkey",
+            "lion": "lion",
+            "tiger": "tiger",
+            "bear": "bear",
+            "pig": "pig"
+          }
+        },
+        {
+          "index": 9,
+          "focus": "Theme",
+          "lesson": "3",
+          "icon": "k_u2_m9",
+          "title": "Animals Up There",
+          "activities": [
+            60,
+            59,
+            56,
+            61
+          ],
+          "content": "animals.core.ABCDEFGHIJ",
+          "contentItems": {
+            "cat": "cat",
+            "dog": "dog",
+            "monkey": "monkey",
+            "lion": "lion",
+            "tiger": "tiger",
+            "bear": "bear",
+            "rabbit": "rabbit",
+            "mouse": "mouse",
+            "pig": "pig",
+            "bird": "bird"
+          }
+        },
+        {
+          "index": 10,
+          "focus": "Theme",
+          "lesson": "4",
+          "icon": "k_u2_m10",
+          "title": "Sound of Tr",
+          "activities": [
+            63,
+            62,
+            65,
+            59,
+            64
+          ],
+          "content": "phonics.K2.BF",
+          "contentItems": {
+            "phonics_dress": "dress",
+            "phonics_tree": "tree"
+          }
+        },
+        {
+          "index": 11,
+          "focus": "Theme",
+          "lesson": "5",
+          "icon": "k_u2_m11",
+          "title": "Forest Animals",
+          "activities": [
+            60,
+            66,
+            62,
+            67
+          ],
+          "content": "animals.core.ABCDEFGHIJ",
+          "contentItems": {
+            "cat": "cat",
+            "dog": "dog",
+            "monkey": "monkey",
+            "lion": "lion",
+            "tiger": "tiger",
+            "bear": "bear",
+            "rabbit": "rabbit",
+            "mouse": "mouse",
+            "pig": "pig",
+            "bird": "bird"
+          }
+        },
+        {
+          "index": 12,
+          "focus": "Theme",
+          "lesson": "6",
+          "icon": "k_u2_m12",
+          "title": "Word Wall",
+          "activities": [
+            69,
+            68,
+            71,
+            66,
+            70
+          ],
+          "content": "sights.K2.EFGH",
+          "contentItems": {
+            "sight_a": "a",
+            "sight_the": "the",
+            "sight_and": "and",
+            "sight_of": "of"
+          }
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "icon": "house",
+      "title": "The House",
+      "unitTitle": "Unit {unitNumber}: {unitName}",
+      "moduleTitle": "Lesson {moduleName}",
+      "modules": [
+        {
+          "index": 1,
+          "focus": "Spotlight",
+          "lesson": "1",
+          "icon": "k_u3_m1",
+          "title": "My Home",
+          "activities": [
+            73,
+            72,
+            68,
+            74
+          ],
+          "content": "house.furniture.ABC",
+          "contentItems": {
+            "bed": "bed",
+            "chair": "chair",
+            "table": "table"
+          }
+        },
+        {
+          "index": 2,
+          "focus": "Spotlight",
+          "lesson": "2",
+          "icon": "k_u3_m2",
+          "title": "I Live in a Flat",
+          "activities": [
+            76,
+            75,
+            78,
+            72,
+            77
+          ],
+          "content": "spots.house.ABCDEF",
+          "contentItems": {
+            "spot_house": "house",
+            "spot_flat": "flat",
+            "spot_room": "room",
+            "spot_cupboard": "cupboard",
+            "spot_painting": "painting",
+            "spot_mirror": "mirror"
+          }
+        },
+        {
+          "index": 3,
+          "focus": "Spotlight",
+          "lesson": "3",
+          "icon": "k_u3_m3",
+          "title": "Painting In My Room",
+          "activities": [
+            76,
+            79,
+            75,
+            80
+          ],
+          "content": "spots.house.ABCDEF",
+          "contentItems": {
+            "spot_house": "house",
+            "spot_flat": "flat",
+            "spot_room": "room",
+            "spot_cupboard": "cupboard",
+            "spot_painting": "painting",
+            "spot_mirror": "mirror"
+          }
+        },
+        {
+          "index": 4,
+          "focus": "Spotlight",
+          "lesson": "4",
+          "icon": "k_u3_m4",
+          "title": "Sound of Sp",
+          "activities": [
+            82,
+            81,
+            79,
+            83
+          ],
+          "content": "phonics.K3.AE",
+          "contentItems": {
+            "phonics_spell": "spell",
+            "phonics_snake": "snake"
+          }
+        },
+        {
+          "index": 5,
+          "focus": "Spotlight",
+          "lesson": "5",
+          "icon": "k_u3_m5",
+          "title": "Find Sp",
+          "activities": [
+            85,
+            84,
+            87,
+            81,
+            86
+          ],
+          "content": "phonemes.K3.AB",
+          "contentItems": {
+            "phonemes_sp": "sp",
+            "phonemes_sn": "sn"
+          }
+        },
+        {
+          "index": 6,
+          "focus": "Spotlight",
+          "lesson": "6",
+          "icon": "k_u3_m6",
+          "title": "Word Blast",
+          "activities": [
+            89,
+            88,
+            84,
+            90
+          ],
+          "content": "sights.K3.ABCD",
+          "contentItems": {
+            "sight_she": "she",
+            "sight_he": "he",
+            "sight_over": "over",
+            "sight_for": "for"
+          }
+        },
+        {
+          "index": 7,
+          "focus": "Theme",
+          "lesson": "1",
+          "icon": "k_u3_m7",
+          "title": "Chair and Table",
+          "activities": [
+            92,
+            91,
+            88,
+            93
+          ],
+          "content": "house.furniture.ABCDEF",
+          "contentItems": {
+            "bed": "bed",
+            "chair": "chair",
+            "table": "table",
+            "sofa": "sofa",
+            "bookcase": "bookcase",
+            "lamp": "lamp"
+          }
+        },
+        {
+          "index": 8,
+          "focus": "Theme",
+          "lesson": "2",
+          "icon": "k_u3_m8",
+          "title": "My Sofa is Green",
+          "activities": [
+            92,
+            94,
+            96,
+            91,
+            95
+          ],
+          "content": "house.furniture.ABCDEF",
+          "contentItems": {
+            "bed": "bed",
+            "chair": "chair",
+            "table": "table",
+            "sofa": "sofa",
+            "bookcase": "bookcase",
+            "lamp": "lamp"
+          }
+        },
+        {
+          "index": 9,
+          "focus": "Theme",
+          "lesson": "3",
+          "icon": "k_u3_m9",
+          "title": "My Amazing House",
+          "activities": [
+            92,
+            97,
+            94,
+            98
+          ],
+          "content": "house.furniture.ABCDEF",
+          "contentItems": {
+            "bed": "bed",
+            "chair": "chair",
+            "table": "table",
+            "sofa": "sofa",
+            "bookcase": "bookcase",
+            "lamp": "lamp"
+          }
+        },
+        {
+          "index": 10,
+          "focus": "Theme",
+          "lesson": "4",
+          "icon": "k_u3_m10",
+          "title": "Sound of Sn",
+          "activities": [
+            100,
+            99,
+            102,
+            97,
+            101
+          ],
+          "content": "phonics.K3.BF",
+          "contentItems": {
+            "phonics_spider": "spider",
+            "phonics_snow": "snow"
+          }
+        },
+        {
+          "index": 11,
+          "focus": "Theme",
+          "lesson": "5",
+          "icon": "k_u3_m11",
+          "title": "At Home",
+          "activities": [
+            92,
+            103,
+            99,
+            104
+          ],
+          "content": "house.furniture.ABCDEF",
+          "contentItems": {
+            "bed": "bed",
+            "chair": "chair",
+            "table": "table",
+            "sofa": "sofa",
+            "bookcase": "bookcase",
+            "lamp": "lamp"
+          }
+        },
+        {
+          "index": 12,
+          "focus": "Theme",
+          "lesson": "6",
+          "icon": "k_u3_m12",
+          "title": "Word Wall",
+          "activities": [
+            106,
+            105,
+            108,
+            103,
+            107
+          ],
+          "content": "sights.K3.EFGH",
+          "contentItems": {
+            "sight_on": "on",
+            "sight_in": "in",
+            "sight_at": "at",
+            "sight_to": "to"
+          }
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "icon": "food",
+      "title": "Food",
+      "unitTitle": "Unit {unitNumber}: {unitName}",
+      "moduleTitle": "Lesson {moduleName}",
+      "modules": [
+        {
+          "index": 1,
+          "focus": "Spotlight",
+          "lesson": "1",
+          "icon": "k_u4_m1",
+          "title": "Meals",
+          "activities": [
+            110,
+            109,
+            105,
+            111
+          ],
+          "content": "spots.meals.ABCDEF",
+          "contentItems": {
+            "spot_breakfast": "breakfast",
+            "spot_lunch": "lunch",
+            "spot_dinner": "dinner",
+            "spot_morning": "morning",
+            "spot_afternoon": "afternoon",
+            "spot_evening": "evening"
+          }
+        },
+        {
+          "index": 2,
+          "focus": "Spotlight",
+          "lesson": "2",
+          "icon": "k_u4_m2",
+          "title": "Good Morning, Tony",
+          "activities": [
+            110,
+            112,
+            114,
+            109,
+            113
+          ],
+          "content": "spots.meals.ABCDEF",
+          "contentItems": {
+            "spot_breakfast": "breakfast",
+            "spot_lunch": "lunch",
+            "spot_dinner": "dinner",
+            "spot_morning": "morning",
+            "spot_afternoon": "afternoon",
+            "spot_evening": "evening"
+          }
+        },
+        {
+          "index": 3,
+          "focus": "Spotlight",
+          "lesson": "3",
+          "icon": "k_u4_m3",
+          "title": "Breakfast Song",
+          "activities": [
+            110,
+            115,
+            112,
+            116
+          ],
+          "content": "spots.meals.ABCDEF",
+          "contentItems": {
+            "spot_breakfast": "breakfast",
+            "spot_lunch": "lunch",
+            "spot_dinner": "dinner",
+            "spot_morning": "morning",
+            "spot_afternoon": "afternoon",
+            "spot_evening": "evening"
+          }
+        },
+        {
+          "index": 4,
+          "focus": "Spotlight",
+          "lesson": "4",
+          "icon": "k_u4_m4",
+          "title": "Sound of Fl",
+          "activities": [
+            118,
+            117,
+            120,
+            115,
+            119
+          ],
+          "content": "phonics.K4.AE",
+          "contentItems": {
+            "phonics_flat": "flat",
+            "phonics_sleep": "sleep"
+          }
+        },
+        {
+          "index": 5,
+          "focus": "Spotlight",
+          "lesson": "5",
+          "icon": "k_u4_m5",
+          "title": "Voice Choice",
+          "activities": [
+            110,
+            121,
+            117,
+            122
+          ],
+          "content": "spots.meals.ABCDEF",
+          "contentItems": {
+            "spot_breakfast": "breakfast",
+            "spot_lunch": "lunch",
+            "spot_dinner": "dinner",
+            "spot_morning": "morning",
+            "spot_afternoon": "afternoon",
+            "spot_evening": "evening"
+          }
+        },
+        {
+          "index": 6,
+          "focus": "Spotlight",
+          "lesson": "6",
+          "icon": "k_u4_m6",
+          "title": "Word Blast",
+          "activities": [
+            124,
+            123,
+            121,
+            125
+          ],
+          "content": "sights.K4.ABCD",
+          "contentItems": {
+            "sight_this": "this",
+            "sight_that": "that",
+            "sight_these": "these",
+            "sight_those": "those"
+          }
+        },
+        {
+          "index": 7,
+          "focus": "Theme",
+          "lesson": "1",
+          "icon": "k_u4_m7",
+          "title": "Vegetables",
+          "activities": [
+            127,
+            126,
+            123,
+            128
+          ],
+          "content": "vegetables.cylets.ABCDEF",
+          "contentItems": {
+            "carrot": "carrot",
+            "tomato": "tomato",
+            "potato": "potato",
+            "onion": "onion",
+            "pea": "pea",
+            "bean": "bean"
+          }
+        },
+        {
+          "index": 8,
+          "focus": "Theme",
+          "lesson": "2",
+          "icon": "k_u4_m8",
+          "title": "I Need Carrots",
+          "activities": [
+            127,
+            129,
+            131,
+            126,
+            130
+          ],
+          "content": "vegetables.cylets.ABCDEF",
+          "contentItems": {
+            "carrot": "carrot",
+            "tomato": "tomato",
+            "potato": "potato",
+            "onion": "onion",
+            "pea": "pea",
+            "bean": "bean"
+          }
+        },
+        {
+          "index": 9,
+          "focus": "Theme",
+          "lesson": "3",
+          "icon": "k_u4_m9",
+          "title": "Vegetable Soups",
+          "activities": [
+            127,
+            132,
+            129,
+            133
+          ],
+          "content": "vegetables.cylets.ABCDEF",
+          "contentItems": {
+            "carrot": "carrot",
+            "tomato": "tomato",
+            "potato": "potato",
+            "onion": "onion",
+            "pea": "pea",
+            "bean": "bean"
+          }
+        },
+        {
+          "index": 10,
+          "focus": "Theme",
+          "lesson": "4",
+          "icon": "k_u4_m10",
+          "title": "Sound of Sl",
+          "activities": [
+            135,
+            134,
+            137,
+            132,
+            136
+          ],
+          "content": "phonics.K4.BF",
+          "contentItems": {
+            "phonics_floor": "floor",
+            "phonics_slow": "slow"
+          }
+        },
+        {
+          "index": 11,
+          "focus": "Theme",
+          "lesson": "5",
+          "icon": "k_u4_m11",
+          "title": "Vegetable Speller",
+          "activities": [
+            127,
+            138,
+            134,
+            139
+          ],
+          "content": "vegetables.cylets.ABCDEF",
+          "contentItems": {
+            "carrot": "carrot",
+            "tomato": "tomato",
+            "potato": "potato",
+            "onion": "onion",
+            "pea": "pea",
+            "bean": "bean"
+          }
+        },
+        {
+          "index": 12,
+          "focus": "Theme",
+          "lesson": "6",
+          "icon": "k_u4_m12",
+          "title": "Word Wall",
+          "activities": [
+            141,
+            140,
+            138,
+            142
+          ],
+          "content": "sights.K4.EFGH",
+          "contentItems": {
+            "sight_an": "an",
+            "sight_not": "not",
+            "sight_we": "we",
+            "sight_they": "they"
+          }
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "icon": "body",
+      "title": "Body",
+      "unitTitle": "Unit {unitNumber}: {unitName}",
+      "moduleTitle": "Lesson {moduleName}",
+      "modules": [
+        {
+          "index": 1,
+          "focus": "Spotlight",
+          "lesson": "1",
+          "icon": "k_u5_m1",
+          "title": "Sports",
+          "activities": [
+            144,
+            143,
+            140,
+            145
+          ],
+          "content": "spots.sports.ABCDEF",
+          "contentItems": {
+            "spot_football": "football",
+            "spot_baseball": "baseball",
+            "spot_hockey": "hockey",
+            "spot_tennis": "tennis",
+            "spot_table_tennis": "table tennis",
+            "spot_badminton": "badminton"
+          }
+        },
+        {
+          "index": 2,
+          "focus": "Spotlight",
+          "lesson": "2",
+          "icon": "k_u5_m2",
+          "title": "Play Football",
+          "activities": [
+            144,
+            146,
+            148,
+            143,
+            147
+          ],
+          "content": "spots.sports.ABCDEF",
+          "contentItems": {
+            "spot_football": "football",
+            "spot_baseball": "baseball",
+            "spot_hockey": "hockey",
+            "spot_tennis": "tennis",
+            "spot_table_tennis": "table tennis",
+            "spot_badminton": "badminton"
+          }
+        },
+        {
+          "index": 3,
+          "focus": "Spotlight",
+          "lesson": "3",
+          "icon": "k_u5_m3",
+          "title": "Sports Song",
+          "activities": [
+            144,
+            149,
+            146,
+            150
+          ],
+          "content": "spots.sports.ABCDEF",
+          "contentItems": {
+            "spot_football": "football",
+            "spot_baseball": "baseball",
+            "spot_hockey": "hockey",
+            "spot_tennis": "tennis",
+            "spot_table_tennis": "table tennis",
+            "spot_badminton": "badminton"
+          }
+        },
+        {
+          "index": 4,
+          "focus": "Spotlight",
+          "lesson": "4",
+          "icon": "k_u5_m4",
+          "title": "Sound of Cl",
+          "activities": [
+            152,
+            151,
+            149,
+            153
+          ],
+          "content": "phonics.K5.AE",
+          "contentItems": {
+            "phonics_class_k": "class",
+            "phonics_glasses": "glasses"
+          }
+        },
+        {
+          "index": 5,
+          "focus": "Spotlight",
+          "lesson": "5",
+          "icon": "k_u5_m5",
+          "title": "Sports Speller",
+          "activities": [
+            155,
+            154,
+            157,
+            151,
+            156
+          ],
+          "content": "phonemes.K5.AB",
+          "contentItems": {
+            "phonemes_cl": "cl",
+            "phonemes_gl": "gl"
+          }
+        },
+        {
+          "index": 6,
+          "focus": "Spotlight",
+          "lesson": "6",
+          "icon": "k_u5_m6",
+          "title": "Word Blast",
+          "activities": [
+            159,
+            158,
+            154,
+            160
+          ],
+          "content": "sights.K5.ABCD",
+          "contentItems": {
+            "sight_here": "here",
+            "sight_there": "there",
+            "sight_one": "one",
+            "sight_two": "two"
+          }
+        },
+        {
+          "index": 7,
+          "focus": "Theme",
+          "lesson": "1",
+          "icon": "k_u5_m7",
+          "title": "The Face",
+          "activities": [
+            162,
+            161,
+            164,
+            158,
+            163
+          ],
+          "content": "body.core.ABCDEF",
+          "contentItems": {
+            "head": "head",
+            "hair": "hair",
+            "nose": "nose",
+            "eye": "eye",
+            "ear": "ear",
+            "mouth": "mouth"
+          }
+        },
+        {
+          "index": 8,
+          "focus": "Theme",
+          "lesson": "2",
+          "icon": "k_u5_m8",
+          "title": "It Has a Mouth",
+          "activities": [
+            162,
+            165,
+            167,
+            161,
+            166
+          ],
+          "content": "body.core.ABCDEF",
+          "contentItems": {
+            "head": "head",
+            "hair": "hair",
+            "nose": "nose",
+            "eye": "eye",
+            "ear": "ear",
+            "mouth": "mouth"
+          }
+        },
+        {
+          "index": 9,
+          "focus": "Theme",
+          "lesson": "3",
+          "icon": "k_u5_m9",
+          "title": "One Eye, Two Eyes",
+          "activities": [
+            162,
+            168,
+            165,
+            169
+          ],
+          "content": "body.core.ABCDEF",
+          "contentItems": {
+            "head": "head",
+            "hair": "hair",
+            "nose": "nose",
+            "eye": "eye",
+            "ear": "ear",
+            "mouth": "mouth"
+          }
+        },
+        {
+          "index": 10,
+          "focus": "Theme",
+          "lesson": "4",
+          "icon": "k_u5_m10",
+          "title": "Sound of Gl",
+          "activities": [
+            171,
+            170,
+            173,
+            168,
+            172
+          ],
+          "content": "phonics.K5.BF",
+          "contentItems": {
+            "phonics_clean": "clean",
+            "phonics_ugly": "ugly"
+          }
+        },
+        {
+          "index": 11,
+          "focus": "Theme",
+          "lesson": "5",
+          "icon": "k_u5_m11",
+          "title": "Her Face",
+          "activities": [
+            162,
+            174,
+            170,
+            175
+          ],
+          "content": "body.core.ABCDEF",
+          "contentItems": {
+            "head": "head",
+            "hair": "hair",
+            "nose": "nose",
+            "eye": "eye",
+            "ear": "ear",
+            "mouth": "mouth"
+          }
+        },
+        {
+          "index": 12,
+          "focus": "Theme",
+          "lesson": "6",
+          "icon": "k_u5_m12",
+          "title": "Word Wall",
+          "activities": [
+            177,
+            176,
+            174,
+            178
+          ],
+          "content": "sights.K5.EFGH",
+          "contentItems": {
+            "sight_three": "three",
+            "sight_four": "four",
+            "sight_five": "five",
+            "sight_six": "six"
+          }
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "icon": "vehicles",
+      "title": "Vehicles",
+      "unitTitle": "Unit {unitNumber}: {unitName}",
+      "moduleTitle": "Lesson {moduleName}",
+      "modules": [
+        {
+          "index": 1,
+          "focus": "Spotlight",
+          "lesson": "1",
+          "icon": "k_u6_m1",
+          "title": "My Town",
+          "activities": [
+            180,
+            179,
+            176,
+            181
+          ],
+          "content": "spots.places.ABCDEF",
+          "contentItems": {
+            "spot_school": "school",
+            "spot_park": "park",
+            "spot_playground": "playground",
+            "spot_restaurant": "restaurant",
+            "spot_shop": "shop",
+            "spot_street": "street"
+          }
+        },
+        {
+          "index": 2,
+          "focus": "Spotlight",
+          "lesson": "2",
+          "icon": "k_u6_m2",
+          "title": "Across the Street",
+          "activities": [
+            180,
+            182,
+            184,
+            179,
+            183
+          ],
+          "content": "spots.places.ABCDEF",
+          "contentItems": {
+            "spot_school": "school",
+            "spot_park": "park",
+            "spot_playground": "playground",
+            "spot_restaurant": "restaurant",
+            "spot_shop": "shop",
+            "spot_street": "street"
+          }
+        },
+        {
+          "index": 3,
+          "focus": "Spotlight",
+          "lesson": "3",
+          "icon": "k_u6_m3",
+          "title": "I Like to Walk",
+          "activities": [
+            180,
+            185,
+            182,
+            186
+          ],
+          "content": "spots.places.ABCDEF",
+          "contentItems": {
+            "spot_school": "school",
+            "spot_park": "park",
+            "spot_playground": "playground",
+            "spot_restaurant": "restaurant",
+            "spot_shop": "shop",
+            "spot_street": "street"
+          }
+        },
+        {
+          "index": 4,
+          "focus": "Spotlight",
+          "lesson": "4",
+          "icon": "k_u6_m4",
+          "title": "Sound of Sk",
+          "activities": [
+            188,
+            187,
+            185,
+            189
+          ],
+          "content": "phonics.K6.ABEF",
+          "contentItems": {
+            "phonics_skirt": "skirt",
+            "phonics_sky": "sky",
+            "phonics_brown": "brown",
+            "phonics_bread": "bread"
+          }
+        },
+        {
+          "index": 5,
+          "focus": "Spotlight",
+          "lesson": "5",
+          "icon": "k_u6_m5",
+          "title": "Locations",
+          "activities": [
+            191,
+            190,
+            193,
+            187,
+            192
+          ],
+          "content": "phonemes.K6.AB",
+          "contentItems": {
+            "phonemes_sk": "sk",
+            "phonemes_sk_end": "sk"
+          }
+        },
+        {
+          "index": 6,
+          "focus": "Spotlight",
+          "lesson": "6",
+          "icon": "k_u6_m6",
+          "title": "Word Blast",
+          "activities": [
+            195,
+            194,
+            190,
+            196
+          ],
+          "content": "sights.K6.ABCD",
+          "contentItems": {
+            "sight_make": "make",
+            "sight_from": "from",
+            "sight_get": "get",
+            "sight_come": "come"
+          }
+        },
+        {
+          "index": 7,
+          "focus": "Theme",
+          "lesson": "1",
+          "icon": "k_u6_m7",
+          "title": "Transportation",
+          "activities": [
+            198,
+            197,
+            194,
+            199
+          ],
+          "content": "vehicles.core.ABCFG",
+          "contentItems": {
+            "car": "car",
+            "bus": "bus",
+            "truck": "truck",
+            "boat": "boat",
+            "train": "train"
+          }
+        },
+        {
+          "index": 8,
+          "focus": "Theme",
+          "lesson": "2",
+          "icon": "k_u6_m8",
+          "title": "Which is Bigger?",
+          "activities": [
+            198,
+            200,
+            202,
+            197,
+            201
+          ],
+          "content": "vehicles.core.ABCFG",
+          "contentItems": {
+            "car": "car",
+            "bus": "bus",
+            "truck": "truck",
+            "boat": "boat",
+            "train": "train"
+          }
+        },
+        {
+          "index": 9,
+          "focus": "Theme",
+          "lesson": "3",
+          "icon": "k_u6_m9",
+          "title": "Grandma's House",
+          "activities": [
+            198,
+            203,
+            200,
+            204
+          ],
+          "content": "vehicles.core.ABCFG",
+          "contentItems": {
+            "car": "car",
+            "bus": "bus",
+            "truck": "truck",
+            "boat": "boat",
+            "train": "train"
+          }
+        },
+        {
+          "index": 10,
+          "focus": "Theme",
+          "lesson": "4",
+          "icon": "k_u6_m10",
+          "title": "Sound of Br",
+          "activities": [
+            206,
+            205,
+            208,
+            203,
+            207
+          ],
+          "content": "phonics.K6.EFCD",
+          "contentItems": {
+            "phonics_brown": "brown",
+            "phonics_bread": "bread",
+            "phonics_ask": "ask",
+            "phonics_desk": "desk"
+          }
+        },
+        {
+          "index": 11,
+          "focus": "Theme",
+          "lesson": "5",
+          "icon": "k_u6_m11",
+          "title": "Car Talk",
+          "activities": [
+            198,
+            209,
+            211,
+            205,
+            210
+          ],
+          "content": "vehicles.core.ABCFG",
+          "contentItems": {
+            "car": "car",
+            "bus": "bus",
+            "truck": "truck",
+            "boat": "boat",
+            "train": "train"
+          }
+        },
+        {
+          "index": 12,
+          "focus": "Theme",
+          "lesson": "6",
+          "icon": "k_u6_m12",
+          "title": "Word Wall",
+          "activities": [
+            213,
+            212,
+            209,
+            214
+          ],
+          "content": "sights.K6.EFGH",
+          "contentItems": {
+            "sight_many": "many",
+            "sight_all": "all",
+            "sight_big": "big",
+            "sight_small": "small"
+          }
+        }
+      ]
+    },
+    {
+      "unit": 7,
+      "icon": "adjectives",
+      "title": "Describing",
+      "unitTitle": "Unit {unitNumber}: {unitName}",
+      "moduleTitle": "Lesson {moduleName}",
+      "modules": [
+        {
+          "index": 1,
+          "focus": "Spotlight",
+          "lesson": "1",
+          "icon": "k_u7_m1",
+          "title": "Teacher and Students",
+          "activities": [
+            216,
+            215,
+            212,
+            217
+          ],
+          "content": "spots.class.ABCDEF",
+          "contentItems": {
+            "spot_test": "test",
+            "spot_children": "children",
+            "spot_teacher": "teacher",
+            "spot_student": "student",
+            "spot_girl": "girl",
+            "spot_boy": "boy"
+          }
+        },
+        {
+          "index": 2,
+          "focus": "Spotlight",
+          "lesson": "2",
+          "icon": "k_u7_m2",
+          "title": "In Your Class",
+          "activities": [
+            216,
+            218,
+            220,
+            215,
+            219
+          ],
+          "content": "spots.class.ABCDEF",
+          "contentItems": {
+            "spot_test": "test",
+            "spot_children": "children",
+            "spot_teacher": "teacher",
+            "spot_student": "student",
+            "spot_girl": "girl",
+            "spot_boy": "boy"
+          }
+        },
+        {
+          "index": 3,
+          "focus": "Spotlight",
+          "lesson": "3",
+          "icon": "k_u7_m3",
+          "title": "How Many Children?",
+          "activities": [
+            216,
+            221,
+            218,
+            222
+          ],
+          "content": "spots.class.ABCDEF",
+          "contentItems": {
+            "spot_test": "test",
+            "spot_children": "children",
+            "spot_teacher": "teacher",
+            "spot_student": "student",
+            "spot_girl": "girl",
+            "spot_boy": "boy"
+          }
+        },
+        {
+          "index": 4,
+          "focus": "Spotlight",
+          "lesson": "4",
+          "icon": "k_u7_m4",
+          "title": "Sound of Pr",
+          "activities": [
+            224,
+            223,
+            221,
+            225
+          ],
+          "content": "phonics.K7.ABEF",
+          "contentItems": {
+            "phonics_pry": "pry",
+            "phonics_pram": "pram",
+            "phonics_start": "start",
+            "phonics_stop": "stop"
+          }
+        },
+        {
+          "index": 5,
+          "focus": "Spotlight",
+          "lesson": "5",
+          "icon": "k_u7_m5",
+          "title": "Find Pr",
+          "activities": [
+            227,
+            226,
+            229,
+            223,
+            228
+          ],
+          "content": "phonemes.K7.AB",
+          "contentItems": {
+            "phonemes_pr": "pr",
+            "phonemes_st": "st"
+          }
+        },
+        {
+          "index": 6,
+          "focus": "Spotlight",
+          "lesson": "6",
+          "icon": "k_u7_m6",
+          "title": "Word Blast",
+          "activities": [
+            231,
+            230,
+            226,
+            232
+          ],
+          "content": "sights.K7.ABCD",
+          "contentItems": {
+            "sight_have": "have",
+            "sight_has": "has",
+            "sight_do": "do",
+            "sight_does": "does"
+          }
+        },
+        {
+          "index": 7,
+          "focus": "Theme",
+          "lesson": "1",
+          "icon": "k_u7_m7",
+          "title": "New and Old",
+          "activities": [
+            234,
+            233,
+            230,
+            235
+          ],
+          "content": "adjectives.cylets.ABCDGH",
+          "contentItems": {
+            "new": "new",
+            "old": "old",
+            "beautiful": "beautiful",
+            "ugly": "ugly",
+            "clean": "clean",
+            "dirty": "dirty"
+          }
+        },
+        {
+          "index": 8,
+          "focus": "Theme",
+          "lesson": "2",
+          "icon": "k_u7_m8",
+          "title": "It's Really Clean",
+          "activities": [
+            234,
+            236,
+            238,
+            233,
+            237
+          ],
+          "content": "adjectives.cylets.ABCDGH",
+          "contentItems": {
+            "new": "new",
+            "old": "old",
+            "beautiful": "beautiful",
+            "ugly": "ugly",
+            "clean": "clean",
+            "dirty": "dirty"
+          }
+        },
+        {
+          "index": 9,
+          "focus": "Theme",
+          "lesson": "3",
+          "icon": "k_u7_m9",
+          "title": "On My Street",
+          "activities": [
+            234,
+            239,
+            236,
+            240
+          ],
+          "content": "adjectives.cylets.ABCDGH",
+          "contentItems": {
+            "new": "new",
+            "old": "old",
+            "beautiful": "beautiful",
+            "ugly": "ugly",
+            "clean": "clean",
+            "dirty": "dirty"
+          }
+        },
+        {
+          "index": 10,
+          "focus": "Theme",
+          "lesson": "4",
+          "icon": "k_u7_m10",
+          "title": "Sound of St",
+          "activities": [
+            242,
+            241,
+            244,
+            239,
+            243
+          ],
+          "content": "phonics.K7.EFGHABCD",
+          "contentItems": {
+            "phonics_start": "start",
+            "phonics_stop": "stop",
+            "phonics_story": "story",
+            "phonics_monster": "monster",
+            "phonics_pry": "pry",
+            "phonics_pram": "pram",
+            "phonics_price": "price",
+            "phonics_prize": "prize"
+          }
+        },
+        {
+          "index": 11,
+          "focus": "Theme",
+          "lesson": "5",
+          "icon": "k_u7_m11",
+          "title": "Memory Test",
+          "activities": [
+            234,
+            245,
+            241,
+            246
+          ],
+          "content": "adjectives.cylets.ABCDGH",
+          "contentItems": {
+            "new": "new",
+            "old": "old",
+            "beautiful": "beautiful",
+            "ugly": "ugly",
+            "clean": "clean",
+            "dirty": "dirty"
+          }
+        },
+        {
+          "index": 12,
+          "focus": "Theme",
+          "lesson": "6",
+          "icon": "k_u7_m12",
+          "title": "Word Blast",
+          "activities": [
+            248,
+            247,
+            245,
+            249
+          ],
+          "content": "sights.K7.EFGH",
+          "contentItems": {
+            "sight_like": "like",
+            "sight_colour": "color",
+            "sight_my": "my",
+            "sight_your": "your"
+          }
+        }
+      ]
+    },
+    {
+      "unit": 8,
+      "icon": "animals",
+      "title": "Animals",
+      "unitTitle": "Unit {unitNumber}: {unitName}",
+      "moduleTitle": "Lesson {moduleName}",
+      "modules": [
+        {
+          "index": 1,
+          "focus": "Spotlight",
+          "lesson": "1",
+          "icon": "k_u8_m1",
+          "title": "Hobbies",
+          "activities": [
+            251,
+            250,
+            247,
+            252
+          ],
+          "content": "spots.hobbies.ABCDEF",
+          "contentItems": {
+            "spot_take_photos": "take photos",
+            "spot_play_the_piano": "play the piano",
+            "spot_watch_movies": "watch movies",
+            "spot_sing_songs": "sing songs",
+            "spot_draw_pictures": "draw pictures",
+            "spot_listen_to_music": "listen to music"
+          }
+        },
+        {
+          "index": 2,
+          "focus": "Spotlight",
+          "lesson": "2",
+          "icon": "k_u8_m2",
+          "title": "What's Your Hobby?",
+          "activities": [
+            251,
+            253,
+            255,
+            250,
+            254
+          ],
+          "content": "spots.hobbies.ABCDEF",
+          "contentItems": {
+            "spot_take_photos": "take photos",
+            "spot_play_the_piano": "play the piano",
+            "spot_watch_movies": "watch movies",
+            "spot_sing_songs": "sing songs",
+            "spot_draw_pictures": "draw pictures",
+            "spot_listen_to_music": "listen to music"
+          }
+        },
+        {
+          "index": 3,
+          "focus": "Spotlight",
+          "lesson": "3",
+          "icon": "k_u8_m3",
+          "title": "What Do You Like To Do?",
+          "activities": [
+            251,
+            256,
+            253,
+            257
+          ],
+          "content": "spots.hobbies.ABCDEF",
+          "contentItems": {
+            "spot_take_photos": "take photos",
+            "spot_play_the_piano": "play the piano",
+            "spot_watch_movies": "watch movies",
+            "spot_sing_songs": "sing songs",
+            "spot_draw_pictures": "draw pictures",
+            "spot_listen_to_music": "listen to music"
+          }
+        },
+        {
+          "index": 4,
+          "focus": "Spotlight",
+          "lesson": "4",
+          "icon": "k_u8_m4",
+          "title": "Sound of Sm",
+          "activities": [
+            259,
+            258,
+            256,
+            260
+          ],
+          "content": "phonics.K8.ABEF",
+          "contentItems": {
+            "phonics_small": "small",
+            "phonics_smile": "smile",
+            "phonics_fry": "fry",
+            "phonics_friend": "friend"
+          }
+        },
+        {
+          "index": 5,
+          "focus": "Spotlight",
+          "lesson": "5",
+          "icon": "k_u8_m5",
+          "title": "Find Sm",
+          "activities": [
+            262,
+            261,
+            264,
+            258,
+            263
+          ],
+          "content": "phonemes.K8.AB",
+          "contentItems": {
+            "phonemes_sm": "sm",
+            "phonemes_fr": "fr"
+          }
+        },
+        {
+          "index": 6,
+          "focus": "Spotlight",
+          "lesson": "6",
+          "icon": "k_u8_m6",
+          "title": "Word Blast",
+          "activities": [
+            266,
+            265,
+            261,
+            267
+          ],
+          "content": "sights.K8.ABCD",
+          "contentItems": {
+            "sight_who": "who",
+            "sight_what": "what",
+            "sight_how_K8": "how",
+            "sight_whose": "whose"
+          }
+        },
+        {
+          "index": 7,
+          "focus": "Theme",
+          "lesson": "1",
+          "icon": "k_u8_m7",
+          "title": "Five Sea Animals",
+          "activities": [
+            269,
+            268,
+            271,
+            265,
+            270
+          ],
+          "content": "sea_animals.core.BCDEG",
+          "contentItems": {
+            "fish": "fish",
+            "shark": "shark",
+            "whale": "whale",
+            "octopus": "octopus",
+            "dolphin": "dolphin"
+          }
+        },
+        {
+          "index": 8,
+          "focus": "Theme",
+          "lesson": "2",
+          "icon": "k_u8_m8",
+          "title": "The Shark is Bigger",
+          "activities": [
+            269,
+            272,
+            274,
+            268,
+            273
+          ],
+          "content": "sea_animals.core.BCDEG",
+          "contentItems": {
+            "fish": "fish",
+            "shark": "shark",
+            "whale": "whale",
+            "octopus": "octopus",
+            "dolphin": "dolphin"
+          }
+        },
+        {
+          "index": 9,
+          "focus": "Theme",
+          "lesson": "3",
+          "icon": "k_u8_m9",
+          "title": "Sea Animals",
+          "activities": [
+            269,
+            275,
+            277,
+            272,
+            276
+          ],
+          "content": "sea_animals.core.BCDEG",
+          "contentItems": {
+            "fish": "fish",
+            "shark": "shark",
+            "whale": "whale",
+            "octopus": "octopus",
+            "dolphin": "dolphin"
+          }
+        },
+        {
+          "index": 10,
+          "focus": "Theme",
+          "lesson": "4",
+          "icon": "k_u8_m10",
+          "title": "Sound of Fr",
+          "activities": [
+            279,
+            278,
+            281,
+            275,
+            280
+          ],
+          "content": "phonics.K8.EFAB",
+          "contentItems": {
+            "phonics_fry": "fry",
+            "phonics_friend": "friend",
+            "phonics_small": "small",
+            "phonics_smile": "smile"
+          }
+        },
+        {
+          "index": 11,
+          "focus": "Theme",
+          "lesson": "5",
+          "icon": "k_u8_m11",
+          "title": "Ocean Cafe",
+          "activities": [
+            283,
+            282,
+            285,
+            278,
+            284
+          ],
+          "content": "sea_animals.core.ABCDEFGHIJKL",
+          "contentItems": {
+            "shrimp": "shrimp",
+            "fish": "fish",
+            "shark": "shark",
+            "whale": "whale",
+            "octopus": "octopus",
+            "crab": "crab",
+            "dolphin": "dolphin",
+            "turtle": "turtle",
+            "penguin": "penguin",
+            "seal": "seal",
+            "jellyfish": "jellyfish",
+            "lobster": "lobster"
+          }
+        },
+        {
+          "index": 12,
+          "focus": "Theme",
+          "lesson": "6",
+          "icon": "k_u8_m12",
+          "title": "Word Wall",
+          "activities": [
+            287,
+            286,
+            289,
+            282,
+            288
+          ],
+          "content": "sights.K8.EFGH",
+          "contentItems": {
+            "sight_love": "love",
+            "sight_hate": "hate",
+            "sight_need": "need",
+            "sight_want": "want"
+          }
+        }
+      ]
+    },
+    {
+      "unit": 9,
+      "icon": "house",
+      "title": "The House",
+      "unitTitle": "Unit {unitNumber}: {unitName}",
+      "moduleTitle": "Lesson {moduleName}",
+      "modules": [
+        {
+          "index": 1,
+          "focus": "Spotlight",
+          "lesson": "1",
+          "icon": "k_u9_m1",
+          "title": "Classroom",
+          "activities": [
+            291,
+            290,
+            286,
+            292
+          ],
+          "content": "spots.class_toy.ABCDEF",
+          "contentItems": {
+            "spot_classroom": "classroom",
+            "spot_window": "window",
+            "spot_door": "door",
+            "spot_floor": "floor",
+            "spot_board": "board",
+            "spot_bookcase": "bookcase"
+          }
+        },
+        {
+          "index": 2,
+          "focus": "Spotlight",
+          "lesson": "2",
+          "icon": "k_u9_m2",
+          "title": "Answer the Question",
+          "activities": [
+            291,
+            293,
+            295,
+            290,
+            294
+          ],
+          "content": "spots.class_toy.ABCDEF",
+          "contentItems": {
+            "spot_classroom": "classroom",
+            "spot_window": "window",
+            "spot_door": "door",
+            "spot_floor": "floor",
+            "spot_board": "board",
+            "spot_bookcase": "bookcase"
+          }
+        },
+        {
+          "index": 3,
+          "focus": "Spotlight",
+          "lesson": "3",
+          "icon": "k_u9_m3",
+          "title": "In Our Classroom",
+          "activities": [
+            291,
+            296,
+            293,
+            297
+          ],
+          "content": "spots.class_toy.ABCDEF",
+          "contentItems": {
+            "spot_classroom": "classroom",
+            "spot_window": "window",
+            "spot_door": "door",
+            "spot_floor": "floor",
+            "spot_board": "board",
+            "spot_bookcase": "bookcase"
+          }
+        },
+        {
+          "index": 4,
+          "focus": "Spotlight",
+          "lesson": "4",
+          "icon": "k_u9_m4",
+          "title": "Sound of Sw",
+          "activities": [
+            299,
+            298,
+            296,
+            300
+          ],
+          "content": "phonics.K9.ABEF",
+          "contentItems": {
+            "phonics_sweets_K": "sweets",
+            "phonics_swim": "swim",
+            "phonics_cross": "cross",
+            "phonics_creek": "creek"
+          }
+        },
+        {
+          "index": 5,
+          "focus": "Spotlight",
+          "lesson": "5",
+          "icon": "k_u9_m5",
+          "title": "Find Sw",
+          "activities": [
+            302,
+            301,
+            304,
+            298,
+            303
+          ],
+          "content": "phonemes.K9.AB",
+          "contentItems": {
+            "phonemes_sw": "sw",
+            "phonemes_cr": "cr"
+          }
+        },
+        {
+          "index": 6,
+          "focus": "Spotlight",
+          "lesson": "6",
+          "icon": "k_u9_m6",
+          "title": "Word Blast",
+          "activities": [
+            306,
+            305,
+            301,
+            307
+          ],
+          "content": "sights.K9.ABCD",
+          "contentItems": {
+            "sight_mine": "mine",
+            "sight_yours": "yours",
+            "sight_his": "his",
+            "sight_hers": "hers"
+          }
+        },
+        {
+          "index": 7,
+          "focus": "Theme",
+          "lesson": "1",
+          "icon": "k_u9_m7",
+          "title": "Moving Rooms",
+          "activities": [
+            309,
+            308,
+            305,
+            310
+          ],
+          "content": "house.rooms.ABCDEG",
+          "contentItems": {
+            "kitchen": "kitchen",
+            "bedroom": "bedroom",
+            "bathroom": "bathroom",
+            "living room": "living room",
+            "dining room": "dining room",
+            "rooms_hall": "hall"
+          }
+        },
+        {
+          "index": 8,
+          "focus": "Theme",
+          "lesson": "2",
+          "icon": "k_u9_m8",
+          "title": "In the Kitchen",
+          "activities": [
+            309,
+            311,
+            313,
+            308,
+            312
+          ],
+          "content": "house.rooms.ABCDEG",
+          "contentItems": {
+            "kitchen": "kitchen",
+            "bedroom": "bedroom",
+            "bathroom": "bathroom",
+            "living room": "living room",
+            "dining room": "dining room",
+            "rooms_hall": "hall"
+          }
+        },
+        {
+          "index": 9,
+          "focus": "Theme",
+          "lesson": "3",
+          "icon": "k_u9_m9",
+          "title": "My New House",
+          "activities": [
+            309,
+            314,
+            311,
+            315
+          ],
+          "content": "house.rooms.ABCDEG",
+          "contentItems": {
+            "kitchen": "kitchen",
+            "bedroom": "bedroom",
+            "bathroom": "bathroom",
+            "living room": "living room",
+            "dining room": "dining room",
+            "rooms_hall": "hall"
+          }
+        },
+        {
+          "index": 10,
+          "focus": "Theme",
+          "lesson": "4",
+          "icon": "k_u9_m10",
+          "title": "Sound of Cr",
+          "activities": [
+            317,
+            316,
+            319,
+            314,
+            318
+          ],
+          "content": "phonics.K9.EFGHABCD",
+          "contentItems": {
+            "phonics_cross": "cross",
+            "phonics_creek": "creek",
+            "phonics_cry": "cry",
+            "phonics_crib": "crib",
+            "phonics_sweets_K": "sweets",
+            "phonics_swim": "swim",
+            "phonics_swan": "swan",
+            "phonics_swat": "swat"
+          }
+        },
+        {
+          "index": 11,
+          "focus": "Theme",
+          "lesson": "5",
+          "icon": "k_u9_m11",
+          "title": "Place Furniture",
+          "activities": [
+            321,
+            320,
+            323,
+            316,
+            322
+          ],
+          "content": "house.furniture.ABCDEFGHIJKL",
+          "contentItems": {
+            "bed": "bed",
+            "chair": "chair",
+            "table": "table",
+            "sofa": "sofa",
+            "bookcase": "bookcase",
+            "lamp": "lamp",
+            "fridge": "fridge",
+            "television": "television",
+            "computer": "computer",
+            "toilet": "toilet",
+            "bathtub": "bathtub",
+            "sink": "sink"
+          }
+        },
+        {
+          "index": 12,
+          "focus": "Theme",
+          "lesson": "6",
+          "icon": "k_u9_m12",
+          "title": "Word Wall",
+          "activities": [
+            325,
+            324,
+            320,
+            326
+          ],
+          "content": "sights.K9.EFGH",
+          "contentItems": {
+            "sight_ours": "ours",
+            "sight_theirs": "theirs",
+            "sight_may": "may",
+            "sight_too": "too"
+          }
+        }
+      ]
+    }
+  ],
+  "teacherMenu": [
+    {
+      "unitName": "1",
+      "groups": [
+        {
+          "name": "spots",
+          "activities": [
+            2,
+            1,
+            4,
+            5,
+            6,
+            7,
+            3
+          ],
+          "icon": "how_you_feel",
+          "title": "How you Feel",
+          "description": "happy, sad, bored, excited, angry, scared"
+        },
+        {
+          "name": "adjectives",
+          "activities": [
+            18,
+            17,
+            20,
+            22,
+            23,
+            32,
+            33,
+            333
+          ],
+          "icon": "six_adjectives",
+          "title": "Six Adjectives",
+          "description": "big, small, long, short, fast, slow"
+        },
+        {
+          "name": "phonics",
+          "activities": [
+            327,
+            329,
+            8,
+            11,
+            25,
+            28,
+            328,
+            330
+          ],
+          "icon": "phonics_mouse",
+          "title": "Bl and Pl Phonics",
+          "description": "black, blue, double, table, plane, play, purple, apple, bl, pl"
+        },
+        {
+          "name": "sights",
+          "activities": [
+            331,
+            14,
+            29,
+            332
+          ],
+          "icon": "sights_snake",
+          "title": "Sight Words",
+          "description": "I, am, hi, hello, it, is, yes, no"
+        }
+      ]
+    },
+    {
+      "unitName": "2",
+      "groups": [
+        {
+          "name": "spots",
+          "activities": [
+            334,
+            34,
+            37,
+            39,
+            335
+          ],
+          "icon": "six_prepositions",
+          "title": "Six Prepositions",
+          "description": "in, on, under, in front of, behind, between"
+        },
+        {
+          "name": "animals",
+          "activities": [
+            339,
+            48,
+            52,
+            55,
+            56,
+            58,
+            59,
+            66,
+            71,
+            340
+          ],
+          "icon": "six_more_animals",
+          "title": "Six Forest Animals",
+          "description": "monkey, lion, tiger, bear, pig, cat, dog, rabbit, mouse, bird"
+        },
+        {
+          "name": "phonics",
+          "activities": [
+            336,
+            46,
+            42,
+            45,
+            62,
+            65,
+            337,
+            338
+          ],
+          "icon": "phonics_mouse",
+          "title": "Dr and Tr Phonics",
+          "description": "draw, train, dress, tree, dr, tr"
+        },
+        {
+          "name": "sights",
+          "activities": [
+            341,
+            49,
+            68,
+            342
+          ],
+          "icon": "sights_rabbit",
+          "title": "Sight Words",
+          "description": "how, be, fine, thank, a, the, and, of"
+        }
+      ]
+    },
+    {
+      "unitName": "3",
+      "groups": [
+        {
+          "name": "spots",
+          "activities": [
+            76,
+            40,
+            75,
+            78,
+            79,
+            344,
+            345
+          ],
+          "icon": "house_and_flats",
+          "title": "Houses and Flats",
+          "description": "house, flat, room, cupboard, painting, mirror, in, on, in front of, under, behind, between"
+        },
+        {
+          "name": "house",
+          "activities": [
+            92,
+            72,
+            87,
+            91,
+            94,
+            96,
+            97,
+            103,
+            108,
+            343
+          ],
+          "icon": "furniture",
+          "title": "Furniture",
+          "description": "bed, chair, table, sofa, bookcase, lamp"
+        },
+        {
+          "name": "phonics",
+          "activities": [
+            346,
+            85,
+            81,
+            84,
+            99,
+            102,
+            347,
+            348
+          ],
+          "icon": "phonics_mouse",
+          "title": "Sp and Sn Phonics",
+          "description": "spell, snake, spider, snow, sp, sn"
+        },
+        {
+          "name": "sights",
+          "activities": [
+            349,
+            88,
+            105,
+            350
+          ],
+          "icon": "sights_snake",
+          "title": "Sight Words",
+          "description": "she, he, over, for, on, in, at, to"
+        }
+      ]
+    },
+    {
+      "unitName": "4",
+      "groups": [
+        {
+          "name": "spots",
+          "activities": [
+            110,
+            109,
+            112,
+            115,
+            121,
+            351
+          ],
+          "icon": "times_of_day",
+          "title": "Times of Day",
+          "description": "breakfast, lunch, dinner, morning, afternoon, evening"
+        },
+        {
+          "name": "vegetables",
+          "activities": [
+            127,
+            126,
+            129,
+            131,
+            132,
+            138,
+            360
+          ],
+          "icon": "six_vegetables",
+          "title": "Six Vegetables",
+          "description": "carrot, tomato, potato, onion, pea, bean"
+        },
+        {
+          "name": "phonics",
+          "activities": [
+            354,
+            356,
+            117,
+            120,
+            134,
+            137,
+            355,
+            357
+          ],
+          "icon": "phonics_mouse",
+          "title": "Fl and Sl Phonics",
+          "description": "flat, sleep, floor, slow, fl, sl"
+        },
+        {
+          "name": "sights",
+          "activities": [
+            358,
+            123,
+            140,
+            359
+          ],
+          "icon": "sights_rabbit",
+          "title": "Sight Words",
+          "description": "this, that, these, those, an, not, we, they"
+        },
+        {
+          "name": "food",
+          "activities": [
+            352,
+            114,
+            353
+          ],
+          "icon": "foods",
+          "title": "More Foods",
+          "description": "bread, rice, cake, soup, egg, chicken, candy"
+        }
+      ]
+    },
+    {
+      "unitName": "5",
+      "groups": [
+        {
+          "name": "spots",
+          "activities": [
+            144,
+            143,
+            146,
+            148,
+            149,
+            361
+          ],
+          "icon": "six_fun_sports",
+          "title": "Six Fun Sports",
+          "description": "football, baseball, hockey, tennis, table tennis, badminton"
+        },
+        {
+          "name": "body",
+          "activities": [
+            162,
+            161,
+            164,
+            165,
+            167,
+            168,
+            174,
+            369
+          ],
+          "icon": "parts_of_the_face",
+          "title": "Parts of the Face",
+          "description": "head, hair, nose, eye, ear, mouth"
+        },
+        {
+          "name": "phonics",
+          "activities": [
+            362,
+            155,
+            151,
+            154,
+            170,
+            173,
+            363,
+            364
+          ],
+          "icon": "phonics_mouse",
+          "title": "Cl and Gl Phonics",
+          "description": "class, glasses, clean, ugly, cl, gl"
+        },
+        {
+          "name": "sights",
+          "activities": [
+            367,
+            158,
+            176,
+            368
+          ],
+          "icon": "sights_snake",
+          "title": "Sight Words",
+          "description": "here, there, one, two, three, four, five, six"
+        },
+        {
+          "name": "sports",
+          "activities": [
+            365,
+            157,
+            366
+          ],
+          "icon": "sports",
+          "title": "Spell Sports",
+          "description": "hockey, football, tennis, badminton, baseball"
+        }
+      ]
+    },
+    {
+      "unitName": "6",
+      "groups": [
+        {
+          "name": "spots",
+          "activities": [
+            180,
+            179,
+            182,
+            184,
+            185,
+            193,
+            370
+          ],
+          "icon": "where_you_like_to_go",
+          "title": "Places to Go",
+          "description": "school, park, playground, restaurant, shop, street"
+        },
+        {
+          "name": "vehicles",
+          "activities": [
+            198,
+            197,
+            200,
+            202,
+            203,
+            209,
+            211,
+            377
+          ],
+          "icon": "five_vehicles",
+          "title": "Five Vehicles",
+          "description": "car, bus, truck, boat, train"
+        },
+        {
+          "name": "phonics",
+          "activities": [
+            371,
+            373,
+            187,
+            190,
+            205,
+            208,
+            372,
+            374
+          ],
+          "icon": "phonics_mouse",
+          "title": "Sk and Br Phonics",
+          "description": "skirt, sky, brown, bread, ask, desk, sk, br"
+        },
+        {
+          "name": "sights",
+          "activities": [
+            375,
+            194,
+            212,
+            376
+          ],
+          "icon": "sights_rabbit",
+          "title": "Sight Words",
+          "description": "make, from, get, come, many, all, big, small"
+        }
+      ]
+    },
+    {
+      "unitName": "7",
+      "groups": [
+        {
+          "name": "spots",
+          "activities": [
+            216,
+            215,
+            218,
+            220,
+            221,
+            229,
+            378
+          ],
+          "icon": "people_in_class",
+          "title": "People in Class",
+          "description": "test, children, teacher, student, girl, boy"
+        },
+        {
+          "name": "adjectives",
+          "activities": [
+            234,
+            233,
+            236,
+            238,
+            239,
+            245,
+            384
+          ],
+          "icon": "describe_things",
+          "title": "Describe Things",
+          "description": "new, old, beautiful, ugly, clean, dirty"
+        },
+        {
+          "name": "phonics",
+          "activities": [
+            379,
+            227,
+            223,
+            226,
+            241,
+            244,
+            380,
+            381
+          ],
+          "icon": "phonics_mouse",
+          "title": "Pr and St Phonics",
+          "description": "pry, pram, start, stop, story, monster, price, prize, pr, st"
+        },
+        {
+          "name": "sights",
+          "activities": [
+            382,
+            230,
+            247,
+            383
+          ],
+          "icon": "sights_snake",
+          "title": "Sight Words",
+          "description": "have, has, do, does, like, color, my, your"
+        }
+      ]
+    },
+    {
+      "unitName": "8",
+      "groups": [
+        {
+          "name": "spots",
+          "activities": [
+            251,
+            250,
+            253,
+            255,
+            256,
+            264,
+            385
+          ],
+          "icon": "what_you_like_to_do",
+          "title": "Hobbies you Like",
+          "description": "take photos, play the piano, watch movies, sing songs, draw pictures, listen to music"
+        },
+        {
+          "name": "sea_animals",
+          "activities": [
+            390,
+            268,
+            271,
+            272,
+            274,
+            275,
+            277,
+            282,
+            285,
+            289,
+            391
+          ],
+          "icon": "five_sea_creatures",
+          "title": "Five Sea Creatures",
+          "description": "fish, shark, whale, octopus, dolphin, shrimp, crab, turtle, penguin, seal, jellyfish, lobster"
+        },
+        {
+          "name": "phonics",
+          "activities": [
+            259,
+            262,
+            258,
+            261,
+            278,
+            281,
+            386,
+            387
+          ],
+          "icon": "phonics_mouse",
+          "title": "Sm and Fr Phonics",
+          "description": "small, smile, fry, friend, sm, fr"
+        },
+        {
+          "name": "sights",
+          "activities": [
+            388,
+            265,
+            286,
+            389
+          ],
+          "icon": "sights_rabbit",
+          "title": "Sight Words",
+          "description": "who, what, how, whose, love, hate, need, want"
+        }
+      ]
+    },
+    {
+      "unitName": "9",
+      "groups": [
+        {
+          "name": "spots",
+          "activities": [
+            291,
+            290,
+            293,
+            295,
+            296,
+            304,
+            392
+          ],
+          "icon": "in_the_classroom",
+          "title": "In the Classroom",
+          "description": "classroom, window, door, floor, board, bookcase"
+        },
+        {
+          "name": "house",
+          "activities": [
+            309,
+            321,
+            308,
+            311,
+            313,
+            314,
+            320,
+            323,
+            398,
+            399
+          ],
+          "icon": "rooms_of_a_house",
+          "title": "Rooms of a House",
+          "description": "kitchen, bedroom, bathroom, living room, dining room, hall, bed, chair, table, sofa, bookcase, lamp, fridge, television, computer, toilet, bathtub, sink"
+        },
+        {
+          "name": "phonics",
+          "activities": [
+            393,
+            302,
+            298,
+            301,
+            316,
+            319,
+            394,
+            395
+          ],
+          "icon": "phonics_mouse",
+          "title": "Sw and Cr Phonics",
+          "description": "sweets, swim, cross, creek, cry, crib, swan, swat, sw, cr"
+        },
+        {
+          "name": "sights",
+          "activities": [
+            396,
+            305,
+            324,
+            397
+          ],
+          "icon": "sights_snake",
+          "title": "Sight Words",
+          "description": "mine, yours, his, hers, ours, theirs, may, too"
+        }
+      ]
+    }
+  ],
+  "studentMenu": [
+    {
+      "activity": 1,
+      "loc": "0101"
+    },
+    {
+      "activity": 4,
+      "loc": "0101"
+    },
+    {
+      "activity": 5,
+      "loc": "0102"
+    },
+    {
+      "activity": 6,
+      "loc": "0102"
+    },
+    {
+      "activity": 7,
+      "loc": "0103"
+    },
+    {
+      "activity": 8,
+      "loc": "0104"
+    },
+    {
+      "activity": 11,
+      "loc": "0105"
+    },
+    {
+      "activity": 14,
+      "loc": "0106"
+    },
+    {
+      "activity": 17,
+      "loc": "0107"
+    },
+    {
+      "activity": 20,
+      "loc": "0108"
+    },
+    {
+      "activity": 22,
+      "loc": "0108"
+    },
+    {
+      "activity": 23,
+      "loc": "0109"
+    },
+    {
+      "activity": 25,
+      "loc": "0110"
+    },
+    {
+      "activity": 28,
+      "loc": "0110"
+    },
+    {
+      "activity": 29,
+      "loc": "0111"
+    },
+    {
+      "activity": 32,
+      "loc": "0111"
+    },
+    {
+      "activity": 33,
+      "loc": "0112"
+    },
+    {
+      "activity": 34,
+      "loc": "0201"
+    },
+    {
+      "activity": 37,
+      "loc": "0202"
+    },
+    {
+      "activity": 39,
+      "loc": "0203"
+    },
+    {
+      "activity": 42,
+      "loc": "0204"
+    },
+    {
+      "activity": 45,
+      "loc": "0205"
+    },
+    {
+      "activity": 48,
+      "loc": "0205"
+    },
+    {
+      "activity": 49,
+      "loc": "0206"
+    },
+    {
+      "activity": 52,
+      "loc": "0207"
+    },
+    {
+      "activity": 55,
+      "loc": "0207"
+    },
+    {
+      "activity": 56,
+      "loc": "0208"
+    },
+    {
+      "activity": 58,
+      "loc": "0208"
+    },
+    {
+      "activity": 59,
+      "loc": "0209"
+    },
+    {
+      "activity": 62,
+      "loc": "0210"
+    },
+    {
+      "activity": 65,
+      "loc": "0210"
+    },
+    {
+      "activity": 66,
+      "loc": "0211"
+    },
+    {
+      "activity": 68,
+      "loc": "0212"
+    },
+    {
+      "activity": 71,
+      "loc": "0212"
+    },
+    {
+      "activity": 72,
+      "loc": "0301"
+    },
+    {
+      "activity": 75,
+      "loc": "0302"
+    },
+    {
+      "activity": 78,
+      "loc": "0302"
+    },
+    {
+      "activity": 79,
+      "loc": "0303"
+    },
+    {
+      "activity": 81,
+      "loc": "0304"
+    },
+    {
+      "activity": 84,
+      "loc": "0305"
+    },
+    {
+      "activity": 87,
+      "loc": "0305"
+    },
+    {
+      "activity": 88,
+      "loc": "0306"
+    },
+    {
+      "activity": 91,
+      "loc": "0307"
+    },
+    {
+      "activity": 94,
+      "loc": "0308"
+    },
+    {
+      "activity": 96,
+      "loc": "0308"
+    },
+    {
+      "activity": 97,
+      "loc": "0309"
+    },
+    {
+      "activity": 99,
+      "loc": "0310"
+    },
+    {
+      "activity": 102,
+      "loc": "0310"
+    },
+    {
+      "activity": 103,
+      "loc": "0311"
+    },
+    {
+      "activity": 105,
+      "loc": "0312"
+    },
+    {
+      "activity": 108,
+      "loc": "0312"
+    },
+    {
+      "activity": 109,
+      "loc": "0401"
+    },
+    {
+      "activity": 112,
+      "loc": "0402"
+    },
+    {
+      "activity": 114,
+      "loc": "0402"
+    },
+    {
+      "activity": 115,
+      "loc": "0403"
+    },
+    {
+      "activity": 117,
+      "loc": "0404"
+    },
+    {
+      "activity": 120,
+      "loc": "0404"
+    },
+    {
+      "activity": 121,
+      "loc": "0405"
+    },
+    {
+      "activity": 123,
+      "loc": "0406"
+    },
+    {
+      "activity": 126,
+      "loc": "0407"
+    },
+    {
+      "activity": 129,
+      "loc": "0408"
+    },
+    {
+      "activity": 131,
+      "loc": "0408"
+    },
+    {
+      "activity": 132,
+      "loc": "0409"
+    },
+    {
+      "activity": 134,
+      "loc": "0410"
+    },
+    {
+      "activity": 137,
+      "loc": "0410"
+    },
+    {
+      "activity": 138,
+      "loc": "0411"
+    },
+    {
+      "activity": 140,
+      "loc": "0412"
+    },
+    {
+      "activity": 143,
+      "loc": "0501"
+    },
+    {
+      "activity": 146,
+      "loc": "0502"
+    },
+    {
+      "activity": 148,
+      "loc": "0502"
+    },
+    {
+      "activity": 149,
+      "loc": "0503"
+    },
+    {
+      "activity": 151,
+      "loc": "0504"
+    },
+    {
+      "activity": 154,
+      "loc": "0505"
+    },
+    {
+      "activity": 157,
+      "loc": "0505"
+    },
+    {
+      "activity": 158,
+      "loc": "0506"
+    },
+    {
+      "activity": 161,
+      "loc": "0507"
+    },
+    {
+      "activity": 164,
+      "loc": "0507"
+    },
+    {
+      "activity": 165,
+      "loc": "0508"
+    },
+    {
+      "activity": 167,
+      "loc": "0508"
+    },
+    {
+      "activity": 168,
+      "loc": "0509"
+    },
+    {
+      "activity": 170,
+      "loc": "0510"
+    },
+    {
+      "activity": 173,
+      "loc": "0510"
+    },
+    {
+      "activity": 174,
+      "loc": "0511"
+    },
+    {
+      "activity": 176,
+      "loc": "0512"
+    },
+    {
+      "activity": 179,
+      "loc": "0601"
+    },
+    {
+      "activity": 182,
+      "loc": "0602"
+    },
+    {
+      "activity": 184,
+      "loc": "0602"
+    },
+    {
+      "activity": 185,
+      "loc": "0603"
+    },
+    {
+      "activity": 187,
+      "loc": "0604"
+    },
+    {
+      "activity": 190,
+      "loc": "0605"
+    },
+    {
+      "activity": 193,
+      "loc": "0605"
+    },
+    {
+      "activity": 194,
+      "loc": "0606"
+    },
+    {
+      "activity": 197,
+      "loc": "0607"
+    },
+    {
+      "activity": 200,
+      "loc": "0608"
+    },
+    {
+      "activity": 202,
+      "loc": "0608"
+    },
+    {
+      "activity": 203,
+      "loc": "0609"
+    },
+    {
+      "activity": 205,
+      "loc": "0610"
+    },
+    {
+      "activity": 208,
+      "loc": "0610"
+    },
+    {
+      "activity": 209,
+      "loc": "0611"
+    },
+    {
+      "activity": 211,
+      "loc": "0611"
+    },
+    {
+      "activity": 212,
+      "loc": "0612"
+    },
+    {
+      "activity": 215,
+      "loc": "0701"
+    },
+    {
+      "activity": 218,
+      "loc": "0702"
+    },
+    {
+      "activity": 220,
+      "loc": "0702"
+    },
+    {
+      "activity": 221,
+      "loc": "0703"
+    },
+    {
+      "activity": 223,
+      "loc": "0704"
+    },
+    {
+      "activity": 226,
+      "loc": "0705"
+    },
+    {
+      "activity": 229,
+      "loc": "0705"
+    },
+    {
+      "activity": 230,
+      "loc": "0706"
+    },
+    {
+      "activity": 233,
+      "loc": "0707"
+    },
+    {
+      "activity": 236,
+      "loc": "0708"
+    },
+    {
+      "activity": 238,
+      "loc": "0708"
+    },
+    {
+      "activity": 239,
+      "loc": "0709"
+    },
+    {
+      "activity": 241,
+      "loc": "0710"
+    },
+    {
+      "activity": 244,
+      "loc": "0710"
+    },
+    {
+      "activity": 245,
+      "loc": "0711"
+    },
+    {
+      "activity": 247,
+      "loc": "0712"
+    },
+    {
+      "activity": 250,
+      "loc": "0801"
+    },
+    {
+      "activity": 253,
+      "loc": "0802"
+    },
+    {
+      "activity": 255,
+      "loc": "0802"
+    },
+    {
+      "activity": 256,
+      "loc": "0803"
+    },
+    {
+      "activity": 258,
+      "loc": "0804"
+    },
+    {
+      "activity": 261,
+      "loc": "0805"
+    },
+    {
+      "activity": 264,
+      "loc": "0805"
+    },
+    {
+      "activity": 265,
+      "loc": "0806"
+    },
+    {
+      "activity": 268,
+      "loc": "0807"
+    },
+    {
+      "activity": 271,
+      "loc": "0807"
+    },
+    {
+      "activity": 272,
+      "loc": "0808"
+    },
+    {
+      "activity": 274,
+      "loc": "0808"
+    },
+    {
+      "activity": 275,
+      "loc": "0809"
+    },
+    {
+      "activity": 277,
+      "loc": "0809"
+    },
+    {
+      "activity": 278,
+      "loc": "0810"
+    },
+    {
+      "activity": 281,
+      "loc": "0810"
+    },
+    {
+      "activity": 282,
+      "loc": "0811"
+    },
+    {
+      "activity": 285,
+      "loc": "0811"
+    },
+    {
+      "activity": 286,
+      "loc": "0812"
+    },
+    {
+      "activity": 289,
+      "loc": "0812"
+    },
+    {
+      "activity": 290,
+      "loc": "0901"
+    },
+    {
+      "activity": 293,
+      "loc": "0902"
+    },
+    {
+      "activity": 295,
+      "loc": "0902"
+    },
+    {
+      "activity": 296,
+      "loc": "0903"
+    },
+    {
+      "activity": 298,
+      "loc": "0904"
+    },
+    {
+      "activity": 301,
+      "loc": "0905"
+    },
+    {
+      "activity": 304,
+      "loc": "0905"
+    },
+    {
+      "activity": 305,
+      "loc": "0906"
+    },
+    {
+      "activity": 308,
+      "loc": "0907"
+    },
+    {
+      "activity": 311,
+      "loc": "0908"
+    },
+    {
+      "activity": 313,
+      "loc": "0908"
+    },
+    {
+      "activity": 314,
+      "loc": "0909"
+    },
+    {
+      "activity": 316,
+      "loc": "0910"
+    },
+    {
+      "activity": 319,
+      "loc": "0910"
+    },
+    {
+      "activity": 320,
+      "loc": "0911"
+    },
+    {
+      "activity": 323,
+      "loc": "0911"
+    },
+    {
+      "activity": 324,
+      "loc": "0912"
+    }
+  ],
+  "activityStore": [
+    null,
+    {
+      "icon": {
+        "lesson": "feelings",
+        "activity": "poster"
+      },
+      "route": "/lesson/feelings/activity/poster/rank/4?content=spots.feelings.ABCDEF",
+      "title": "Feelings",
+      "desc": "Identify six emotions."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=spots.feelings.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "happy, sad, bored, excited..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.feelings.ABCDEF",
+      "title": "Quiz",
+      "desc": "happy, sad, bored, excited..."
+    },
+    {
+      "icon": {
+        "lesson": "feelings",
+        "activity": "twobytwo"
+      },
+      "route": "/lesson/feelings/activity/twobytwo/rank/1?content=spots.feelings.ABCDEF",
+      "title": "Match Feelings",
+      "desc": "Review six emotions."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k01_spot?content=spots.feelings.ABCDEF",
+      "title": "I'm Sorry",
+      "desc": "Learn a dialogue about feelings."
+    },
+    {
+      "icon": {
+        "lesson": "feelings",
+        "activity": "memory"
+      },
+      "route": "/lesson/feelings/activity/memory/rank/2?content=spots.feelings.ABCDEF",
+      "title": "Face Pairs",
+      "desc": "Remember feelings."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "you_look_sad"
+      },
+      "route": "/lesson/karaoke/activity/you_look_sad/rank/2?content=spots.feelings.ABCDEF",
+      "title": "You Look Sad",
+      "desc": "Sing about feelings."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K1.ABCD",
+      "title": "Sound of Bl",
+      "desc": "Learn 'bl' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K1.ABCD",
+      "title": "Phonics Flashcards",
+      "desc": "black, blue, double, table"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K1.ABCD",
+      "title": "Phonics Quiz",
+      "desc": "black, blue, double, table"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K1.AB",
+      "title": "Find Bl",
+      "desc": "Find the sound 'bl'"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonemes.K1.AB",
+      "title": "Phonemes Flashcards",
+      "desc": "bl"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K1.AB-phonics.K1.ABCD",
+      "title": "Phonemes Quiz",
+      "desc": "bl"
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "blast"
+      },
+      "route": "/lesson/sights/activity/blast/rank/1?content=sights.K1.ABCD",
+      "title": "Word Blast",
+      "desc": "Introduce sight words."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K1.ABCD",
+      "title": "Sight Words",
+      "desc": "I, am, hi, hello"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K1.ABCD-phonemes.K1.AB",
+      "title": "Sight Words Quiz",
+      "desc": "I, am, hi, hello"
+    },
+    {
+      "icon": {
+        "lesson": "adjectives",
+        "activity": "poster"
+      },
+      "route": "/lesson/adjectives/activity/poster/rank/1?content=adjectives.core.ABCDEF",
+      "title": "Adjectives",
+      "desc": "Identify six adjectives."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=adjectives.core.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "big, small, long, short..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=adjectives.core.ABCDEF-sights.K1.ABCD",
+      "title": "Quiz",
+      "desc": "big, small, long, short..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k01_theme?content=adjectives.core.ABCDEF",
+      "title": "It is Longer",
+      "desc": "Practice a comparative dialogue."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=adjectives.core.ABCDEF-spots.feelings.ABCDEF",
+      "title": "Quiz",
+      "desc": "big, small, long, short..."
+    },
+    {
+      "icon": {
+        "lesson": "adjectives",
+        "activity": "cups"
+      },
+      "route": "/lesson/adjectives/activity/cups/rank/1?content=adjectives.core.ABCDEF",
+      "title": "Memory Test",
+      "desc": "Follow the adjectives."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "this_snake_is_long"
+      },
+      "route": "/lesson/karaoke/activity/this_snake_is_long/rank/2?content=adjectives.core.ABCDEF",
+      "title": "This Snake Is Long",
+      "desc": "Sing about adjectives."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=adjectives.core.ABCDEF-phonics.K1.ABCD",
+      "title": "Quiz",
+      "desc": "big, small, long, short..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K1.EFGH",
+      "title": "Sound of Pl",
+      "desc": "Learn 'pl' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K1.EFGH",
+      "title": "Phonics Flashcards",
+      "desc": "plane, play, purple, apple"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K1.EFGH-phonemes.K1.AB",
+      "title": "Phonics Quiz",
+      "desc": "plane, play, purple, apple"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K1.CD",
+      "title": "Find Pl",
+      "desc": "Find the sound 'pl'."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "wall"
+      },
+      "route": "/lesson/sights/activity/wall/rank/1?content=sights.K1.EFGH",
+      "title": "Word Wall",
+      "desc": "Learn \"it, is, no, yes\"."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K1.EFGH",
+      "title": "Sight Words",
+      "desc": "it, is, yes, no"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K1.EFGH-adjectives.core.ABCDEF",
+      "title": "Sight Words Quiz",
+      "desc": "it, is, yes, no"
+    },
+    {
+      "icon": {
+        "lesson": "sea_animals",
+        "activity": "grow"
+      },
+      "route": "/lesson/sea_animals/activity/grow/rank/1?content=adjectives.core.ABCDEF",
+      "title": "Grow Bigger",
+      "desc": "Introduce comparatives."
+    },
+    {
+      "icon": {
+        "lesson": "adjectives",
+        "activity": "buggy"
+      },
+      "route": "/lesson/adjectives/activity/buggy/rank/2?content=adjectives.core.ABCDEF",
+      "title": "Big Speller",
+      "desc": "Spell six adjectives."
+    },
+    {
+      "icon": {
+        "lesson": "prepositions",
+        "activity": "poster"
+      },
+      "route": "/lesson/prepositions/activity/poster/rank/1?content=spots.prepositions.ABD",
+      "title": "Prepositions",
+      "desc": "Introduce prepositions."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=spots.prepositions.ABD",
+      "title": "Vocabulary",
+      "desc": "in, on, under"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.prepositions.ABD-phonics.K1.ABCDEFGH",
+      "title": "Quiz",
+      "desc": "in, on, under"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k02_spot?content=spots.prepositions.ABD",
+      "title": "Behind the Book",
+      "desc": "Practice a preposition dialogue."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.prepositions.ABD-phonemes.K1.ABCD",
+      "title": "Quiz",
+      "desc": "in, on, under"
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "in_on_under"
+      },
+      "route": "/lesson/karaoke/activity/in_on_under/rank/2?content=spots.prepositions.ABCDEF",
+      "title": "In, On, Under",
+      "desc": "Sing about prepositions."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=spots.prepositions.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "in, on, in front of, under..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.prepositions.ABCDEF-sights.K1.ABCDEFGH",
+      "title": "Quiz",
+      "desc": "in, on, in front of, under..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K2.AE",
+      "title": "Sound of Dr",
+      "desc": "Learn 'dr' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K2.AE",
+      "title": "Phonics Flashcards",
+      "desc": "draw, train"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K2.AE-adjectives.core.ABCDEF",
+      "title": "Phonics Quiz",
+      "desc": "draw, train"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K2.AB",
+      "title": "Find Dr",
+      "desc": "Sort out 'dr'sounds."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonemes.K2.AB",
+      "title": "Phonemes Flashcards",
+      "desc": "dr, tr"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K2.AB-phonics.K2.AE",
+      "title": "Phonemes Quiz",
+      "desc": "dr, tr"
+    },
+    {
+      "icon": {
+        "lesson": "animals",
+        "activity": "whack"
+      },
+      "route": "/lesson/animals/activity/whack/rank/2?content=animals.core.CDEFI",
+      "title": "Animal Whack",
+      "desc": "Practice plurals."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "blast"
+      },
+      "route": "/lesson/sights/activity/blast/rank/1?content=sights.K2.ABCD",
+      "title": "Word Blast",
+      "desc": "Learn \"how, be, fine, thank\"."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K2.ABCD",
+      "title": "Sight Words",
+      "desc": "how, be, fine, thank"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K2.ABCD-animals.core.CDEFI",
+      "title": "Sight Words Quiz",
+      "desc": "how, be, fine, thank"
+    },
+    {
+      "icon": {
+        "lesson": "animals",
+        "activity": "silhouette"
+      },
+      "route": "/lesson/animals/activity/silhouette/rank/2?content=animals.core.CDEFI",
+      "title": "Hidden Animals",
+      "desc": "Introduce new animals."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=animals.core.CDEFI",
+      "title": "Vocabulary",
+      "desc": "monkey, lion, tiger, bear..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=animals.core.CDEFI-sights.K2.ABCD",
+      "title": "Quiz",
+      "desc": "monkey, lion, tiger, bear..."
+    },
+    {
+      "icon": {
+        "lesson": "animals",
+        "activity": "twobytwo"
+      },
+      "route": "/lesson/animals/activity/twobytwo/rank/2?content=animals.core.ABCDEFGHIJ",
+      "title": "Lions and Bears",
+      "desc": "Review animals and plurals."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k02_theme?content=animals.core.CDEFI",
+      "title": "I Like the Bear",
+      "desc": "Learn a dialogue about animals."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=animals.core.CDEFI-phonemes.K2.AB",
+      "title": "Quiz",
+      "desc": "monkey, lion, tiger, bear..."
+    },
+    {
+      "icon": {
+        "lesson": "animals",
+        "activity": "silhouette"
+      },
+      "route": "/lesson/animals/activity/silhouette/rank/3?content=animals.core.ABCDEFGHIJ",
+      "title": "Ten Shadows",
+      "desc": "Discover ten animals."
+    },
+    {
+      "icon": {
+        "lesson": "animals",
+        "activity": "song"
+      },
+      "route": "/lesson/animals/activity/song/rank/2?content=animals.core.ABCDEFGHIJ",
+      "title": "Animals Up There",
+      "desc": "Sing about the animals."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=animals.core.ABCDEFGHIJ",
+      "title": "Vocabulary",
+      "desc": "cat, dog, monkey, lion, pig..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=animals.core.ABCDEFGHIJ-spots.feelings.ABCDEF",
+      "title": "Quiz",
+      "desc": "cat, dog, monkey, lion, pig..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K2.BF",
+      "title": "Sound of Tr",
+      "desc": "Learn 'tr' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K2.BF",
+      "title": "Phonics Flashcards",
+      "desc": "dress, tree"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K2.BF-phonics.K1.ABCDEFGH",
+      "title": "Phonics Quiz",
+      "desc": "dress, tree"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K2.BA",
+      "title": "Find Tr",
+      "desc": "Look for the'tr' sound."
+    },
+    {
+      "icon": {
+        "lesson": "animals",
+        "activity": "band"
+      },
+      "route": "/lesson/animals/activity/band/rank/4?content=animals.core.ABCDEFGHIJ",
+      "title": "Forest Animals",
+      "desc": "Identify ten animals."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=animals.core.ABCDEFGHIJ-spots.prepositions.ABDCEF",
+      "title": "Quiz",
+      "desc": "cat, dog, monkey, lion, pig..."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "wall"
+      },
+      "route": "/lesson/sights/activity/wall/rank/1?content=sights.K2.EFGH",
+      "title": "Word Wall",
+      "desc": "Learn \"a, the, and, of\""
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K2.EFGH",
+      "title": "Sight Words",
+      "desc": "a, the, and, of"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K2.EFGH-phonemes.K1.ABCD",
+      "title": "Sight Words Quiz",
+      "desc": "a, the, and, of"
+    },
+    {
+      "icon": {
+        "lesson": "animals",
+        "activity": "spell"
+      },
+      "route": "/lesson/animals/activity/spell/rank/1?content=animals.core.CDEFI",
+      "title": "Spell Animals",
+      "desc": "Spell five wild animals."
+    },
+    {
+      "icon": {
+        "lesson": "house",
+        "activity": "cutaway"
+      },
+      "route": "/lesson/house/activity/cutaway/rank/1?content=house.furniture.ABC",
+      "title": "My Home",
+      "desc": "Spell the furniture."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=house.furniture.ABC",
+      "title": "Vocabulary",
+      "desc": "bed, chair, table"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=house.furniture.ABC-sights.K1.ABCDEFGH",
+      "title": "Quiz",
+      "desc": "bed, chair, table"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k03_spot?content=spots.house.ABCDEF",
+      "title": "I Live in a Flat",
+      "desc": "Learn a dialogue about houses."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=spots.house.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "house, flat, room, cupboard..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.house.ABCDEF-house.furniture.ABC",
+      "title": "Quiz",
+      "desc": "house, flat, room, cupboard..."
+    },
+    {
+      "icon": {
+        "lesson": "prepositions",
+        "activity": "poster"
+      },
+      "route": "/lesson/prepositions/activity/poster/rank/1?content=spots.prepositions.ABCDEF",
+      "title": "In Front and Behind",
+      "desc": "Identify prepositions."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "painting_in_my_room"
+      },
+      "route": "/lesson/karaoke/activity/painting_in_my_room/rank/2?content=spots.house.ABCDEF",
+      "title": "Painting In My Room",
+      "desc": "Sing about furniture."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.house.ABCDEF-adjectives.core.ABCDEF",
+      "title": "Quiz",
+      "desc": "house, flat, room, cupboard..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K3.AE",
+      "title": "Sound of Sp",
+      "desc": "Learn 'sp' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K3.AE",
+      "title": "Phonics Flashcards",
+      "desc": "spell, snake"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K3.AE-phonics.K2.AEBF",
+      "title": "Phonics Quiz",
+      "desc": "spell, snake"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K3.AB",
+      "title": "Find Sp",
+      "desc": "Look for the 'sp' sounds."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonemes.K3.AB",
+      "title": "Phonemes Flashcards",
+      "desc": "sp, sn"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K3.AB-phonics.K3.AE",
+      "title": "Phonemes Quiz",
+      "desc": "sp, sn"
+    },
+    {
+      "icon": {
+        "lesson": "house",
+        "activity": "movers"
+      },
+      "route": "/lesson/house/activity/movers/rank/1?content=house.furniture.ABCDEF",
+      "title": "Find Furniture",
+      "desc": "Introduce six more items."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "blast"
+      },
+      "route": "/lesson/sights/activity/blast/rank/1?content=sights.K3.ABCD",
+      "title": "Word Blast",
+      "desc": "Learn \"she, he, over, to\"."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K3.ABCD",
+      "title": "Sight Words",
+      "desc": "she, he, over, for"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K3.ABCD-phonemes.K3.AB",
+      "title": "Sight Words Quiz",
+      "desc": "she, he, over, for"
+    },
+    {
+      "icon": {
+        "lesson": "house",
+        "activity": "furniturestore"
+      },
+      "route": "/lesson/house/activity/furniturestore/rank/1?content=house.furniture.ABCDEF",
+      "title": "Chair and Table",
+      "desc": "Identify the furniture."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=house.furniture.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "bed, chair, table, sofa..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=house.furniture.ABCDEF-sights.K3.ABCD",
+      "title": "Quiz",
+      "desc": "bed, chair, table, sofa..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k03_theme?content=house.furniture.ABCDEF",
+      "title": "My Sofa is Green",
+      "desc": "Learn a dialogue about furniture."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=house.furniture.ABCDEF-animals.core.CDEFIABGHJ",
+      "title": "Quiz",
+      "desc": "bed, chair, table, sofa..."
+    },
+    {
+      "icon": {
+        "lesson": "house",
+        "activity": "put"
+      },
+      "route": "/lesson/house/activity/put/rank/1?content=house.furniture.ABCDEF",
+      "title": "The Right Place",
+      "desc": "Put things in their places."
+    },
+    {
+      "icon": {
+        "lesson": "house",
+        "activity": "song"
+      },
+      "route": "/lesson/house/activity/song/rank/2?content=house.furniture.ABCDEF",
+      "title": "My Amazing House",
+      "desc": "Sing about rooms and things."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=house.furniture.ABCDEF-sights.K2.ABCDEFGH",
+      "title": "Quiz",
+      "desc": "bed, chair, table, sofa..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K3.BF",
+      "title": "Sound of Sn",
+      "desc": "Learn 'sn' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K3.BF",
+      "title": "Phonics Flashcards",
+      "desc": "spider, snow"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K3.BF-phonemes.K2.AB",
+      "title": "Phonics Quiz",
+      "desc": "spider, snow"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K3.BA",
+      "title": "Find Sn",
+      "desc": "Look for the 'sn' sounds."
+    },
+    {
+      "icon": {
+        "lesson": "house",
+        "activity": "sheds"
+      },
+      "route": "/lesson/house/activity/sheds/rank/1?content=house.furniture.ABCDEF",
+      "title": "At Home",
+      "desc": "Follow the objects."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=house.furniture.ABCDEF-spots.feelings.ABCDEF",
+      "title": "Quiz",
+      "desc": "bed, chair, table, sofa..."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "wall"
+      },
+      "route": "/lesson/sights/activity/wall/rank/1?content=sights.K3.EFGH",
+      "title": "Word Wall",
+      "desc": "Learn \"on, in, at, to\"."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K3.EFGH",
+      "title": "Sight Words",
+      "desc": "on, in, at, to"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K3.EFGH-phonics.K1.ABCDEFGH",
+      "title": "Sight Words Quiz",
+      "desc": "on, in, at, to"
+    },
+    {
+      "icon": {
+        "lesson": "house",
+        "activity": "cutaway"
+      },
+      "route": "/lesson/house/activity/cutaway/rank/2?content=house.furniture.ABCDEF",
+      "title": "House Speller",
+      "desc": "Spell the furniture."
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "meals_poster"
+      },
+      "route": "/lesson/spots/activity/meals_poster/rank/1?content=spots.meals.ABCDEF",
+      "title": "Meals",
+      "desc": "Learn meals and times of day."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=spots.meals.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "breakfast, lunch, dinner..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.meals.ABCDEF-spots.prepositions.ABDCEF",
+      "title": "Quiz",
+      "desc": "breakfast, lunch, dinner..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k04_spot?content=spots.meals.ABCDEF",
+      "title": "Good Morning, Tony",
+      "desc": "Learn a breakfast dialogue."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.meals.ABCDEF-phonemes.K1.ABCD",
+      "title": "Quiz",
+      "desc": "breakfast, lunch, dinner..."
+    },
+    {
+      "icon": {
+        "lesson": "food",
+        "activity": "splat"
+      },
+      "route": "/lesson/food/activity/splat/rank/1?content=food.core.ADEFIJK",
+      "title": "Food Splat",
+      "desc": "Review these foods."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "breakfast_song"
+      },
+      "route": "/lesson/karaoke/activity/breakfast_song/rank/2?content=spots.meals.ABCDEF",
+      "title": "Breakfast Song",
+      "desc": "Sing about mealtime."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.meals.ABCDEF-food.core.ADEFIJK",
+      "title": "Quiz",
+      "desc": "breakfast, lunch, dinner..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K4.AE",
+      "title": "Sound of Fl",
+      "desc": "Learn 'fl' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K4.AE",
+      "title": "Phonics Flashcards",
+      "desc": "flat, sleep"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K4.AE-sights.K1.ABCDEFGH",
+      "title": "Phonics Quiz",
+      "desc": "flat, sleep"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K4.AB",
+      "title": "Find Fl",
+      "desc": "Look for 'fl' sounds."
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "meals_voice"
+      },
+      "route": "/lesson/spots/activity/meals_voice/rank/1?content=spots.meals.ABCDEF",
+      "title": "Voice Choice",
+      "desc": "Record these times of day."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.meals.ABCDEF-phonemes.K4.AB",
+      "title": "Quiz",
+      "desc": "breakfast, lunch, dinner..."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "blast"
+      },
+      "route": "/lesson/sights/activity/blast/rank/1?content=sights.K4.ABCD",
+      "title": "Word Blast",
+      "desc": "Learn sight words."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K4.ABCD",
+      "title": "Sight Words",
+      "desc": "this, that, these, those"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K4.ABCD-phonics.K4.AE",
+      "title": "Sight Words Quiz",
+      "desc": "this, that, these, those"
+    },
+    {
+      "icon": {
+        "lesson": "fruits",
+        "activity": "dig"
+      },
+      "route": "/lesson/fruits/activity/dig/rank/1?content=vegetables.cylets.ABCDEF",
+      "title": "Vegetables",
+      "desc": "Learn six vegetables."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=vegetables.cylets.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "carrot, tomato, potato, pea..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=vegetables.cylets.ABCDEF-sights.K4.ABCD",
+      "title": "Quiz",
+      "desc": "carrot, tomato, potato, pea..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k04_theme?content=vegetables.cylets.ABCDEF",
+      "title": "I Need Carrots",
+      "desc": "Learn a vegetable dialogue."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=vegetables.cylets.ABCDEF-house.furniture.ABCDEF",
+      "title": "Quiz",
+      "desc": "carrot, tomato, potato, pea..."
+    },
+    {
+      "icon": {
+        "lesson": "fruits",
+        "activity": "feed"
+      },
+      "route": "/lesson/fruits/activity/feed/rank/1?content=vegetables.cylets.ABCDEF",
+      "title": "She Likes It",
+      "desc": "Learn 'doesn't like'."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "vegetable_soups"
+      },
+      "route": "/lesson/karaoke/activity/vegetable_soups/rank/2?content=vegetables.cylets.ABCDEF",
+      "title": "Vegetable Soups",
+      "desc": "Sing a vegetable recipe."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=vegetables.cylets.ABCDEF-spots.house.ABCDEF",
+      "title": "Quiz",
+      "desc": "carrot, tomato, potato, pea..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K4.BF",
+      "title": "Sound of Sl",
+      "desc": "Learn 'sl' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K4.BF",
+      "title": "Phonics Flashcards",
+      "desc": "floor, slow"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K4.BF-adjectives.core.ABCDEF",
+      "title": "Phonics Quiz",
+      "desc": "floor, slow"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K4.BA",
+      "title": "Find Sl",
+      "desc": "Look for 'sl' sounds."
+    },
+    {
+      "icon": {
+        "lesson": "fruits",
+        "activity": "pilot"
+      },
+      "route": "/lesson/fruits/activity/pilot/rank/2?content=vegetables.cylets.ABCDEF",
+      "title": "Vegetable Speller",
+      "desc": "Spell six vegetables."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=vegetables.cylets.ABCDEF-phonics.K2.AEBF",
+      "title": "Quiz",
+      "desc": "carrot, tomato, potato, pea..."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "wall"
+      },
+      "route": "/lesson/sights/activity/wall/rank/1?content=sights.K4.EFGH",
+      "title": "Word Wall",
+      "desc": "Review these sight words."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K4.EFGH",
+      "title": "Sight Words",
+      "desc": "an, not, we, they"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K4.EFGH-phonics.K3.AEBF",
+      "title": "Sight Words Quiz",
+      "desc": "an, not, we, they"
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "sports_poster"
+      },
+      "route": "/lesson/spots/activity/sports_poster/rank/2?content=spots.sports.ABCDEF",
+      "title": "Sports",
+      "desc": "Learn six sports."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=spots.sports.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "football, baseball, hockey..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.sports.ABCDEF-phonemes.K3.AB",
+      "title": "Quiz",
+      "desc": "football, baseball, hockey..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k05_spot?content=spots.sports.ABCDEF",
+      "title": "Play Football",
+      "desc": "Learn a sports dialogue."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.sports.ABCDEF-sights.K3.ABCDEFGH",
+      "title": "Quiz",
+      "desc": "football, baseball, hockey..."
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "sports_parrot"
+      },
+      "route": "/lesson/spots/activity/sports_parrot/rank/1?content=spots.sports.ABCDEF",
+      "title": "In the Field",
+      "desc": "Talk about sports."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "sports_song"
+      },
+      "route": "/lesson/karaoke/activity/sports_song/rank/2?content=spots.sports.ABCDEF",
+      "title": "Sports Song",
+      "desc": "Sing about sports."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.sports.ABCDEF-animals.core.CDEFIABGHJ",
+      "title": "Quiz",
+      "desc": "football, baseball, hockey..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K5.AE",
+      "title": "Sound of Cl",
+      "desc": "Learn 'cl' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K5.AE",
+      "title": "Phonics Flashcards",
+      "desc": "class, glasses"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K5.AE-sights.K2.ABCDEFGH",
+      "title": "Phonics Quiz",
+      "desc": "class, glasses"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K5.AB",
+      "title": "Find Cl",
+      "desc": "Look for 'cl' sounds."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonemes.K5.AB",
+      "title": "Phonemes Flashcards",
+      "desc": "cl, gl"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K5.AB-phonics.K5.AE",
+      "title": "Phonemes Quiz",
+      "desc": "cl, gl"
+    },
+    {
+      "icon": {
+        "lesson": "body",
+        "activity": "sport"
+      },
+      "route": "/lesson/body/activity/sport/rank/1?content=sports.cylets.ABCDE",
+      "title": "Sports Speller",
+      "desc": "Spell the sports."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "blast"
+      },
+      "route": "/lesson/sights/activity/blast/rank/1?content=sights.K5.ABCD",
+      "title": "Word Blast",
+      "desc": "Learn these sight words."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K5.ABCD",
+      "title": "Sight Words",
+      "desc": "here, there, one, two"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K5.ABCD-sports.cylets.ABCDE",
+      "title": "Sight Words Quiz",
+      "desc": "here, there, one, two"
+    },
+    {
+      "icon": {
+        "lesson": "body",
+        "activity": "jack"
+      },
+      "route": "/lesson/body/activity/jack/rank/2?content=body.core.ABCDEF",
+      "title": "The Face",
+      "desc": "Learn the parts of the face."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=body.core.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "head, hair, nose, eye, ear..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=body.core.ABCDEF-sights.K5.ABCD",
+      "title": "Quiz",
+      "desc": "head, hair, nose, eye, ear..."
+    },
+    {
+      "icon": {
+        "lesson": "body",
+        "activity": "memory"
+      },
+      "route": "/lesson/body/activity/memory/rank/2?content=body.core.ABCDEF",
+      "title": "Face Pairs",
+      "desc": "Pair up parts of the face."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k05_theme?content=body.core.ABCDEF",
+      "title": "It Has a Mouth",
+      "desc": "Learn a dialogue about faces."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=body.core.ABCDEF-phonemes.K5.AB",
+      "title": "Quiz",
+      "desc": "head, hair, nose, eye, ear..."
+    },
+    {
+      "icon": {
+        "lesson": "body",
+        "activity": "match"
+      },
+      "route": "/lesson/body/activity/match/rank/2?content=body.core.ABCDEF",
+      "title": "Face Match",
+      "desc": "Memorize the details."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "one_eye_two_eyes"
+      },
+      "route": "/lesson/karaoke/activity/one_eye_two_eyes/rank/2?content=body.core.ABCDEF",
+      "title": "One Eye, Two Eyes",
+      "desc": "Sing about faces."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=body.core.ABCDEF-phonemes.K2.AB",
+      "title": "Quiz",
+      "desc": "head, hair, nose, eye, ear..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K5.BF",
+      "title": "Sound of Gl",
+      "desc": "Learn 'gl' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K5.BF",
+      "title": "Phonics Flashcards",
+      "desc": "clean, ugly"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K5.BF-spots.feelings.ABCDEF",
+      "title": "Phonics Quiz",
+      "desc": "clean, ugly"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K5.BA",
+      "title": "Find Gl",
+      "desc": "Look for 'gl' sounds."
+    },
+    {
+      "icon": {
+        "lesson": "body",
+        "activity": "girl"
+      },
+      "route": "/lesson/body/activity/girl/rank/2?content=body.core.ABCDEF",
+      "title": "Her Face",
+      "desc": "Practice parts of the face."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=body.core.ABCDEF-phonics.K1.ABCDEFGH",
+      "title": "Quiz",
+      "desc": "head, hair, nose, eye, ear..."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "wall"
+      },
+      "route": "/lesson/sights/activity/wall/rank/1?content=sights.K5.EFGH",
+      "title": "Word Wall",
+      "desc": "Review these sight words."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K5.EFGH",
+      "title": "Sight Words",
+      "desc": "three, four, five, six"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K5.EFGH-spots.prepositions.ABDCEF",
+      "title": "Sight Words Quiz",
+      "desc": "three, four, five, six"
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "memory"
+      },
+      "route": "/lesson/spots/activity/memory/rank/2?content=spots.places.ABCDEF",
+      "title": "My Town",
+      "desc": "Learn places around town."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=spots.places.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "school, park, playground..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.places.ABCDEF-spots.meals.ABCDEF",
+      "title": "Quiz",
+      "desc": "school, park, playground..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k06_spot?content=spots.places.ABCDEF",
+      "title": "Across the Street",
+      "desc": "Learn a dialogue for places."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.places.ABCDEF-phonemes.K1.ABCD",
+      "title": "Quiz",
+      "desc": "school, park, playground..."
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "places_parrot"
+      },
+      "route": "/lesson/spots/activity/places_parrot/rank/1?content=spots.places.ABCDEF",
+      "title": "Streets",
+      "desc": "Speak about locations."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "i_like_to_walk"
+      },
+      "route": "/lesson/karaoke/activity/i_like_to_walk/rank/2?content=spots.places.ABCDEF",
+      "title": "I Like to Walk",
+      "desc": "Sing about places."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.places.ABCDEF-food.core.ADEFIJK",
+      "title": "Quiz",
+      "desc": "school, park, playground..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K6.ABEF",
+      "title": "Sound of Sk",
+      "desc": "Learn 'sk' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K6.ABEF",
+      "title": "Phonics Flashcards",
+      "desc": "skirt, sky, brown, bread"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K6.ABEF-sights.K1.ABCDEFGH",
+      "title": "Phonics Quiz",
+      "desc": "skirt, sky, brown, bread"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K6.AB",
+      "title": "Find Sk",
+      "desc": "Look for 'sk' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonemes.K6.AB",
+      "title": "Phonemes Flashcards",
+      "desc": "sk"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K6.AB-phonics.K6.ABEF",
+      "title": "Phonemes Quiz",
+      "desc": "sk"
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "places_puzzle"
+      },
+      "route": "/lesson/spots/activity/places_puzzle/rank/1?content=spots.places.ABCDEF",
+      "title": "Locations",
+      "desc": "Put the map in order."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "blast"
+      },
+      "route": "/lesson/sights/activity/blast/rank/1?content=sights.K6.ABCD",
+      "title": "Word Blast",
+      "desc": "Learn these sight words."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K6.ABCD",
+      "title": "Sight Words",
+      "desc": "make, from, get, come"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K6.ABCD-phonemes.K6.AB",
+      "title": "Sight Words Quiz",
+      "desc": "make, from, get, come"
+    },
+    {
+      "icon": {
+        "lesson": "vehicles",
+        "activity": "toys"
+      },
+      "route": "/lesson/vehicles/activity/toys/rank/2?content=vehicles.core.ABCFG",
+      "title": "Transportation",
+      "desc": "Learn five vehicles."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=vehicles.core.ABCFG",
+      "title": "Vocabulary",
+      "desc": "car, bus, truck, boat..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=vehicles.core.ABCFG-sights.K6.ABCD",
+      "title": "Quiz",
+      "desc": "car, bus, truck, boat..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k06_theme?content=vehicles.core.ABCFG",
+      "title": "Which is Bigger?",
+      "desc": "Learn a dialogue about vehicles."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=vehicles.core.ABCFG-phonemes.K4.AB",
+      "title": "Quiz",
+      "desc": "car, bus, truck, boat..."
+    },
+    {
+      "icon": {
+        "lesson": "vehicles",
+        "activity": "traffic"
+      },
+      "route": "/lesson/vehicles/activity/traffic/rank/1?content=vehicles.core.ABCFG",
+      "title": "A Long Bus",
+      "desc": "Learn to describe vehicles."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "grandmas_house"
+      },
+      "route": "/lesson/karaoke/activity/grandmas_house/rank/2?content=vehicles.core.ABCFG",
+      "title": "Grandma's House",
+      "desc": "Sing about cars and trains."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=vehicles.core.ABCFG-phonics.K4.AEBF",
+      "title": "Quiz",
+      "desc": "car, bus, truck, boat..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K6.EFCD",
+      "title": "Sound of Br",
+      "desc": "Learn 'br' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K6.EFCD",
+      "title": "Phonics Flashcards",
+      "desc": "brown, bread, ask, desk"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K6.EFCD-sights.K4.ABCDEFGH",
+      "title": "Phonics Quiz",
+      "desc": "brown, bread, ask, desk"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K6.CD",
+      "title": "Find Br",
+      "desc": "Look for 'br' sounds."
+    },
+    {
+      "icon": {
+        "lesson": "vehicles",
+        "activity": "voice"
+      },
+      "route": "/lesson/vehicles/activity/voice/rank/1?content=vehicles.core.ABCFG",
+      "title": "Car Talk",
+      "desc": "Speak about transportation."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=vehicles.core.ABCFG-vegetables.cylets.ABCDEF",
+      "title": "Quiz",
+      "desc": "car, bus, truck, boat..."
+    },
+    {
+      "icon": {
+        "lesson": "vehicles",
+        "activity": "pilot"
+      },
+      "route": "/lesson/vehicles/activity/pilot/rank/1?content=vehicles.core.ABCFG",
+      "title": "Spell Vehicles",
+      "desc": "Spell bus, boat and lorry."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "wall"
+      },
+      "route": "/lesson/sights/activity/wall/rank/1?content=sights.K6.EFGH",
+      "title": "Word Wall",
+      "desc": "Review these sight words."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K6.EFGH",
+      "title": "Sight Words",
+      "desc": "many, all, big, small"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K6.EFGH-house.furniture.ABCDEF",
+      "title": "Sight Words Quiz",
+      "desc": "many, all, big, small"
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "memory"
+      },
+      "route": "/lesson/spots/activity/memory/rank/2?content=spots.class.ABCDEF",
+      "title": "Teacher and Students",
+      "desc": "Learn people in a classroom."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=spots.class.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "test, children, teacher..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.class.ABCDEF-spots.house.ABCDEF",
+      "title": "Quiz",
+      "desc": "test, children, teacher..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k07_spot?content=spots.class.ABCDEF",
+      "title": "In Your Class",
+      "desc": "Learn a dialogue about the class."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.class.ABCDEF-adjectives.core.ABCDEF",
+      "title": "Quiz",
+      "desc": "test, children, teacher..."
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "class_poster"
+      },
+      "route": "/lesson/spots/activity/class_poster/rank/2?content=spots.class.ABCDEF",
+      "title": "Animal Classroom",
+      "desc": "Identify people in a class."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "how_many_children"
+      },
+      "route": "/lesson/karaoke/activity/how_many_children/rank/2?content=spots.class.ABCDEF",
+      "title": "How Many Children?",
+      "desc": "Sing about how many people."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.class.ABCDEF-phonics.K2.AEBF",
+      "title": "Quiz",
+      "desc": "test, children, teacher..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/1?content=phonics.K7.ABEF",
+      "title": "Sound of Pr",
+      "desc": "Learn 'pr' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K7.ABEF",
+      "title": "Phonics Flashcards",
+      "desc": "pry, pram, start, stop"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K7.ABEF-phonics.K3.AEBF",
+      "title": "Phonics Quiz",
+      "desc": "pry, pram, start, stop"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K7.AB",
+      "title": "Find Pr",
+      "desc": "Look for 'pr' sounds."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonemes.K7.AB",
+      "title": "Phonemes Flashcards",
+      "desc": "pr, st"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K7.AB-phonics.K7.ABEF",
+      "title": "Phonemes Quiz",
+      "desc": "pr, st"
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "class_puzzle"
+      },
+      "route": "/lesson/spots/activity/class_puzzle/rank/1?content=spots.class.ABCDEF",
+      "title": "Class Puzzle",
+      "desc": "Put the school together."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "blast"
+      },
+      "route": "/lesson/sights/activity/blast/rank/1?content=sights.K7.ABCD",
+      "title": "Word Blast",
+      "desc": "Learn these sight words."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K7.ABCD",
+      "title": "Sight Words",
+      "desc": "have, has, do, does"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K7.ABCD-phonemes.K7.AB",
+      "title": "Sight Words Quiz",
+      "desc": "have, has, do, does"
+    },
+    {
+      "icon": {
+        "lesson": "adjectives",
+        "activity": "voice"
+      },
+      "route": "/lesson/adjectives/activity/voice/rank/2?content=adjectives.cylets.ABCDGH",
+      "title": "New and Old",
+      "desc": "Learn six adjectives."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=adjectives.cylets.ABCDGH",
+      "title": "Vocabulary",
+      "desc": "new, old, beautiful, ugly..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=adjectives.cylets.ABCDGH-sights.K7.ABCD",
+      "title": "Quiz",
+      "desc": "new, old, beautiful, ugly..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k07_theme?content=adjectives.cylets.ABCDGH",
+      "title": "It's Really Clean",
+      "desc": "Learn a descriptive dialogue."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=adjectives.cylets.ABCDGH-phonemes.K3.AB",
+      "title": "Quiz",
+      "desc": "new, old, beautiful, ugly..."
+    },
+    {
+      "icon": {
+        "lesson": "adjectives",
+        "activity": "wall_poster"
+      },
+      "route": "/lesson/adjectives/activity/wall_poster/rank/2?content=adjectives.cylets.ABCDGH",
+      "title": "Adjectives",
+      "desc": "Identify six adjectives."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "on_my_street"
+      },
+      "route": "/lesson/karaoke/activity/on_my_street/rank/2?content=adjectives.cylets.ABCDGH",
+      "title": "On My Street",
+      "desc": "Sing about adjectives."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=adjectives.cylets.ABCDGH-spots.sports.ABCDEF",
+      "title": "Quiz",
+      "desc": "new, old, beautiful, ugly..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/3?content=phonics.K7.EFGHABCD",
+      "title": "Sound of St",
+      "desc": "Learn 'st' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K7.EFGHABCD",
+      "title": "Phonics Flashcards",
+      "desc": "start, stop, story, monster..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K7.EFGHABCD-sights.K3.ABCDEFGH",
+      "title": "Phonics Quiz",
+      "desc": "start, stop, story, monster..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/3?content=phonemes.K7.AB",
+      "title": "Find St",
+      "desc": "Look for 'st' sound."
+    },
+    {
+      "icon": {
+        "lesson": "adjectives",
+        "activity": "cups"
+      },
+      "route": "/lesson/adjectives/activity/cups/rank/2?content=adjectives.cylets.ABCDGH",
+      "title": "Memory Test",
+      "desc": "Follow the adjectives."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=adjectives.cylets.ABCDGH-animals.core.CDEFIABGHJ",
+      "title": "Quiz",
+      "desc": "new, old, beautiful, ugly..."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "wall"
+      },
+      "route": "/lesson/sights/activity/wall/rank/1?content=sights.K7.EFGH",
+      "title": "Word Wall",
+      "desc": "Review these sight words."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K7.EFGH",
+      "title": "Sight Words",
+      "desc": "like, color, my, your"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K7.EFGH-sights.K2.ABCDEFGH",
+      "title": "Sight Words Quiz",
+      "desc": "like, color, my, your"
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "hobby_poster"
+      },
+      "route": "/lesson/spots/activity/hobby_poster/rank/2?content=spots.hobbies.ABCDEF",
+      "title": "Hobbies",
+      "desc": "Learn six fun things to do."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=spots.hobbies.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "take photos, play the piano..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.hobbies.ABCDEF-phonics.K5.AEBF",
+      "title": "Quiz",
+      "desc": "take photos, play the piano..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k08_spot?content=spots.hobbies.ABCDEF",
+      "title": "What's Your Hobby?",
+      "desc": "Learn a dialogue about hobbies."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.hobbies.ABCDEF-sports.cylets.ABCDE",
+      "title": "Quiz",
+      "desc": "take photos, play the piano..."
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "memory"
+      },
+      "route": "/lesson/spots/activity/memory/rank/3?content=spots.hobbies.ABCDEF",
+      "title": "Match Hobbies",
+      "desc": "Learn common hobbies"
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "what_do_you_like_to_do"
+      },
+      "route": "/lesson/karaoke/activity/what_do_you_like_to_do/rank/2?content=spots.hobbies.ABCDEF",
+      "title": "Hobby Song",
+      "desc": "Sing about your hobbies."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.hobbies.ABCDEF-sights.K5.ABCDEFGH",
+      "title": "Quiz",
+      "desc": "take photos, play the piano..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K8.ABEF",
+      "title": "Sound of Sm",
+      "desc": "Learn 'sm' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K8.ABEF",
+      "title": "Phonics Flashcards",
+      "desc": "small, smile, fry, friend"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K8.ABEF-body.core.ABCDEF",
+      "title": "Phonics Quiz",
+      "desc": "small, smile, fry, friend"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/2?content=phonemes.K8.AB",
+      "title": "Find Sm",
+      "desc": "Look for 'sm' sounds."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonemes.K8.AB",
+      "title": "Phonemes Flashcards",
+      "desc": "sm, fr"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K8.AB-phonics.K8.ABEF",
+      "title": "Phonemes Quiz",
+      "desc": "sm, fr"
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "hobby_voice"
+      },
+      "route": "/lesson/spots/activity/hobby_voice/rank/3?content=spots.hobbies.ABCDEF",
+      "title": "Hobby Talk",
+      "desc": "Speak about fun things to do."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "blast"
+      },
+      "route": "/lesson/sights/activity/blast/rank/1?content=sights.K8.ABCD",
+      "title": "Word Blast",
+      "desc": "Learn have, has, do and does."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K8.ABCD",
+      "title": "Sight Words",
+      "desc": "who, what, how, whose"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K8.ABCD-phonemes.K8.AB",
+      "title": "Sight Words Quiz",
+      "desc": "who, what, how, whose"
+    },
+    {
+      "icon": {
+        "lesson": "sea_animals",
+        "activity": "aquarium"
+      },
+      "route": "/lesson/sea_animals/activity/aquarium/rank/1?content=sea_animals.core.BCDEG",
+      "title": "Five Sea Animals",
+      "desc": "Learn five ocean animals."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sea_animals.core.BCDEG",
+      "title": "Vocabulary",
+      "desc": "fish, shark, whale, octopus..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sea_animals.core.BCDEG-sights.K8.ABCD",
+      "title": "Quiz",
+      "desc": "fish, shark, whale, octopus..."
+    },
+    {
+      "icon": {
+        "lesson": "sea_animals",
+        "activity": "hot_spring"
+      },
+      "route": "/lesson/sea_animals/activity/hot_spring/rank/2?content=sea_animals.core.ABCDEFGHIJKL",
+      "title": "Twelve Sea Animals",
+      "desc": "Learn more sea creatures."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k08_theme?content=sea_animals.core.BCDEG",
+      "title": "The Shark is Bigger",
+      "desc": "Learn a sea animal dialogue."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sea_animals.core.BCDEG-phonemes.K5.AB",
+      "title": "Quiz",
+      "desc": "fish, shark, whale, octopus..."
+    },
+    {
+      "icon": {
+        "lesson": "sea_animals",
+        "activity": "grow"
+      },
+      "route": "/lesson/sea_animals/activity/grow/rank/3?content=sea_animals.core.BCDEG",
+      "title": "Grow Your Fish",
+      "desc": "Practice comparatives."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "sea_animals"
+      },
+      "route": "/lesson/karaoke/activity/sea_animals/rank/2?content=sea_animals.core.BCDEG",
+      "title": "Sea Song",
+      "desc": "Sing about sea animals."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sea_animals.core.BCDEG-phonemes.K2.AB",
+      "title": "Quiz",
+      "desc": "fish, shark, whale, octopus..."
+    },
+    {
+      "icon": {
+        "lesson": "sea_animals",
+        "activity": "aquarium"
+      },
+      "route": "/lesson/sea_animals/activity/aquarium/rank/2?content=sea_animals.core.AFHIJKL",
+      "title": "Smaller Sea Beasts",
+      "desc": "Review bonus marine animals."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/3?content=phonics.K8.EFAB",
+      "title": "Sound of Fr",
+      "desc": "Learn 'fr' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K8.EFAB",
+      "title": "Phonics Flashcards",
+      "desc": "fry, friend, small, smile"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K8.EFAB-spots.feelings.ABCDEF",
+      "title": "Phonics Quiz",
+      "desc": "fry, friend, small, smile"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/3?content=phonemes.K8.AB",
+      "title": "Find Fr",
+      "desc": "Look for 'fr' sounds."
+    },
+    {
+      "icon": {
+        "lesson": "sea_animals",
+        "activity": "diner"
+      },
+      "route": "/lesson/sea_animals/activity/diner/rank/2?content=sea_animals.core.ABCDEFGHIJKL",
+      "title": "Ocean Cafe",
+      "desc": "Practice twelve sea animals."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sea_animals.core.ABCDEFGHIJKL",
+      "title": "Vocabulary",
+      "desc": "shrimp, fish, shark, whale..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sea_animals.core.ABCDEFGHIJKL-phonics.K1.ABCDEFGH",
+      "title": "Quiz",
+      "desc": "shrimp, fish, shark, whale..."
+    },
+    {
+      "icon": {
+        "lesson": "sea_animals",
+        "activity": "captain"
+      },
+      "route": "/lesson/sea_animals/activity/captain/rank/2?content=sea_animals.core.BCDEG",
+      "title": "Sea Speller",
+      "desc": "Spell several sea creatures."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "wall"
+      },
+      "route": "/lesson/sights/activity/wall/rank/1?content=sights.K8.EFGH",
+      "title": "Word Wall",
+      "desc": "Learn sight words."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K8.EFGH",
+      "title": "Sight Words",
+      "desc": "love, hate, need, want"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K8.EFGH-spots.prepositions.ABDCEF",
+      "title": "Sight Words Quiz",
+      "desc": "love, hate, need, want"
+    },
+    {
+      "icon": {
+        "lesson": "sea_animals",
+        "activity": "grow"
+      },
+      "route": "/lesson/sea_animals/activity/grow/rank/4?content=sea_animals.core.BCDEG",
+      "title": "Get Bigger",
+      "desc": "Learn bigger and smaller than."
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "class_toy_puzzle"
+      },
+      "route": "/lesson/spots/activity/class_toy_puzzle/rank/2?content=spots.class_toy.ABCDEF",
+      "title": "Classroom",
+      "desc": "Learn parts of a classroom."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=spots.class_toy.ABCDEF",
+      "title": "Vocabulary",
+      "desc": "classroom, window, door..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.class_toy.ABCDEF-spots.meals.ABCDEF",
+      "title": "Quiz",
+      "desc": "classroom, window, door..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k09_spot?content=spots.class_toy.ABCDEF",
+      "title": "Answer the Question",
+      "desc": "Learn a classroom dialogue."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.class_toy.ABCDEF-spots.places.ABCDEF",
+      "title": "Quiz",
+      "desc": "classroom, window, door..."
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "class_toy_voice"
+      },
+      "route": "/lesson/spots/activity/class_toy_voice/rank/2?content=spots.class_toy.ABCDEF",
+      "title": "Say Window",
+      "desc": "Speak about the classroom."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "in_our_classroom"
+      },
+      "route": "/lesson/karaoke/activity/in_our_classroom/rank/2?content=spots.class_toy.ABCDEF",
+      "title": "In Our Classroom",
+      "desc": "Sing about the classroom."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.class_toy.ABCDEF-phonemes.K1.ABCD",
+      "title": "Quiz",
+      "desc": "classroom, window, door..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/1?content=phonics.K9.ABEF",
+      "title": "Sound of Sw",
+      "desc": "Learn 'sw' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K9.ABEF",
+      "title": "Phonics Flashcards",
+      "desc": "sweets, swim, cross, creek"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K9.ABEF-food.core.ADEFIJK",
+      "title": "Phonics Quiz",
+      "desc": "sweets, swim, cross, creek"
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K9.AB",
+      "title": "Find Sw",
+      "desc": "Look for 'sw' sounds."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonemes.K9.AB",
+      "title": "Phonemes Flashcards",
+      "desc": "sw, cr"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K9.AB-phonics.K9.ABEF",
+      "title": "Phonemes Quiz",
+      "desc": "sw, cr"
+    },
+    {
+      "icon": {
+        "lesson": "spots",
+        "activity": "class_toy_poster"
+      },
+      "route": "/lesson/spots/activity/class_toy_poster/rank/2?content=spots.class_toy.ABCDEF",
+      "title": "Board Door Floor",
+      "desc": "Practice classroom items."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "blast"
+      },
+      "route": "/lesson/sights/activity/blast/rank/1?content=sights.K9.ABCD",
+      "title": "Word Blast",
+      "desc": "Learn mine, yours, hers and his."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K9.ABCD",
+      "title": "Sight Words",
+      "desc": "mine, yours, his, hers"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K9.ABCD-phonemes.K9.AB",
+      "title": "Sight Words Quiz",
+      "desc": "mine, yours, his, hers"
+    },
+    {
+      "icon": {
+        "lesson": "house",
+        "activity": "sheds"
+      },
+      "route": "/lesson/house/activity/sheds/rank/2?content=house.rooms.ABCDEG",
+      "title": "Moving Rooms",
+      "desc": "Follow the six rooms."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=house.rooms.ABCDEG",
+      "title": "Vocabulary",
+      "desc": "kitchen, bedroom, bathroom..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=house.rooms.ABCDEG-sights.K9.ABCD",
+      "title": "Quiz",
+      "desc": "kitchen, bedroom, bathroom..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "dialogue"
+      },
+      "route": "/activity/dialogue/k09_theme?content=house.rooms.ABCDEG",
+      "title": "In the Kitchen",
+      "desc": "Learn a dialogue about rooms."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=house.rooms.ABCDEG-sights.K1.ABCDEFGH",
+      "title": "Quiz",
+      "desc": "kitchen, bedroom, bathroom..."
+    },
+    {
+      "icon": {
+        "lesson": "house",
+        "activity": "puzzle"
+      },
+      "route": "/lesson/house/activity/puzzle/rank/2?content=house.rooms.ABCDEG",
+      "title": "Puzzle House",
+      "desc": "Put the house together."
+    },
+    {
+      "icon": {
+        "lesson": "karaoke",
+        "activity": "my_new_house"
+      },
+      "route": "/lesson/karaoke/activity/my_new_house/rank/2?content=house.rooms.ABCDEG",
+      "title": "My New House",
+      "desc": "Sing about the rooms."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=house.rooms.ABCDEG-phonics.K6.ABEFCD",
+      "title": "Quiz",
+      "desc": "kitchen, bedroom, bathroom..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "sort"
+      },
+      "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K9.EFGHABCD",
+      "title": "Sound of Cr",
+      "desc": "Learn 'cr' phonics."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K9.EFGHABCD",
+      "title": "Phonics Flashcards",
+      "desc": "cross, creek, cry, crib..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K9.EFGHABCD-phonemes.K6.ABCD",
+      "title": "Phonics Quiz",
+      "desc": "cross, creek, cry, crib..."
+    },
+    {
+      "icon": {
+        "lesson": "phonics",
+        "activity": "tree"
+      },
+      "route": "/lesson/phonics/activity/tree/rank/2?content=phonemes.K9.AB",
+      "title": "Find Cr",
+      "desc": "Look for 'cr' sounds."
+    },
+    {
+      "icon": {
+        "lesson": "house",
+        "activity": "put"
+      },
+      "route": "/lesson/house/activity/put/rank/3?content=house.furniture.ABCDEFGHIJKL",
+      "title": "Place Furniture",
+      "desc": "Put the objects in the right rooms."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=house.furniture.ABCDEFGHIJKL",
+      "title": "Vocabulary",
+      "desc": "bed, chair, table, sofa..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=house.furniture.ABCDEFGHIJKL-sights.K6.ABCDEFGH",
+      "title": "Quiz",
+      "desc": "bed, chair, table, sofa..."
+    },
+    {
+      "icon": {
+        "lesson": "house",
+        "activity": "cutaway"
+      },
+      "route": "/lesson/house/activity/cutaway/rank/2?content=house.rooms.ABCDE",
+      "title": "House Speller",
+      "desc": "Spell the rooms of the house."
+    },
+    {
+      "icon": {
+        "lesson": "sights",
+        "activity": "wall"
+      },
+      "route": "/lesson/sights/activity/wall/rank/1?content=sights.K9.EFGH",
+      "title": "Word Wall",
+      "desc": "Learn ours, theirs, may and too."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K9.EFGH",
+      "title": "Sight Words",
+      "desc": "ours, theirs, may, too"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K9.EFGH-vehicles.core.ABCFG",
+      "title": "Sight Words Quiz",
+      "desc": "ours, theirs, may, too"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K1.ABCDEFGH",
+      "title": "Phonics Flashcards",
+      "desc": "black, blue, double, table..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K1.ABCDEFGH",
+      "title": "Phonics Quiz",
+      "desc": "black, blue, double, table..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonemes.K1.ABCD",
+      "title": "Phonemes Flashcards",
+      "desc": "bl, pl"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K1.ABCD",
+      "title": "Phonemes Quiz",
+      "desc": "bl, pl"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K1.ABCDEFGH",
+      "title": "Sight Words",
+      "desc": "I, am, hi, hello, it, is..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K1.ABCDEFGH",
+      "title": "Sight Words Quiz",
+      "desc": "I, am, hi, hello, it, is..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=adjectives.core.ABCDEF",
+      "title": "Quiz",
+      "desc": "big, small, long, short..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=spots.prepositions.ABDCEF",
+      "title": "Vocabulary",
+      "desc": "in, on, under, in front of..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.prepositions.ABDCEF",
+      "title": "Quiz",
+      "desc": "in, on, under, in front of..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K2.AEBF",
+      "title": "Phonics Flashcards",
+      "desc": "draw, train, dress, tree"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K2.AEBF",
+      "title": "Phonics Quiz",
+      "desc": "draw, train, dress, tree"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K2.AB",
+      "title": "Phonemes Quiz",
+      "desc": "dr, tr"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=animals.core.CDEFIABGHJ",
+      "title": "Vocabulary",
+      "desc": "monkey, lion, tiger, bear..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=animals.core.CDEFIABGHJ",
+      "title": "Quiz",
+      "desc": "monkey, lion, tiger, bear..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K2.ABCDEFGH",
+      "title": "Sight Words",
+      "desc": "how, be, fine, thank, a, of..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K2.ABCDEFGH",
+      "title": "Sight Words Quiz",
+      "desc": "how, be, fine, thank, a, of..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=house.furniture.ABCDEF",
+      "title": "Quiz",
+      "desc": "bed, chair, table, sofa..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.house.ABCDEF",
+      "title": "Quiz",
+      "desc": "house, flat, room, cupboard..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.prepositions.ABCDEF",
+      "title": "Quiz",
+      "desc": "in, on, in front of, under..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K3.AEBF",
+      "title": "Phonics Flashcards",
+      "desc": "spell, snake, spider, snow"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K3.AEBF",
+      "title": "Phonics Quiz",
+      "desc": "spell, snake, spider, snow"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K3.AB",
+      "title": "Phonemes Quiz",
+      "desc": "sp, sn"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K3.ABCDEFGH",
+      "title": "Sight Words",
+      "desc": "she, he, over, for, on, in..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K3.ABCDEFGH",
+      "title": "Sight Words Quiz",
+      "desc": "she, he, over, for, on, in..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.meals.ABCDEF",
+      "title": "Quiz",
+      "desc": "breakfast, lunch, dinner..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=food.core.ADEFIJK",
+      "title": "Vocabulary",
+      "desc": "bread, rice, cake, soup..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=food.core.ADEFIJK",
+      "title": "Quiz",
+      "desc": "bread, rice, cake, soup..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K4.AEBF",
+      "title": "Phonics Flashcards",
+      "desc": "flat, sleep, floor, slow"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K4.AEBF",
+      "title": "Phonics Quiz",
+      "desc": "flat, sleep, floor, slow"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonemes.K4.AB",
+      "title": "Phonemes Flashcards",
+      "desc": "fl, sl"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K4.AB",
+      "title": "Phonemes Quiz",
+      "desc": "fl, sl"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K4.ABCDEFGH",
+      "title": "Sight Words",
+      "desc": "this, that, these, those..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K4.ABCDEFGH",
+      "title": "Sight Words Quiz",
+      "desc": "this, that, these, those..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=vegetables.cylets.ABCDEF",
+      "title": "Quiz",
+      "desc": "carrot, tomato, potato, pea..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.sports.ABCDEF",
+      "title": "Quiz",
+      "desc": "football, baseball, hockey..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K5.AEBF",
+      "title": "Phonics Flashcards",
+      "desc": "class, glasses, clean, ugly"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K5.AEBF",
+      "title": "Phonics Quiz",
+      "desc": "class, glasses, clean, ugly"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K5.AB",
+      "title": "Phonemes Quiz",
+      "desc": "cl, gl"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sports.cylets.ABCDE",
+      "title": "Vocabulary",
+      "desc": "hockey, football, tennis..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sports.cylets.ABCDE",
+      "title": "Quiz",
+      "desc": "hockey, football, tennis..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K5.ABCDEFGH",
+      "title": "Sight Words",
+      "desc": "here, there, one, two, four..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K5.ABCDEFGH",
+      "title": "Sight Words Quiz",
+      "desc": "here, there, one, two, four..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=body.core.ABCDEF",
+      "title": "Quiz",
+      "desc": "head, hair, nose, eye, ear..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.places.ABCDEF",
+      "title": "Quiz",
+      "desc": "school, park, playground..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K6.ABEFCD",
+      "title": "Phonics Flashcards",
+      "desc": "skirt, sky, brown, bread..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K6.ABEFCD",
+      "title": "Phonics Quiz",
+      "desc": "skirt, sky, brown, bread..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonemes.K6.ABCD",
+      "title": "Phonemes Flashcards",
+      "desc": "sk, br"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K6.ABCD",
+      "title": "Phonemes Quiz",
+      "desc": "sk, br"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K6.ABCDEFGH",
+      "title": "Sight Words",
+      "desc": "make, from, get, come, many..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K6.ABCDEFGH",
+      "title": "Sight Words Quiz",
+      "desc": "make, from, get, come, many..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=vehicles.core.ABCFG",
+      "title": "Quiz",
+      "desc": "car, bus, truck, boat..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.class.ABCDEF",
+      "title": "Quiz",
+      "desc": "test, children, teacher..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K7.ABEFGHCD",
+      "title": "Phonics Flashcards",
+      "desc": "pry, pram, start, stop..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K7.ABEFGHCD",
+      "title": "Phonics Quiz",
+      "desc": "pry, pram, start, stop..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K7.AB",
+      "title": "Phonemes Quiz",
+      "desc": "pr, st"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K7.ABCDEFGH",
+      "title": "Sight Words",
+      "desc": "have, has, do, does, like..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K7.ABCDEFGH",
+      "title": "Sight Words Quiz",
+      "desc": "have, has, do, does, like..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=adjectives.cylets.ABCDGH",
+      "title": "Quiz",
+      "desc": "new, old, beautiful, ugly..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.hobbies.ABCDEF",
+      "title": "Quiz",
+      "desc": "take photos, play the piano..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K8.ABEF",
+      "title": "Phonics Quiz",
+      "desc": "small, smile, fry, friend"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K8.AB",
+      "title": "Phonemes Quiz",
+      "desc": "sm, fr"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K8.ABCDEFGH",
+      "title": "Sight Words",
+      "desc": "who, what, how, whose, love..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K8.ABCDEFGH",
+      "title": "Sight Words Quiz",
+      "desc": "who, what, how, whose, love..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sea_animals.core.BCDEGAFHIJKL",
+      "title": "Vocabulary",
+      "desc": "fish, shark, whale, octopus..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sea_animals.core.BCDEGAFHIJKL",
+      "title": "Quiz",
+      "desc": "fish, shark, whale, octopus..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=spots.class_toy.ABCDEF",
+      "title": "Quiz",
+      "desc": "classroom, window, door..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=phonics.K9.ABEFGHCD",
+      "title": "Phonics Flashcards",
+      "desc": "sweets, swim, cross, creek..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonics.K9.ABEFGHCD",
+      "title": "Phonics Quiz",
+      "desc": "sweets, swim, cross, creek..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=phonemes.K9.AB",
+      "title": "Phonemes Quiz",
+      "desc": "sw, cr"
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "flashcards"
+      },
+      "route": "/activity/flashcards?content=sights.K9.ABCDEFGH",
+      "title": "Sight Words",
+      "desc": "mine, yours, his, hers, may..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=sights.K9.ABCDEFGH",
+      "title": "Sight Words Quiz",
+      "desc": "mine, yours, his, hers, may..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=house.rooms.ABCDEG",
+      "title": "Quiz",
+      "desc": "kitchen, bedroom, bathroom..."
+    },
+    {
+      "icon": {
+        "lesson": "none",
+        "activity": "quiz"
+      },
+      "route": "/activity/quiz/rank/3?content=house.furniture.ABCDEFGHIJKL",
+      "title": "Quiz",
+      "desc": "bed, chair, table, sofa..."
+    }
+  ]
+}
