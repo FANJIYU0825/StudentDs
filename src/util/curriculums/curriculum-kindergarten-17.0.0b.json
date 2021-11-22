@@ -1,0 +1,4285 @@
+{
+  "name": "kindergarten",
+  "title": "Kindergarten Level",
+  "version": "17.0.0b",
+  "totalUnits": 12,
+  "modulesPerUnit": 12,
+  "date": "2018-08-17 18:23",
+  "units": [
+    {
+      "index": 1,
+      "icon": "adjectives",
+      "titles": {
+        "gb": "Adjectives",
+        "zh_hans": "形容词",
+        "zh_hant": "形容詞"
+      },
+      "modules": [
+        {
+          "index": 1,
+          "week": "1",
+          "day": "1",
+          "focus": "Spotlight",
+          "lesson": "1",
+          "icon": {
+            "type": "content",
+            "word": "spot_excited"
+          },
+          "titles": {
+            "gb": "Feelings",
+            "zh_hans": "情绪",
+            "zh_hant": "情緒"
+          },
+          "activities": [
+            {
+              "unitName": 1,
+              "moduleName": 1,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=spots.feelings.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 1,
+              "rank": "4",
+              "icon": {
+                "type": "activity",
+                "lesson": "feelings",
+                "activity": "poster"
+              },
+              "route": "/lesson/feelings/activity/poster/rank/4?content=spots.feelings.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Feelings",
+                "zh_hans": "自我的感受",
+                "zh_hant": "自我的感受"
+              },
+              "descs": {
+                "gb": "Identify six emotions.",
+                "zh_hans": "辨别六种情绪",
+                "zh_hant": "辨別六種情緒"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 1,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "feelings",
+                "activity": "twobytwo"
+              },
+              "route": "/lesson/feelings/activity/twobytwo/rank/1?content=spots.feelings.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Match Feelings",
+                "zh_hans": "情绪配对",
+                "zh_hant": "情緒配對"
+              },
+              "descs": {
+                "gb": "Review six emotions.",
+                "zh_hans": "复习六种情绪",
+                "zh_hant": "複習六種情緒"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 1,
+              "rank": "4",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=spots.feelings.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "spots.feelings.ABCDEF",
+          "contentItems": {
+            "spot_happy_2": "happy",
+            "spot_sad": "sad",
+            "spot_bored": "bored",
+            "spot_excited": "excited",
+            "spot_angry": "angry",
+            "spot_scared": "scared"
+          }
+        },
+        {
+          "index": 2,
+          "week": "1",
+          "day": "2",
+          "focus": "Spotlight",
+          "lesson": "2",
+          "icon": {
+            "type": "content",
+            "word": "spot_sad"
+          },
+          "titles": {
+            "gb": "Face Pairs",
+            "zh_hans": "表情配对",
+            "zh_hant": "表情配對"
+          },
+          "activities": [
+            {
+              "unitName": 1,
+              "moduleName": 2,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=spots.feelings.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 2,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "feelings",
+                "activity": "memory"
+              },
+              "route": "/lesson/feelings/activity/memory/rank/2?content=spots.feelings.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Face Pairs",
+                "zh_hans": "表情配对",
+                "zh_hant": "表情配對"
+              },
+              "descs": {
+                "gb": "Remember feelings.",
+                "zh_hans": "记住各种感觉",
+                "zh_hant": "記住各種感覺"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 2,
+              "rank": "4",
+              "icon": {
+                "type": "activity",
+                "lesson": "feelings",
+                "activity": "poster"
+              },
+              "route": "/lesson/feelings/activity/poster/rank/4?content=spots.feelings.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Feelings",
+                "zh_hans": "自我的感受",
+                "zh_hant": "自我的感受"
+              },
+              "descs": {
+                "gb": "Identify six emotions.",
+                "zh_hans": "辨别六种情绪",
+                "zh_hant": "辨別六種情緒"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 2,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=spots.feelings.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "spots.feelings.ABCDEF",
+          "contentItems": {
+            "spot_happy_2": "happy",
+            "spot_sad": "sad",
+            "spot_bored": "bored",
+            "spot_excited": "excited",
+            "spot_angry": "angry",
+            "spot_scared": "scared"
+          }
+        },
+        {
+          "index": 3,
+          "week": "1",
+          "day": "3",
+          "focus": "Spotlight",
+          "lesson": "3",
+          "icon": {
+            "type": "content",
+            "word": "spot_happy_2"
+          },
+          "titles": {
+            "gb": "You Look Sad",
+            "zh_hans": "你看起来很开心",
+            "zh_hant": "你看起來很傷心"
+          },
+          "activities": [
+            {
+              "unitName": 1,
+              "moduleName": 3,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=spots.feelings.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 3,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "karaoke",
+                "activity": "you_look_sad"
+              },
+              "route": "/lesson/karaoke/activity/you_look_sad/rank/2?content=spots.feelings.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "You Look Sad",
+                "zh_hans": "你看起来很伤心",
+                "zh_hant": "你看起來很傷心"
+              },
+              "descs": {
+                "gb": "Sing about feelings.",
+                "zh_hans": "表达自己的感受",
+                "zh_hant": "表達自己的感受"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 3,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "feelings",
+                "activity": "memory"
+              },
+              "route": "/lesson/feelings/activity/memory/rank/2?content=spots.feelings.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Face Pairs",
+                "zh_hans": "表情配对",
+                "zh_hant": "表情配對"
+              },
+              "descs": {
+                "gb": "Remember feelings.",
+                "zh_hans": "记住各种感觉",
+                "zh_hant": "記住各種感覺"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 3,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=spots.feelings.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "spots.feelings.ABCDEF",
+          "contentItems": {
+            "spot_happy_2": "happy",
+            "spot_sad": "sad",
+            "spot_bored": "bored",
+            "spot_excited": "excited",
+            "spot_angry": "angry",
+            "spot_scared": "scared"
+          }
+        },
+        {
+          "index": 4,
+          "week": "1",
+          "day": "4",
+          "focus": "Spotlight",
+          "lesson": "4",
+          "icon": {
+            "type": "content",
+            "word": "phonemes_ble"
+          },
+          "titles": {
+            "gb": "Sound of Bl",
+            "zh_hans": "复合子音BL",
+            "zh_hant": "複合子音BL"
+          },
+          "activities": [
+            {
+              "unitName": 1,
+              "moduleName": 4,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=phonemes.K1.ABCDEFGH",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 4,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "tree"
+              },
+              "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K1.ABCDEFGH",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Sound of Bl",
+                "zh_hans": "BL的发音",
+                "zh_hant": "BL的發音"
+              },
+              "descs": {
+                "gb": "Learn 'bl' phonics.",
+                "zh_hans": "学习'bl'的自然发音",
+                "zh_hant": "學習'bl'的自然發音"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 4,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "karaoke",
+                "activity": "you_look_sad"
+              },
+              "route": "/lesson/karaoke/activity/you_look_sad/rank/2?content=spots.feelings.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "You Look Sad",
+                "zh_hans": "你看起来很伤心",
+                "zh_hant": "你看起來很傷心"
+              },
+              "descs": {
+                "gb": "Sing about feelings.",
+                "zh_hans": "表达自己的感受",
+                "zh_hant": "表達自己的感受"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 4,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=phonemes.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "phonemes.K1.ABCDEFGH",
+          "contentItems": {
+            "phonemes_bl": "bl",
+            "phonemes_ble": "bl",
+            "phonemes_pl": "pl",
+            "phonemes_ple": "pl"
+          }
+        },
+        {
+          "index": 5,
+          "week": "2",
+          "day": "1",
+          "focus": "Spotlight",
+          "lesson": "5",
+          "icon": {
+            "type": "content",
+            "word": "phonics_blue"
+          },
+          "titles": {
+            "gb": "Find Bl",
+            "zh_hans": "BL的发音",
+            "zh_hant": "BL的發音"
+          },
+          "activities": [
+            {
+              "unitName": 1,
+              "moduleName": 5,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=phonics.K1.ABCDEFGH",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 5,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "sort"
+              },
+              "route": "/lesson/phonics/activity/sort/rank/1?content=phonics.K1.ABCDEFGH",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Find Bl",
+                "zh_hans": "找出BL的发音",
+                "zh_hant": "找出BL的發音"
+              },
+              "descs": {
+                "gb": "Find the sound 'bl'",
+                "zh_hans": "听听哪些是'bl'的发音",
+                "zh_hant": "聽聽哪些是'bl'的發音"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 5,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "tree"
+              },
+              "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Sound of Bl",
+                "zh_hans": "BL的发音",
+                "zh_hant": "BL的發音"
+              },
+              "descs": {
+                "gb": "Learn 'bl' phonics.",
+                "zh_hans": "学习'bl'的自然发音",
+                "zh_hant": "學習'bl'的自然發音"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 5,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=phonics.K1.ABCDEFGH-phonemes.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "phonics.K1.ABCDEFGH",
+          "contentItems": {
+            "phonics_black": "black",
+            "phonics_blue": "blue",
+            "phonics_double": "double",
+            "phonics_table": "table",
+            "phonics_plane": "plane",
+            "phonics_play": "play",
+            "phonics_purple": "purple",
+            "phonics_apple": "apple"
+          }
+        },
+        {
+          "index": 6,
+          "week": "2",
+          "day": "2",
+          "focus": "Spotlight",
+          "lesson": "6",
+          "icon": {
+            "type": "content",
+            "word": "sight_hi"
+          },
+          "titles": {
+            "gb": "Sight Words",
+            "zh_hans": "常用单字",
+            "zh_hant": "常用單字"
+          },
+          "activities": [
+            {
+              "unitName": 1,
+              "moduleName": 6,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=sights.K1.ABCD",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 6,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "sights",
+                "activity": "blast"
+              },
+              "route": "/lesson/sights/activity/blast/rank/1?content=sights.K1.ABCD",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Sight Words",
+                "zh_hans": "文字炫风",
+                "zh_hant": "文字炫風"
+              },
+              "descs": {
+                "gb": "Introduce sight words.",
+                "zh_hans": "学习常见的单字",
+                "zh_hant": "學習常見的單字"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 6,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "sort"
+              },
+              "route": "/lesson/phonics/activity/sort/rank/1?content=phonics.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Find Bl",
+                "zh_hans": "找出BL的发音",
+                "zh_hant": "找出BL的發音"
+              },
+              "descs": {
+                "gb": "Find the sound 'bl'",
+                "zh_hans": "听听哪些是'bl'的发音",
+                "zh_hant": "聽聽哪些是'bl'的發音"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 6,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=sights.K1.ABCD-phonics.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "sights.K1.ABCD",
+          "contentItems": {
+            "sight_I": "I",
+            "sight_am": "am",
+            "sight_hi": "hi",
+            "sight_hello": "hello"
+          }
+        },
+        {
+          "index": 7,
+          "week": "2",
+          "day": "3",
+          "focus": "Theme",
+          "lesson": "1",
+          "icon": {
+            "type": "content",
+            "word": "big"
+          },
+          "titles": {
+            "gb": "Adjectives ",
+            "zh_hans": "形容词",
+            "zh_hant": "形容詞"
+          },
+          "activities": [
+            {
+              "unitName": 1,
+              "moduleName": 7,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=adjectives.core.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 7,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "adjectives",
+                "activity": "poster"
+              },
+              "route": "/lesson/adjectives/activity/poster/rank/1?content=adjectives.core.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Adjectives",
+                "zh_hans": "形容词",
+                "zh_hant": "形容詞"
+              },
+              "descs": {
+                "gb": "Identify six adjectives.",
+                "zh_hans": "学习六种形容词",
+                "zh_hant": "學習六種形容詞"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 7,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "sights",
+                "activity": "blast"
+              },
+              "route": "/lesson/sights/activity/blast/rank/1?content=sights.K1.ABCD",
+              "home": true,
+              "titles": {
+                "gb": "Sight Words",
+                "zh_hans": "文字炫风",
+                "zh_hant": "文字炫風"
+              },
+              "descs": {
+                "gb": "Introduce sight words.",
+                "zh_hans": "学习常见的单字",
+                "zh_hant": "學習常見的單字"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 7,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=adjectives.core.ABCDEF-sights.K1.ABCD",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "adjectives.core.ABCDEF",
+          "contentItems": {
+            "big": "big",
+            "small": "small",
+            "long": "long",
+            "short": "short",
+            "fast": "fast",
+            "slow": "slow"
+          }
+        },
+        {
+          "index": 8,
+          "week": "2",
+          "day": "4",
+          "focus": "Theme",
+          "lesson": "2",
+          "icon": {
+            "type": "content",
+            "word": "small"
+          },
+          "titles": {
+            "gb": "Memory Test",
+            "zh_hans": "考验你的记忆力",
+            "zh_hant": "考驗你的記憶力"
+          },
+          "activities": [
+            {
+              "unitName": 1,
+              "moduleName": 8,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=adjectives.core.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 8,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "adjectives",
+                "activity": "cups"
+              },
+              "route": "/lesson/adjectives/activity/cups/rank/1?content=adjectives.core.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Memory Test",
+                "zh_hans": "考验你的记忆力",
+                "zh_hant": "考驗你的記憶力"
+              },
+              "descs": {
+                "gb": "Follow the adjectives.",
+                "zh_hans": "跟着形容词走",
+                "zh_hant": "跟著形容詞走"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 8,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "adjectives",
+                "activity": "poster"
+              },
+              "route": "/lesson/adjectives/activity/poster/rank/1?content=adjectives.core.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Adjectives",
+                "zh_hans": "形容词",
+                "zh_hant": "形容詞"
+              },
+              "descs": {
+                "gb": "Identify six adjectives.",
+                "zh_hans": "学习六种形容词",
+                "zh_hant": "學習六種形容詞"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 8,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=adjectives.core.ABCDEF-spots.feelings.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "adjectives.core.ABCDEF",
+          "contentItems": {
+            "big": "big",
+            "small": "small",
+            "long": "long",
+            "short": "short",
+            "fast": "fast",
+            "slow": "slow"
+          }
+        },
+        {
+          "index": 9,
+          "week": "3",
+          "day": "1",
+          "focus": "Theme",
+          "lesson": "3",
+          "icon": {
+            "type": "content",
+            "word": "long"
+          },
+          "titles": {
+            "gb": "This Snake Is Long",
+            "zh_hans": "一条很长的蛇",
+            "zh_hant": "一條很長的蛇"
+          },
+          "activities": [
+            {
+              "unitName": 1,
+              "moduleName": 9,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=adjectives.core.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 9,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "karaoke",
+                "activity": "this_snake_is_long"
+              },
+              "route": "/lesson/karaoke/activity/this_snake_is_long/rank/2?content=adjectives.core.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "This Snake Is Long",
+                "zh_hans": "这条蛇很长",
+                "zh_hant": "這條蛇很長"
+              },
+              "descs": {
+                "gb": "Sing about adjectives.",
+                "zh_hans": "边唱边学形容词",
+                "zh_hant": "邊唱邊學形容詞"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 9,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "adjectives",
+                "activity": "cups"
+              },
+              "route": "/lesson/adjectives/activity/cups/rank/1?content=adjectives.core.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Memory Test",
+                "zh_hans": "考验你的记忆力",
+                "zh_hant": "考驗你的記憶力"
+              },
+              "descs": {
+                "gb": "Follow the adjectives.",
+                "zh_hans": "跟着形容词走",
+                "zh_hant": "跟著形容詞走"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 9,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=adjectives.core.ABCDEF-phonemes.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "adjectives.core.ABCDEF",
+          "contentItems": {
+            "big": "big",
+            "small": "small",
+            "long": "long",
+            "short": "short",
+            "fast": "fast",
+            "slow": "slow"
+          }
+        },
+        {
+          "index": 10,
+          "week": "3",
+          "day": "2",
+          "focus": "Theme",
+          "lesson": "4",
+          "icon": {
+            "type": "content",
+            "word": "phonics_plane"
+          },
+          "titles": {
+            "gb": "Sound of Pl",
+            "zh_hans": "复合子音PL",
+            "zh_hant": "複合子音PL"
+          },
+          "activities": [
+            {
+              "unitName": 1,
+              "moduleName": 10,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=phonics.K1.ABCDEFGH",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 10,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "sort"
+              },
+              "route": "/lesson/phonics/activity/sort/rank/1?content=phonics.K1.ABCDEFGH",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Sound of Pl",
+                "zh_hans": "PL的发音",
+                "zh_hant": "PL的發音"
+              },
+              "descs": {
+                "gb": "Learn 'pl' phonics.",
+                "zh_hans": "学习'pl'的自然发音",
+                "zh_hant": "學習'pl'的自然發音"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 10,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "sea_animals",
+                "activity": "grow"
+              },
+              "route": "/lesson/sea_animals/activity/grow/rank/1?content=adjectives.core.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Grow Bigger",
+                "zh_hans": "快快长大",
+                "zh_hant": "快快長大"
+              },
+              "descs": {
+                "gb": "Introduce comparatives.",
+                "zh_hans": "介绍比较级",
+                "zh_hant": "介紹比較級"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 10,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "karaoke",
+                "activity": "this_snake_is_long"
+              },
+              "route": "/lesson/karaoke/activity/this_snake_is_long/rank/2?content=adjectives.core.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "This Snake Is Long",
+                "zh_hans": "这条蛇很长",
+                "zh_hant": "這條蛇很長"
+              },
+              "descs": {
+                "gb": "Sing about adjectives.",
+                "zh_hans": "边唱边学形容词",
+                "zh_hant": "邊唱邊學形容詞"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 10,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=phonics.K1.ABCDEFGH-sights.K1.ABCD",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "phonics.K1.ABCDEFGH",
+          "contentItems": {
+            "phonics_black": "black",
+            "phonics_blue": "blue",
+            "phonics_double": "double",
+            "phonics_table": "table",
+            "phonics_plane": "plane",
+            "phonics_play": "play",
+            "phonics_purple": "purple",
+            "phonics_apple": "apple"
+          }
+        },
+        {
+          "index": 11,
+          "week": "3",
+          "day": "3",
+          "focus": "Theme",
+          "lesson": "5",
+          "icon": {
+            "type": "content",
+            "word": "sight_it"
+          },
+          "titles": {
+            "gb": "Word Wall",
+            "zh_hans": "文字墙",
+            "zh_hant": "文字牆"
+          },
+          "activities": [
+            {
+              "unitName": 1,
+              "moduleName": 11,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=sights.K1.EFGH",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 11,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "sights",
+                "activity": "wall"
+              },
+              "route": "/lesson/sights/activity/wall/rank/1?content=sights.K1.EFGH",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Word Wall",
+                "zh_hans": "文字墙",
+                "zh_hant": "文字牆"
+              },
+              "descs": {
+                "gb": "Learn \"it, is, no, yes\".",
+                "zh_hans": "学习it,is,no,yes",
+                "zh_hant": "學習it,is,no,yes"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 11,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "sort"
+              },
+              "route": "/lesson/phonics/activity/sort/rank/1?content=phonics.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Sound of Pl",
+                "zh_hans": "PL的发音",
+                "zh_hant": "PL的發音"
+              },
+              "descs": {
+                "gb": "Learn 'pl' phonics.",
+                "zh_hans": "学习'pl'的自然发音",
+                "zh_hant": "學習'pl'的自然發音"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 11,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=sights.K1.EFGH-adjectives.core.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "sights.K1.EFGH",
+          "contentItems": {
+            "sight_it": "it",
+            "sight_is": "is",
+            "sight_yes": "yes",
+            "sight_no": "no"
+          }
+        },
+        {
+          "index": 12,
+          "week": "3",
+          "day": "4",
+          "focus": "Theme",
+          "lesson": "6",
+          "icon": {
+            "type": "content",
+            "word": "fast"
+          },
+          "titles": {
+            "gb": "Big Speller",
+            "zh_hans": "拼字",
+            "zh_hant": "拼字"
+          },
+          "activities": [
+            {
+              "unitName": 1,
+              "moduleName": 12,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=adjectives.core.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 12,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "adjectives",
+                "activity": "buggy"
+              },
+              "route": "/lesson/adjectives/activity/buggy/rank/2?content=adjectives.core.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Big Speller",
+                "zh_hans": "巨大拼字机",
+                "zh_hant": "巨大拼字機"
+              },
+              "descs": {
+                "gb": "Spell six adjectives.",
+                "zh_hans": "拼出六种形容词",
+                "zh_hant": "拼出六種形容詞"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 12,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "sights",
+                "activity": "wall"
+              },
+              "route": "/lesson/sights/activity/wall/rank/1?content=sights.K1.EFGH",
+              "home": true,
+              "titles": {
+                "gb": "Word Wall",
+                "zh_hans": "文字墙",
+                "zh_hant": "文字牆"
+              },
+              "descs": {
+                "gb": "Learn \"it, is, no, yes\".",
+                "zh_hans": "学习it,is,no,yes",
+                "zh_hant": "學習it,is,no,yes"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 1,
+              "moduleName": 12,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=adjectives.core.ABCDEF-spots.feelings.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "adjectives.core.ABCDEF",
+          "contentItems": {
+            "big": "big",
+            "small": "small",
+            "long": "long",
+            "short": "short",
+            "fast": "fast",
+            "slow": "slow"
+          }
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "icon": "animals",
+      "titles": {
+        "gb": "Animals",
+        "zh_hans": "动物",
+        "zh_hant": "動物"
+      },
+      "modules": [
+        {
+          "index": 1,
+          "week": "1",
+          "day": "1",
+          "focus": "Spotlight",
+          "lesson": "1",
+          "icon": {
+            "type": "content",
+            "word": "spot_in"
+          },
+          "titles": {
+            "gb": "Prepositions",
+            "zh_hans": "介系词",
+            "zh_hant": "介系詞"
+          },
+          "activities": [
+            {
+              "unitName": 2,
+              "moduleName": 1,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=spots.prepositions.ABD",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 1,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "prepositions",
+                "activity": "poster"
+              },
+              "route": "/lesson/prepositions/activity/poster/rank/1?content=spots.prepositions.ABD",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Prepositions",
+                "zh_hans": "介系词",
+                "zh_hant": "介系詞"
+              },
+              "descs": {
+                "gb": "Introduce prepositions.",
+                "zh_hans": "学习介系词",
+                "zh_hant": "學習介系詞"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 1,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "adjectives",
+                "activity": "buggy"
+              },
+              "route": "/lesson/adjectives/activity/buggy/rank/2?content=adjectives.core.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Big Speller",
+                "zh_hans": "巨大拼字机",
+                "zh_hant": "巨大拼字機"
+              },
+              "descs": {
+                "gb": "Spell six adjectives.",
+                "zh_hans": "拼出六种形容词",
+                "zh_hant": "拼出六種形容詞"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 1,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=spots.prepositions.ABD-phonemes.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "spots.prepositions.ABD",
+          "contentItems": {
+            "spot_in": "in",
+            "spot_on": "on",
+            "spot_under": "under"
+          }
+        },
+        {
+          "index": 2,
+          "week": "1",
+          "day": "2",
+          "focus": "Spotlight",
+          "lesson": "2",
+          "icon": {
+            "type": "content",
+            "word": "monkey"
+          },
+          "titles": {
+            "gb": "Hidden Animals",
+            "zh_hans": "动物捉迷藏",
+            "zh_hant": "動物捉迷藏"
+          },
+          "activities": [
+            {
+              "unitName": 2,
+              "moduleName": 2,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=animals.core.CDEFI",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 2,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "silhouette"
+              },
+              "route": "/lesson/animals/activity/silhouette/rank/2?content=animals.core.CDEFI",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Hidden Animals",
+                "zh_hans": "隐藏的动物",
+                "zh_hant": "隱藏的動物"
+              },
+              "descs": {
+                "gb": "Introduce new animals.",
+                "zh_hans": "介绍新的动物",
+                "zh_hant": "介紹新的動物"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 2,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "prepositions",
+                "activity": "poster"
+              },
+              "route": "/lesson/prepositions/activity/poster/rank/1?content=spots.prepositions.ABD",
+              "home": true,
+              "titles": {
+                "gb": "Prepositions",
+                "zh_hans": "介系词",
+                "zh_hant": "介系詞"
+              },
+              "descs": {
+                "gb": "Introduce prepositions.",
+                "zh_hans": "学习介系词",
+                "zh_hant": "學習介系詞"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 2,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=animals.core.CDEFI-spots.prepositions.ABD",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "animals.core.CDEFI",
+          "contentItems": {
+            "monkey": "monkey",
+            "lion": "lion",
+            "tiger": "tiger",
+            "bear": "bear",
+            "pig": "pig"
+          }
+        },
+        {
+          "index": 3,
+          "week": "1",
+          "day": "3",
+          "focus": "Spotlight",
+          "lesson": "3",
+          "icon": {
+            "type": "content",
+            "word": "spot_on"
+          },
+          "titles": {
+            "gb": "In, On, Under",
+            "zh_hans": "地方介系词",
+            "zh_hant": "地方介系詞"
+          },
+          "activities": [
+            {
+              "unitName": 2,
+              "moduleName": 3,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=spots.prepositions.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 3,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "karaoke",
+                "activity": "in_on_under"
+              },
+              "route": "/lesson/karaoke/activity/in_on_under/rank/2?content=spots.prepositions.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "In, On, Under",
+                "zh_hans": "地方介系词",
+                "zh_hant": "地方介系詞"
+              },
+              "descs": {
+                "gb": "Sing about prepositions.",
+                "zh_hans": "唱有关介系词的歌",
+                "zh_hant": "唱有關介系詞的歌"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 3,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "silhouette"
+              },
+              "route": "/lesson/animals/activity/silhouette/rank/2?content=animals.core.CDEFI",
+              "home": true,
+              "titles": {
+                "gb": "Hidden Animals",
+                "zh_hans": "隐藏的动物",
+                "zh_hant": "隱藏的動物"
+              },
+              "descs": {
+                "gb": "Introduce new animals.",
+                "zh_hans": "介绍新的动物",
+                "zh_hant": "介紹新的動物"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 3,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=spots.prepositions.ABCDEF-animals.core.CDEFI",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "spots.prepositions.ABCDEF",
+          "contentItems": {
+            "spot_in": "in",
+            "spot_on": "on",
+            "spot_in_front_of": "in front of",
+            "spot_under": "under",
+            "spot_behind": "behind",
+            "spot_between": "between"
+          }
+        },
+        {
+          "index": 4,
+          "week": "1",
+          "day": "4",
+          "focus": "Spotlight",
+          "lesson": "4",
+          "icon": {
+            "type": "content",
+            "word": "phonemes_dr"
+          },
+          "titles": {
+            "gb": "Sound of Dr",
+            "zh_hans": "DR的发音",
+            "zh_hant": "DR的發音"
+          },
+          "activities": [
+            {
+              "unitName": 2,
+              "moduleName": 4,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=phonemes.K2.ABCDEFGH",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 4,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "tree"
+              },
+              "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K2.ABCDEFGH",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Sound of Dr",
+                "zh_hans": "DR的发音",
+                "zh_hant": "DR的發音"
+              },
+              "descs": {
+                "gb": "Learn 'dr' phonics.",
+                "zh_hans": "学习'dr'的自然发音",
+                "zh_hant": "學習'dr'的自然發音"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 4,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "karaoke",
+                "activity": "in_on_under"
+              },
+              "route": "/lesson/karaoke/activity/in_on_under/rank/2?content=spots.prepositions.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "In, On, Under",
+                "zh_hans": "地方介系词",
+                "zh_hant": "地方介系詞"
+              },
+              "descs": {
+                "gb": "Sing about prepositions.",
+                "zh_hans": "唱有关介系词的歌",
+                "zh_hant": "唱有關介系詞的歌"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 4,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=phonemes.K2.ABCDEFGH-phonics.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "phonemes.K2.ABCDEFGH",
+          "contentItems": {
+            "phonemes_dr": "dr",
+            "phonemes_tr": "tr"
+          }
+        },
+        {
+          "index": 5,
+          "week": "2",
+          "day": "1",
+          "focus": "Spotlight",
+          "lesson": "5",
+          "icon": {
+            "type": "content",
+            "word": "lion"
+          },
+          "titles": {
+            "gb": "Find Dr",
+            "zh_hans": "丛林动物",
+            "zh_hant": "叢林動物"
+          },
+          "activities": [
+            {
+              "unitName": 2,
+              "moduleName": 5,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=animals.core.CDEFI",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 5,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "whack"
+              },
+              "route": "/lesson/animals/activity/whack/rank/2?content=animals.core.CDEFI",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Find Dr",
+                "zh_hans": "丛林动物",
+                "zh_hant": "叢林動物"
+              },
+              "descs": {
+                "gb": "Practice plurals.",
+                "zh_hans": "练习复数",
+                "zh_hant": "練習複數"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 5,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "tree"
+              },
+              "route": "/lesson/phonics/activity/tree/rank/1?content=phonemes.K2.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Sound of Dr",
+                "zh_hans": "DR的发音",
+                "zh_hant": "DR的發音"
+              },
+              "descs": {
+                "gb": "Learn 'dr' phonics.",
+                "zh_hans": "学习'dr'的自然发音",
+                "zh_hant": "學習'dr'的自然發音"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 5,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=animals.core.CDEFI-phonemes.K2.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "animals.core.CDEFI",
+          "contentItems": {
+            "monkey": "monkey",
+            "lion": "lion",
+            "tiger": "tiger",
+            "bear": "bear",
+            "pig": "pig"
+          }
+        },
+        {
+          "index": 6,
+          "week": "2",
+          "day": "2",
+          "focus": "Spotlight",
+          "lesson": "6",
+          "icon": {
+            "type": "content",
+            "word": "sight_how"
+          },
+          "titles": {
+            "gb": "Word Blast",
+            "zh_hans": "文字炫风",
+            "zh_hant": "文字炫風"
+          },
+          "activities": [
+            {
+              "unitName": 2,
+              "moduleName": 6,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=sights.K2.ABCD",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 6,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "sights",
+                "activity": "blast"
+              },
+              "route": "/lesson/sights/activity/blast/rank/1?content=sights.K2.ABCD",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Word Blast",
+                "zh_hans": "文字炫风",
+                "zh_hant": "文字炫風"
+              },
+              "descs": {
+                "gb": "Learn \"how, be, fine, thank\".",
+                "zh_hans": "学习how,be,fine,thank",
+                "zh_hant": "學習how,be,fine,thank"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 6,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "whack"
+              },
+              "route": "/lesson/animals/activity/whack/rank/2?content=animals.core.CDEFI",
+              "home": true,
+              "titles": {
+                "gb": "Find Dr",
+                "zh_hans": "丛林动物",
+                "zh_hant": "叢林動物"
+              },
+              "descs": {
+                "gb": "Practice plurals.",
+                "zh_hans": "练习复数",
+                "zh_hant": "練習複數"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 6,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=sights.K2.ABCD-sights.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "sights.K2.ABCD",
+          "contentItems": {
+            "sight_how": "how",
+            "sight_be": "be",
+            "sight_fine": "fine",
+            "sight_thank": "thank"
+          }
+        },
+        {
+          "index": 7,
+          "week": "2",
+          "day": "3",
+          "focus": "Theme",
+          "lesson": "1",
+          "icon": {
+            "type": "content",
+            "word": "bear"
+          },
+          "titles": {
+            "gb": "Lions and Bears",
+            "zh_hans": "狮子与熊",
+            "zh_hant": "獅子與熊"
+          },
+          "activities": [
+            {
+              "unitName": 2,
+              "moduleName": 7,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=animals.core.ABCDEFGHIJ",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 7,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "twobytwo"
+              },
+              "route": "/lesson/animals/activity/twobytwo/rank/2?content=animals.core.ABCDEFGHIJ",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Lions and Bears",
+                "zh_hans": "狮子与熊",
+                "zh_hant": "獅子與熊"
+              },
+              "descs": {
+                "gb": "Review animals and plurals.",
+                "zh_hans": "复习动物和复数",
+                "zh_hant": "複習動物和複數"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 7,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "sights",
+                "activity": "blast"
+              },
+              "route": "/lesson/sights/activity/blast/rank/1?content=sights.K2.ABCD",
+              "home": true,
+              "titles": {
+                "gb": "Word Blast",
+                "zh_hans": "文字炫风",
+                "zh_hant": "文字炫風"
+              },
+              "descs": {
+                "gb": "Learn \"how, be, fine, thank\".",
+                "zh_hans": "学习how,be,fine,thank",
+                "zh_hant": "學習how,be,fine,thank"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 7,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=animals.core.ABCDEFGHIJ-sights.K2.ABCD",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "animals.core.ABCDEFGHIJ",
+          "contentItems": {
+            "cat": "cat",
+            "dog": "dog",
+            "monkey": "monkey",
+            "lion": "lion",
+            "tiger": "tiger",
+            "bear": "bear",
+            "rabbit": "rabbit",
+            "mouse": "mouse",
+            "pig": "pig",
+            "bird": "bird"
+          }
+        },
+        {
+          "index": 8,
+          "week": "2",
+          "day": "4",
+          "focus": "Theme",
+          "lesson": "2",
+          "icon": {
+            "type": "content",
+            "word": "rabbit"
+          },
+          "titles": {
+            "gb": "Ten Shadows",
+            "zh_hans": "黑影动物",
+            "zh_hant": "黑影動物"
+          },
+          "activities": [
+            {
+              "unitName": 2,
+              "moduleName": 8,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=animals.core.ABCDEFGHIJ",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 8,
+              "rank": "3",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "silhouette"
+              },
+              "route": "/lesson/animals/activity/silhouette/rank/3?content=animals.core.ABCDEFGHIJ",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Ten Shadows",
+                "zh_hans": "黑影动物",
+                "zh_hant": "黑影動物"
+              },
+              "descs": {
+                "gb": "Discover ten animals.",
+                "zh_hans": "找出十种动物",
+                "zh_hant": "找出十種動物"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 8,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "twobytwo"
+              },
+              "route": "/lesson/animals/activity/twobytwo/rank/2?content=animals.core.ABCDEFGHIJ",
+              "home": true,
+              "titles": {
+                "gb": "Lions and Bears",
+                "zh_hans": "狮子与熊",
+                "zh_hant": "獅子與熊"
+              },
+              "descs": {
+                "gb": "Review animals and plurals.",
+                "zh_hans": "复习动物和复数",
+                "zh_hant": "複習動物和複數"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 8,
+              "rank": "3",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=animals.core.ABCDEFGHIJ-adjectives.core.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "animals.core.ABCDEFGHIJ",
+          "contentItems": {
+            "cat": "cat",
+            "dog": "dog",
+            "monkey": "monkey",
+            "lion": "lion",
+            "tiger": "tiger",
+            "bear": "bear",
+            "rabbit": "rabbit",
+            "mouse": "mouse",
+            "pig": "pig",
+            "bird": "bird"
+          }
+        },
+        {
+          "index": 9,
+          "week": "3",
+          "day": "1",
+          "focus": "Theme",
+          "lesson": "3",
+          "icon": {
+            "type": "content",
+            "word": "tiger"
+          },
+          "titles": {
+            "gb": "Animals Up There",
+            "zh_hans": "动物乐团",
+            "zh_hant": "動物樂團"
+          },
+          "activities": [
+            {
+              "unitName": 2,
+              "moduleName": 9,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=animals.core.ABCDEFGHIJ",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 9,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "song"
+              },
+              "route": "/lesson/animals/activity/song/rank/2?content=animals.core.ABCDEFGHIJ",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Animals Up There",
+                "zh_hans": "这里有动物吗",
+                "zh_hant": "這裡有動物嗎"
+              },
+              "descs": {
+                "gb": "Sing about the animals.",
+                "zh_hans": "边唱边学动物",
+                "zh_hant": "邊唱邊學動物"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 9,
+              "rank": "3",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "silhouette"
+              },
+              "route": "/lesson/animals/activity/silhouette/rank/3?content=animals.core.ABCDEFGHIJ",
+              "home": true,
+              "titles": {
+                "gb": "Ten Shadows",
+                "zh_hans": "黑影动物",
+                "zh_hant": "黑影動物"
+              },
+              "descs": {
+                "gb": "Discover ten animals.",
+                "zh_hans": "找出十种动物",
+                "zh_hant": "找出十種動物"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 9,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=animals.core.ABCDEFGHIJ-spots.feelings.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "animals.core.ABCDEFGHIJ",
+          "contentItems": {
+            "cat": "cat",
+            "dog": "dog",
+            "monkey": "monkey",
+            "lion": "lion",
+            "tiger": "tiger",
+            "bear": "bear",
+            "rabbit": "rabbit",
+            "mouse": "mouse",
+            "pig": "pig",
+            "bird": "bird"
+          }
+        },
+        {
+          "index": 10,
+          "week": "3",
+          "day": "2",
+          "focus": "Theme",
+          "lesson": "4",
+          "icon": {
+            "type": "content",
+            "word": "phonics_draw"
+          },
+          "titles": {
+            "gb": "Sound of Tr",
+            "zh_hans": "TR的发音",
+            "zh_hant": "TR的發音"
+          },
+          "activities": [
+            {
+              "unitName": 2,
+              "moduleName": 10,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=phonics.K2.ABCDEFGH",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 10,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "sort"
+              },
+              "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K2.ABCDEFGH",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Sound of Tr",
+                "zh_hans": "TR的发音",
+                "zh_hant": "TR的發音"
+              },
+              "descs": {
+                "gb": "Learn 'tr' phonics.",
+                "zh_hans": "学习'tr'的自然发音",
+                "zh_hant": "學習'tr'的自然發音"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 10,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "song"
+              },
+              "route": "/lesson/animals/activity/song/rank/2?content=animals.core.ABCDEFGHIJ",
+              "home": true,
+              "titles": {
+                "gb": "Animals Up There",
+                "zh_hans": "这里有动物吗",
+                "zh_hant": "這裡有動物嗎"
+              },
+              "descs": {
+                "gb": "Sing about the animals.",
+                "zh_hans": "边唱边学动物",
+                "zh_hant": "邊唱邊學動物"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 10,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=phonics.K2.ABCDEFGH-phonemes.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "phonics.K2.ABCDEFGH",
+          "contentItems": {
+            "phonics_draw": "draw",
+            "phonics_dress": "dress",
+            "phonics_drink": "drink",
+            "phonics_drive": "drive",
+            "phonics_train": "train",
+            "phonics_tree": "tree",
+            "phonics_tray": "tray",
+            "phonics_tram": "tram"
+          }
+        },
+        {
+          "index": 11,
+          "week": "3",
+          "day": "3",
+          "focus": "Theme",
+          "lesson": "5",
+          "icon": {
+            "type": "content",
+            "word": "bird"
+          },
+          "titles": {
+            "gb": "Forest Animals",
+            "zh_hans": "巨大动物乐团",
+            "zh_hant": "巨大動物樂團"
+          },
+          "activities": [
+            {
+              "unitName": 2,
+              "moduleName": 11,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=animals.core.ABCDEFGHIJ",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 11,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "band"
+              },
+              "route": "/lesson/animals/activity/band/rank/2?content=animals.core.ABCDEFGHIJ",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Forest Animals",
+                "zh_hans": "巨大动物乐团",
+                "zh_hant": "巨大動物樂團"
+              },
+              "descs": {
+                "gb": "Identify ten animals.",
+                "zh_hans": "辨别十种动物",
+                "zh_hant": "辨別十種動物"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 11,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "sort"
+              },
+              "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K2.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Sound of Tr",
+                "zh_hans": "TR的发音",
+                "zh_hant": "TR的發音"
+              },
+              "descs": {
+                "gb": "Learn 'tr' phonics.",
+                "zh_hans": "学习'tr'的自然发音",
+                "zh_hant": "學習'tr'的自然發音"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 11,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=animals.core.ABCDEFGHIJ-phonics.K2.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "animals.core.ABCDEFGHIJ",
+          "contentItems": {
+            "cat": "cat",
+            "dog": "dog",
+            "monkey": "monkey",
+            "lion": "lion",
+            "tiger": "tiger",
+            "bear": "bear",
+            "rabbit": "rabbit",
+            "mouse": "mouse",
+            "pig": "pig",
+            "bird": "bird"
+          }
+        },
+        {
+          "index": 12,
+          "week": "3",
+          "day": "4",
+          "focus": "Theme",
+          "lesson": "6",
+          "icon": {
+            "type": "content",
+            "word": "sight_a"
+          },
+          "titles": {
+            "gb": "Word Wall",
+            "zh_hans": "文字墙",
+            "zh_hant": "文字牆"
+          },
+          "activities": [
+            {
+              "unitName": 2,
+              "moduleName": 12,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=sights.K2.EFGH",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 12,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "sights",
+                "activity": "wall"
+              },
+              "route": "/lesson/sights/activity/wall/rank/1?content=sights.K2.EFGH",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Word Wall",
+                "zh_hans": "单字墙",
+                "zh_hant": "單字牆"
+              },
+              "descs": {
+                "gb": "Learn \"a, the, and, of\"",
+                "zh_hans": "学习a,the,and,of",
+                "zh_hant": "學習a,the,and,of"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 12,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "spell"
+              },
+              "route": "/lesson/animals/activity/spell/rank/1?content=animals.core.CDEFI",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Spell Animals",
+                "zh_hans": "拼动物的名字",
+                "zh_hant": "拼動物的名字"
+              },
+              "descs": {
+                "gb": "Spell five wild animals.",
+                "zh_hans": "拼出五种野生动物",
+                "zh_hant": "拼出五種野生動物"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 12,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "animals",
+                "activity": "band"
+              },
+              "route": "/lesson/animals/activity/band/rank/2?content=animals.core.ABCDEFGHIJ",
+              "home": true,
+              "titles": {
+                "gb": "Forest Animals",
+                "zh_hans": "巨大动物乐团",
+                "zh_hant": "巨大動物樂團"
+              },
+              "descs": {
+                "gb": "Identify ten animals.",
+                "zh_hans": "辨别十种动物",
+                "zh_hant": "辨別十種動物"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 2,
+              "moduleName": 12,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=sights.K2.EFGH-spots.prepositions.ABDCEF",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "sights.K2.EFGH",
+          "contentItems": {
+            "sight_a": "a",
+            "sight_the": "the",
+            "sight_and": "and",
+            "sight_of": "of"
+          }
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "icon": "house",
+      "titles": {
+        "gb": "The House",
+        "zh_hans": "房屋",
+        "zh_hant": "房屋"
+      },
+      "modules": [
+        {
+          "index": 1,
+          "week": "1",
+          "day": "1",
+          "focus": "Spotlight",
+          "lesson": "1",
+          "icon": {
+            "type": "content",
+            "word": "chair"
+          },
+          "titles": {
+            "gb": "My Home",
+            "zh_hans": "我的家",
+            "zh_hant": "我的家"
+          },
+          "activities": [
+            {
+              "unitName": 3,
+              "moduleName": 1,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=house.furniture.ABC",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 1,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "cutaway"
+              },
+              "route": "/lesson/house/activity/cutaway/rank/1?content=house.furniture.ABC",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "My Home",
+                "zh_hans": "拼家俱的名字",
+                "zh_hant": "拼家俱的名字"
+              },
+              "descs": {
+                "gb": "Spell the furniture.",
+                "zh_hans": "拼出家俱的单字",
+                "zh_hant": "拼出傢俱的單字"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 1,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "sights",
+                "activity": "wall"
+              },
+              "route": "/lesson/sights/activity/wall/rank/1?content=sights.K2.EFGH",
+              "home": true,
+              "titles": {
+                "gb": "Word Wall",
+                "zh_hans": "单字墙",
+                "zh_hant": "單字牆"
+              },
+              "descs": {
+                "gb": "Learn \"a, the, and, of\"",
+                "zh_hans": "学习a,the,and,of",
+                "zh_hant": "學習a,the,and,of"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 1,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=house.furniture.ABC-animals.core.CDEFIABGHJ",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "house.furniture.ABC",
+          "contentItems": {
+            "bed": "bed",
+            "chair": "chair",
+            "table": "table"
+          }
+        },
+        {
+          "index": 2,
+          "week": "1",
+          "day": "2",
+          "focus": "Spotlight",
+          "lesson": "2",
+          "icon": {
+            "type": "content",
+            "word": "spot_on"
+          },
+          "titles": {
+            "gb": "In Front and Behind",
+            "zh_hans": "前面与後面",
+            "zh_hant": "前面與後面"
+          },
+          "activities": [
+            {
+              "unitName": 3,
+              "moduleName": 2,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=spots.prepositions.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 2,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "prepositions",
+                "activity": "poster"
+              },
+              "route": "/lesson/prepositions/activity/poster/rank/1?content=spots.prepositions.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "In Front and Behind",
+                "zh_hans": "前面和後面",
+                "zh_hant": "前面和後面"
+              },
+              "descs": {
+                "gb": "Identify prepositions.",
+                "zh_hans": "辨别介系词",
+                "zh_hant": "辨別介系詞"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 2,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "cutaway"
+              },
+              "route": "/lesson/house/activity/cutaway/rank/1?content=house.furniture.ABC",
+              "home": true,
+              "titles": {
+                "gb": "My Home",
+                "zh_hans": "拼家俱的名字",
+                "zh_hant": "拼家俱的名字"
+              },
+              "descs": {
+                "gb": "Spell the furniture.",
+                "zh_hans": "拼出家俱的单字",
+                "zh_hant": "拼出傢俱的單字"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 2,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=spots.prepositions.ABCDEF-house.furniture.ABC",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "spots.prepositions.ABCDEF",
+          "contentItems": {
+            "spot_in": "in",
+            "spot_on": "on",
+            "spot_in_front_of": "in front of",
+            "spot_under": "under",
+            "spot_behind": "behind",
+            "spot_between": "between"
+          }
+        },
+        {
+          "index": 3,
+          "week": "1",
+          "day": "3",
+          "focus": "Spotlight",
+          "lesson": "3",
+          "icon": {
+            "type": "content",
+            "word": "spot_house"
+          },
+          "titles": {
+            "gb": "Painting In My Room",
+            "zh_hans": "一幅图画",
+            "zh_hant": "一幅圖畫"
+          },
+          "activities": [
+            {
+              "unitName": 3,
+              "moduleName": 3,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=spots.house.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 3,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "karaoke",
+                "activity": "painting_in_my_room"
+              },
+              "route": "/lesson/karaoke/activity/painting_in_my_room/rank/2?content=spots.house.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Painting In My Room",
+                "zh_hans": "一幅图画",
+                "zh_hant": "一幅圖畫"
+              },
+              "descs": {
+                "gb": "Sing about furniture.",
+                "zh_hans": "学习家俱",
+                "zh_hant": "學習傢俱"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 3,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "prepositions",
+                "activity": "poster"
+              },
+              "route": "/lesson/prepositions/activity/poster/rank/1?content=spots.prepositions.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "In Front and Behind",
+                "zh_hans": "前面和後面",
+                "zh_hant": "前面和後面"
+              },
+              "descs": {
+                "gb": "Identify prepositions.",
+                "zh_hans": "辨别介系词",
+                "zh_hant": "辨別介系詞"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 3,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=spots.house.ABCDEF-phonics.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "spots.house.ABCDEF",
+          "contentItems": {
+            "spot_house": "house",
+            "spot_flat": "flat",
+            "spot_room": "room",
+            "spot_cupboard": "cupboard",
+            "spot_painting": "painting",
+            "spot_mirror": "mirror"
+          }
+        },
+        {
+          "index": 4,
+          "week": "1",
+          "day": "4",
+          "focus": "Spotlight",
+          "lesson": "4",
+          "icon": {
+            "type": "content",
+            "word": "phonemes_sp"
+          },
+          "titles": {
+            "gb": "Sound of Sp",
+            "zh_hans": "SP的发音",
+            "zh_hant": "SP的發音"
+          },
+          "activities": [
+            {
+              "unitName": 3,
+              "moduleName": 4,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=phonemes.K3.ABCDEFGH",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 4,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "tree"
+              },
+              "route": "/lesson/phonics/activity/tree/rank/2?content=phonemes.K3.ABCDEFGH",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Sound of Sp",
+                "zh_hans": "SP的发音",
+                "zh_hant": "SP的發音"
+              },
+              "descs": {
+                "gb": "Learn 'sp' phonics.",
+                "zh_hans": "学习'sp'的自然发音",
+                "zh_hant": "學習'sp'的自然發音"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 4,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "karaoke",
+                "activity": "painting_in_my_room"
+              },
+              "route": "/lesson/karaoke/activity/painting_in_my_room/rank/2?content=spots.house.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Painting In My Room",
+                "zh_hans": "一幅图画",
+                "zh_hant": "一幅圖畫"
+              },
+              "descs": {
+                "gb": "Sing about furniture.",
+                "zh_hans": "学习家俱",
+                "zh_hant": "學習傢俱"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 4,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=phonemes.K3.ABCDEFGH-spots.house.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "phonemes.K3.ABCDEFGH",
+          "contentItems": {
+            "phonemes_sp": "sp",
+            "phonemes_sn": "sn"
+          }
+        },
+        {
+          "index": 5,
+          "week": "2",
+          "day": "1",
+          "focus": "Spotlight",
+          "lesson": "5",
+          "icon": {
+            "type": "content",
+            "word": "bed"
+          },
+          "titles": {
+            "gb": "Find Sp",
+            "zh_hans": "椅子和桌子",
+            "zh_hant": "椅子和桌子"
+          },
+          "activities": [
+            {
+              "unitName": 3,
+              "moduleName": 5,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=house.furniture.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 5,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "movers"
+              },
+              "route": "/lesson/house/activity/movers/rank/1?content=house.furniture.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Find Furniture",
+                "zh_hans": "桌子和椅子",
+                "zh_hant": "桌子和椅子"
+              },
+              "descs": {
+                "gb": "Introduce six more items.",
+                "zh_hans": "介绍六种家俱",
+                "zh_hant": "介紹六種傢俱"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 5,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "tree"
+              },
+              "route": "/lesson/phonics/activity/tree/rank/2?content=phonemes.K3.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Sound of Sp",
+                "zh_hans": "SP的发音",
+                "zh_hant": "SP的發音"
+              },
+              "descs": {
+                "gb": "Learn 'sp' phonics.",
+                "zh_hans": "学习'sp'的自然发音",
+                "zh_hant": "學習'sp'的自然發音"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 5,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=house.furniture.ABCDEF-phonemes.K3.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "house.furniture.ABCDEF",
+          "contentItems": {
+            "bed": "bed",
+            "chair": "chair",
+            "table": "table",
+            "sofa": "sofa",
+            "bookcase": "bookcase",
+            "lamp": "lamp"
+          }
+        },
+        {
+          "index": 6,
+          "week": "2",
+          "day": "2",
+          "focus": "Spotlight",
+          "lesson": "6",
+          "icon": {
+            "type": "content",
+            "word": "sight_she"
+          },
+          "titles": {
+            "gb": "Word Blast",
+            "zh_hans": "文字炫风",
+            "zh_hant": "文字炫風"
+          },
+          "activities": [
+            {
+              "unitName": 3,
+              "moduleName": 6,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=sights.K3.ABCD",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 6,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "sights",
+                "activity": "blast"
+              },
+              "route": "/lesson/sights/activity/blast/rank/1?content=sights.K3.ABCD",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Word Blast",
+                "zh_hans": "文字炫风",
+                "zh_hant": "文字炫風"
+              },
+              "descs": {
+                "gb": "Learn \"she, he, over, to\".",
+                "zh_hans": "学习she,he,over,to",
+                "zh_hant": "學習she,he,over,to"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 6,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "movers"
+              },
+              "route": "/lesson/house/activity/movers/rank/1?content=house.furniture.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Find Furniture",
+                "zh_hans": "桌子和椅子",
+                "zh_hant": "桌子和椅子"
+              },
+              "descs": {
+                "gb": "Introduce six more items.",
+                "zh_hans": "介绍六种家俱",
+                "zh_hant": "介紹六種傢俱"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 6,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=sights.K3.ABCD-phonemes.K2.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "sights.K3.ABCD",
+          "contentItems": {
+            "sight_she": "she",
+            "sight_he": "he",
+            "sight_over": "over",
+            "sight_for": "for"
+          }
+        },
+        {
+          "index": 7,
+          "week": "2",
+          "day": "3",
+          "focus": "Theme",
+          "lesson": "1",
+          "icon": {
+            "type": "content",
+            "word": "table"
+          },
+          "titles": {
+            "gb": "Chair and Table",
+            "zh_hans": "家俱店",
+            "zh_hant": "傢俱店"
+          },
+          "activities": [
+            {
+              "unitName": 3,
+              "moduleName": 7,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=house.furniture.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 7,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "furniturestore"
+              },
+              "route": "/lesson/house/activity/furniturestore/rank/1?content=house.furniture.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Chair and Table",
+                "zh_hans": "家俱店",
+                "zh_hant": "傢俱店"
+              },
+              "descs": {
+                "gb": "Identify the furniture.",
+                "zh_hans": "认识家俱",
+                "zh_hant": "認識傢俱"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 7,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "sights",
+                "activity": "blast"
+              },
+              "route": "/lesson/sights/activity/blast/rank/1?content=sights.K3.ABCD",
+              "home": true,
+              "titles": {
+                "gb": "Word Blast",
+                "zh_hans": "文字炫风",
+                "zh_hant": "文字炫風"
+              },
+              "descs": {
+                "gb": "Learn \"she, he, over, to\".",
+                "zh_hans": "学习she,he,over,to",
+                "zh_hant": "學習she,he,over,to"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 7,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=house.furniture.ABCDEF-sights.K3.ABCD",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "house.furniture.ABCDEF",
+          "contentItems": {
+            "bed": "bed",
+            "chair": "chair",
+            "table": "table",
+            "sofa": "sofa",
+            "bookcase": "bookcase",
+            "lamp": "lamp"
+          }
+        },
+        {
+          "index": 8,
+          "week": "2",
+          "day": "4",
+          "focus": "Theme",
+          "lesson": "2",
+          "icon": {
+            "type": "content",
+            "word": "fridge"
+          },
+          "titles": {
+            "gb": "The Right Place",
+            "zh_hans": "考验你的记忆力",
+            "zh_hant": "考驗你的記憶力"
+          },
+          "activities": [
+            {
+              "unitName": 3,
+              "moduleName": 8,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=house.furniture.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 8,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "put"
+              },
+              "route": "/lesson/house/activity/put/rank/1?content=house.furniture.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "The Right Place",
+                "zh_hans": "考验你的记忆力",
+                "zh_hant": "考驗你的記憶力"
+              },
+              "descs": {
+                "gb": "Put things in their places.",
+                "zh_hans": "把家俱放到正确的房间",
+                "zh_hant": "把傢俱放到正確的房間"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 8,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "furniturestore"
+              },
+              "route": "/lesson/house/activity/furniturestore/rank/1?content=house.furniture.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Chair and Table",
+                "zh_hans": "家俱店",
+                "zh_hant": "傢俱店"
+              },
+              "descs": {
+                "gb": "Identify the furniture.",
+                "zh_hans": "认识家俱",
+                "zh_hant": "認識傢俱"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 8,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=house.furniture.ABCDEF-sights.K1.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "house.furniture.ABCDEF",
+          "contentItems": {
+            "bed": "bed",
+            "chair": "chair",
+            "table": "table",
+            "sofa": "sofa",
+            "bookcase": "bookcase",
+            "lamp": "lamp"
+          }
+        },
+        {
+          "index": 9,
+          "week": "3",
+          "day": "1",
+          "focus": "Theme",
+          "lesson": "3",
+          "icon": {
+            "type": "content",
+            "word": "television"
+          },
+          "titles": {
+            "gb": "My Amazing House",
+            "zh_hans": "文字墙",
+            "zh_hant": "文字牆"
+          },
+          "activities": [
+            {
+              "unitName": 3,
+              "moduleName": 9,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=house.furniture.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 9,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "song"
+              },
+              "route": "/lesson/house/activity/song/rank/2?content=house.furniture.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "My Amazing House",
+                "zh_hans": "家之曲",
+                "zh_hant": "家之曲"
+              },
+              "descs": {
+                "gb": "Sing about rooms and things.",
+                "zh_hans": "边唱边学家俱",
+                "zh_hant": "邊唱邊學傢俱"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 9,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "put"
+              },
+              "route": "/lesson/house/activity/put/rank/1?content=house.furniture.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "The Right Place",
+                "zh_hans": "考验你的记忆力",
+                "zh_hant": "考驗你的記憶力"
+              },
+              "descs": {
+                "gb": "Put things in their places.",
+                "zh_hans": "把家俱放到正确的房间",
+                "zh_hant": "把傢俱放到正確的房間"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 9,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=house.furniture.ABCDEF-sights.K2.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "house.furniture.ABCDEF",
+          "contentItems": {
+            "bed": "bed",
+            "chair": "chair",
+            "table": "table",
+            "sofa": "sofa",
+            "bookcase": "bookcase",
+            "lamp": "lamp"
+          }
+        },
+        {
+          "index": 10,
+          "week": "3",
+          "day": "2",
+          "focus": "Theme",
+          "lesson": "4",
+          "icon": {
+            "type": "content",
+            "word": "phonics_snake"
+          },
+          "titles": {
+            "gb": "Sound of Sn",
+            "zh_hans": "认识家俱",
+            "zh_hant": "認識傢俱"
+          },
+          "activities": [
+            {
+              "unitName": 3,
+              "moduleName": 10,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=phonics.K3.ABCDEFGH",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 10,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "sort"
+              },
+              "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K3.ABCDEFGH",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Sound of Sn",
+                "zh_hans": "sn的发音",
+                "zh_hant": "sn的發音"
+              },
+              "descs": {
+                "gb": "Learn 'sn' phonics.",
+                "zh_hans": "学习sn的自然发音",
+                "zh_hant": "學習sn的自然發音"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 10,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "song"
+              },
+              "route": "/lesson/house/activity/song/rank/2?content=house.furniture.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "My Amazing House",
+                "zh_hans": "家之曲",
+                "zh_hant": "家之曲"
+              },
+              "descs": {
+                "gb": "Sing about rooms and things.",
+                "zh_hans": "边唱边学家俱",
+                "zh_hant": "邊唱邊學傢俱"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 10,
+              "rank": "2",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=phonics.K3.ABCDEFGH-adjectives.core.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "phonics.K3.ABCDEFGH",
+          "contentItems": {
+            "phonics_spell": "spell",
+            "phonics_spider": "spider",
+            "phonics_sport": "sport",
+            "phonics_spot": "spot",
+            "phonics_snake": "snake",
+            "phonics_snow": "snow",
+            "phonics_snail": "snail",
+            "phonics_snack": "snack"
+          }
+        },
+        {
+          "index": 11,
+          "week": "3",
+          "day": "3",
+          "focus": "Theme",
+          "lesson": "5",
+          "icon": {
+            "type": "content",
+            "word": "bookcase"
+          },
+          "titles": {
+            "gb": "At Home",
+            "zh_hans": "家俱店",
+            "zh_hant": "傢俱店"
+          },
+          "activities": [
+            {
+              "unitName": 3,
+              "moduleName": 11,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=house.furniture.ABCDEF",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 11,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "sheds"
+              },
+              "route": "/lesson/house/activity/sheds/rank/1?content=house.furniture.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "At Home",
+                "zh_hans": "我的家",
+                "zh_hant": "我的家"
+              },
+              "descs": {
+                "gb": "Follow the objects.",
+                "zh_hans": "\b跟着指令走",
+                "zh_hant": "\b跟著指令走"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 11,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "phonics",
+                "activity": "sort"
+              },
+              "route": "/lesson/phonics/activity/sort/rank/2?content=phonics.K3.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Sound of Sn",
+                "zh_hans": "sn的发音",
+                "zh_hant": "sn的發音"
+              },
+              "descs": {
+                "gb": "Learn 'sn' phonics.",
+                "zh_hans": "学习sn的自然发音",
+                "zh_hant": "學習sn的自然發音"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 11,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=house.furniture.ABCDEF-phonics.K3.ABCDEFGH",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "house.furniture.ABCDEF",
+          "contentItems": {
+            "bed": "bed",
+            "chair": "chair",
+            "table": "table",
+            "sofa": "sofa",
+            "bookcase": "bookcase",
+            "lamp": "lamp"
+          }
+        },
+        {
+          "index": 12,
+          "week": "3",
+          "day": "4",
+          "focus": "Theme",
+          "lesson": "6",
+          "icon": {
+            "type": "content",
+            "word": "sight_at"
+          },
+          "titles": {
+            "gb": "Word Wall",
+            "zh_hans": "拼学家俱的名字",
+            "zh_hant": "拼傢俱的名字"
+          },
+          "activities": [
+            {
+              "unitName": 3,
+              "moduleName": 12,
+              "icon": {
+                "lesson": "none",
+                "activity": "flashcards"
+              },
+              "route": "/activity/flashcards?content=sights.K3.EFGH",
+              "titles": {
+                "gb": "Flashcards",
+                "zh_hant": "單字卡",
+                "zh_hans": "闪卡"
+              },
+              "descs": {
+                "gb": "Prepare yourself.",
+                "zh_hant": "提前預習",
+                "zh_hans": "提前预习"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 12,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "sights",
+                "activity": "wall"
+              },
+              "route": "/lesson/sights/activity/wall/rank/1?content=sights.K3.EFGH",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "Word Wall",
+                "zh_hans": "文字墙",
+                "zh_hant": "文字牆"
+              },
+              "descs": {
+                "gb": "Learn \"on, in, at, to\".",
+                "zh_hans": "学习on,in,at,to",
+                "zh_hant": "學習on,in,at,to"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 12,
+              "rank": "2",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "cutaway"
+              },
+              "route": "/lesson/house/activity/cutaway/rank/2?content=house.furniture.ABCDEF",
+              "home": true,
+              "unique": true,
+              "titles": {
+                "gb": "House Speller",
+                "zh_hans": "拼家俱的名字",
+                "zh_hant": "拼家俱的名字"
+              },
+              "descs": {
+                "gb": "Spell the furniture.",
+                "zh_hans": "拼出家俱的单字",
+                "zh_hant": "拼出傢俱的單字"
+              }
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 12,
+              "rank": "1",
+              "icon": {
+                "type": "activity",
+                "lesson": "house",
+                "activity": "sheds"
+              },
+              "route": "/lesson/house/activity/sheds/rank/1?content=house.furniture.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "At Home",
+                "zh_hans": "我的家",
+                "zh_hant": "我的家"
+              },
+              "descs": {
+                "gb": "Follow the objects.",
+                "zh_hans": "\b跟着指令走",
+                "zh_hant": "\b跟著指令走"
+              },
+              "review": true
+            },
+            {
+              "level": "K",
+              "unitName": 3,
+              "moduleName": 12,
+              "rank": "1",
+              "icon": {
+                "lesson": "none",
+                "activity": "quiz"
+              },
+              "route": "/activity/quiz/rank/3?content=sights.K3.EFGH-spots.feelings.ABCDEF",
+              "home": true,
+              "titles": {
+                "gb": "Quiz",
+                "zh_hant": "小測驗",
+                "zh_hans": "小测验"
+              },
+              "descs": {
+                "gb": "What did you learn?",
+                "zh_hant": "你學到了什麼？",
+                "zh_hans": "你学到了什麽？"
+              }
+            }
+          ],
+          "content": "sights.K3.EFGH",
+          "contentItems": {
+            "sight_on": "on",
+            "sight_in": "in",
+            "sight_at": "at",
+            "sight_to": "to"
+          }
+        }
+      ]
+    }
+  ]
+}
