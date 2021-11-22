@@ -61,7 +61,7 @@ def get_data(use_cache=True, date=None):
                 e['school'] = student['schoolName']
                 e['school_group'] = student['schoolGroupName']
 
-                if e['school_group'] not in ['Xian', '瑞兴艺术幼儿园']:
+                if e['school_group'] not in ['Xian', '興瑞']:
                     junk.append(e)
                     pbar.update()
                     continue
@@ -117,18 +117,18 @@ def score_vs_acc(X, title=''):
     corr, p = stats.pearsonr(scores, accs)
 
     print('Basic stats:')
-    print('\tPearson Correlation: %s (%s)' % (corr, p))
+    print(f'\tPearson Correlation: {corr} ({p})' )
     print('\tScores:')
     print('\t\tMean: %s' % np.mean(scores))
     print('\t\tStd: %s' % np.std(scores))
     print('\tAccuracies:')
-    print('\t\tMean: %s' % np.mean(accs))
-    print('\t\tStd: %s' % np.std(accs))
+    print(f'\t\tMean: { np.mean(accs)}' )
+    print(f'\t\tStd: {np.std(accs)}' )
 
     plt.figure(figsize=(8, 8))
     plt.scatter(scores, accs)
     plt.xlabel('score')
     plt.ylabel('accuracy')
-    plt.title('Correlation of score with accuracy%s'
-              % (' (%s)' % title if title else ''))
+    
+    plt.title(f'Correlation of score with accuracy ({ title if title else ""})' )
     plt.show()
